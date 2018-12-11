@@ -1,0 +1,415 @@
+---
+title: "final_p"
+output: html_document
+---
+
+
+
+```{r, message= FALSE}
+
+
+library(tidyverse)
+data = read_csv("/Users/jonghyuk/Documents/edav_final_pr/survey_results_public.csv") #read the file
+```
+
+
+
+```{r}
+
+data%>%select(`LanguageWorkedWith`,`DevType`,`DatabaseWorkedWith`,`PlatformWorkedWith`,`Country`,`ConvertedSalary`,`Employment`)
+
+```
+
+Only the columns in the above table will be used in the analysis of this data set. The LanguageWorkedWith, DatabaseWorkedWith, and PlatformWorkedWith have data exactly corresponding to their column names and are seperated by semi-colons. DevType have developer type data, where we used it to filter data scientis by finding phrases, 'Data or business analyst' and 'Data scientist or machine learning specialist'. Country column contains country names, ConvertedSalary column contains salary data all converted to USD, and Employement column shows whether a person is a full-time or a part-time employee. We will only focus on the full-time employees. 
+
+```{r}
+library(extracat)
+library(highcharter)
+
+
+d = data%>%select(`LanguageWorkedWith`,`DevType`,`DatabaseWorkedWith`,`PlatformWorkedWith`,`Country`,`ConvertedSalary`,`Employment`)
+
+#visna(d, sort = "b")
+
+missing_d <- (colSums(is.na(d))) #count missing data
+d <- data.frame(names = colnames(d),data = missing_d) #change to data frame
+d = d[order(d$data),] #order by count
+
+
+highchart()%>% 
+  hc_title(text = paste("Missing Data"))%>% #title
+  hc_xAxis(categories = d$names)%>% #xaxis
+  hc_add_series(data = d$data, name = "Count of missing values", type = "bar") #plot
+
+
+#convertedsalary has most missing data
+
+```
+
+Missing Data histogram describes missing data. ConvertedSalary has the most missing data having more than 50000 NA values, whereas Country as almost no NA values. 
+
+
+```{r}
+
+#This code graphs a histogram by mostly used languages in decreasing order.
+#Filters full-time workers, Data Scientists, US workers, and their missing data
+
+library(wordcloud) 
+library(highcharter)
+
+languae_hist = data%>% 
+  filter(Employment %in% 'Employed full-time') %>%  #filter full-time employees
+  filter(!is.na(LanguageWorkedWith))%>% #filter missing data
+  filter(!is.na(DevType)) %>% 
+  filter(DevType %in% c('Data or business analyst','Data scientist or machine learning specialist')) %>% #filter data scientists     
+  filter(Country %in% 'United States') %>% #filter US workers
+  select(LanguageWorkedWith)%>% 
+  mutate(LanguageWorkedWith = str_split(LanguageWorkedWith, pattern = ";"))%>%
+  unnest(LanguageWorkedWith)%>%
+  group_by(LanguageWorkedWith)%>%
+  summarise(Count = n())%>% #count by languages
+  arrange(desc(Count))%>% #reorder in descending order
+  ungroup()%>%
+  mutate(LanguageWorkedWith = reorder(LanguageWorkedWith, Count))
+
+
+#slice only top 20 data 
+languae_hist = slice(languae_hist, 0:20) 
+
+highchart()%>% #
+  hc_title(text = paste("Mostly Used Language"))%>% #title
+  hc_xAxis(categories = languae_hist$LanguageWorkedWith)%>% #xaxis
+  hc_add_series(data = languae_hist$Count, name = "Count", type = "bar") #plot
+```
+
+The purpose of this histogram is to explore which language data scientists use. This data filters full-time  data scientists, working in the US, which conists of 317 rows of data. 
+The X-axis is count, and the Y-axis denotes each languages sorted in decreasing order of the counts.
+As predicted, most data scientists use Python, SQL, and R.
+
+
+
+```{r}
+#This code graphs a histogram by mostly used database in decreasing order.
+#Filters full-time workers, Data Scientists, US workers, and their missing data
+
+
+db_hist = data%>% 
+  filter(Employment %in% 'Employed full-time') %>%  #filter full-time employees
+  filter(!is.na(DatabaseWorkedWith))%>% #filter missing data
+  filter(!is.na(DevType)) %>% 
+  filter(DevType %in% c('Data or business analyst','Data scientist or machine learning specialist')) %>% #filter data scientists     
+  filter(Country %in% 'United States') %>% #filter US workers
+  select(DatabaseWorkedWith)%>% 
+  mutate(DatabaseWorkedWith = str_split(DatabaseWorkedWith, pattern = ";"))%>%
+  unnest(DatabaseWorkedWith)%>%
+  group_by(DatabaseWorkedWith)%>%
+  summarise(Count = n())%>% #count by database
+  arrange(desc(Count))%>% #reorder in descending order
+  ungroup()%>%
+  mutate(DatabaseWorkedWith = reorder(DatabaseWorkedWith, Count))
+
+
+#slice only top 20 data 
+db_hist = slice(db_hist, 0:20) 
+
+#plot in histogram
+highchart()%>% #
+  hc_title(text = paste("Mostly Used Database"))%>% #title
+  hc_xAxis(categories = db_hist$DatabaseWorkedWith)%>% #xaxis
+  hc_add_series(data = db_hist$Count, name = "Count", type = "bar") #plot
+
+
+```
+
+Similar to the previous histogram, this histogram tries to find which database language data scientists use the most. This data filtered full-time employees, data scientists, and US, which consists of 259 rows. The X-axis is count, and the Y-axis denotes each database languages sorted in decreasing order of the counts.
+It is important to note that the filtered data pertain to data scientists only and does not include database managers. The results shows data scientists tend to prefer the most popular database languages.
+
+```{r}
+#This code graphs a histogram by mostly used platforms in decreasing order.
+#Filters full-time workers, Data Scientists, US workers, and their missing data
+
+platform_hist = data%>% 
+  filter(Employment %in% 'Employed full-time') %>%  #filter full-time employees
+  filter(!is.na(PlatformWorkedWith))%>% #filter missing data
+  filter(!is.na(DevType)) %>% 
+  filter(DevType %in% c('Data or business analyst','Data scientist or machine learning specialist')) %>% #filter data scientists     
+  filter(Country %in% 'United States') %>% #filter US workers
+  select(PlatformWorkedWith)%>% 
+  mutate(PlatformWorkedWith = str_split(PlatformWorkedWith, pattern = ";"))%>%
+  unnest(PlatformWorkedWith)%>%
+  group_by(PlatformWorkedWith)%>%
+  summarise(Count = n())%>% #count by languages
+  arrange(desc(Count))%>% #reorder in descending order
+  ungroup()%>%
+  mutate(PlatformWorkedWith = reorder(PlatformWorkedWith, Count))
+
+
+#slice only top 20 data 
+platform_hist = slice(platform_hist, 0:20) 
+
+#plot
+highchart()%>% #
+  hc_title(text = paste("Mostly Used Platform"))%>% #title
+  hc_xAxis(categories = platform_hist$PlatformWorkedWith)%>% #xaxis
+  hc_add_series(data = platform_hist$Count, name = "Count", type = "bar") #plot
+
+
+
+
+
+
+```
+
+This is a histogram of platform usage by data scientists. Again, it filters platform, full-time, and US with 200 rows. The X-axis is count, and the Y-axis denotes each platforms sorted in decreasing order of the counts.
+There is nothing particular interesting about this result, since the three widely used platforms, Linux, mac, and Windows are also most popular platforms for data scientists. 
+
+
+```{r}
+
+#This code graphs a histogram of median salary by mostly used languages by decreasing order.
+#Filters full-time workers, Data Scientists, US workers, and their missing data
+
+
+library(wordcloud)
+library(highcharter)
+
+median_sal_lang = data%>%
+  filter(Employment %in% 'Employed full-time') %>% 
+  filter(!is.na(LanguageWorkedWith))%>%
+  filter(!is.na(DevType)) %>%
+  filter(DevType %in% c('Data or business analyst','Data scientist or machine learning specialist')) %>%     filter(Country %in% 'United States') %>%
+  select(LanguageWorkedWith,ConvertedSalary) %>% #The data already converted salaries to USD
+  mutate(LanguageWorkedWith = str_split(LanguageWorkedWith, pattern = ";")) %>%
+  unnest(LanguageWorkedWith) %>%
+  group_by(LanguageWorkedWith) %>%
+  summarise(Median_Salary = median(ConvertedSalary,na.rm = TRUE)) %>% #summarise each language by salary
+  arrange(desc(Median_Salary))%>% #descending order
+  ungroup()%>%
+  mutate(LanguageWorkedWith = reorder(LanguageWorkedWith, Median_Salary))
+
+#slice top 20 data
+median_sal_lang = slice(median_sal_lang, 0:20)
+
+#plot
+highchart()%>%
+  hc_title(text = paste("Median Salary by Language"))%>%
+  hc_xAxis(categories = median_sal_lang$LanguageWorkedWith)%>%
+  hc_add_series(data = median_sal_lang$Median_Salary, name = "Median Salary", type = "bar")
+
+
+
+```
+
+This shows a median salary by language data scientists use, and the data consists of 317 rows. It is interesting to see that the newly introduced languages such as Hack or Scala have higher median salary compared to the well known languages such as Python or R. However, median salary for Python and R are both 100k which corresponds to the overall data scientists' median salary in the US.
+
+
+317
+```{r}
+
+#This code graphs a histogram of median salary by mostly used database by decreasing order.
+#Filters full-time workers, Data Scientists, US workers, and their missing data
+
+library(wordcloud)
+library(highcharter)
+
+median_sal_db = data%>%
+  filter(Employment %in% 'Employed full-time') %>% 
+  filter(!is.na(DatabaseWorkedWith))%>%
+  filter(!is.na(DevType)) %>%
+  filter(DevType %in% c('Data or business analyst','Data scientist or machine learning specialist')) %>%     filter(Country %in% 'United States') %>%
+  select(DatabaseWorkedWith,ConvertedSalary) %>% #The data already converted salaries to USD
+  mutate(DatabaseWorkedWith = str_split(DatabaseWorkedWith, pattern = ";")) %>%
+  unnest(DatabaseWorkedWith) %>%
+  group_by(DatabaseWorkedWith) %>%
+  summarise(Median_Salary = median(ConvertedSalary,na.rm = TRUE)) %>% #summarise each language by salary
+  arrange(desc(Median_Salary))%>% #descending order
+  ungroup()%>%
+  mutate(DatabaseWorkedWith = reorder(DatabaseWorkedWith, Median_Salary))
+#slice top 20 data
+median_sal_db = slice(median_sal_db, 0:20)
+#plot
+highchart()%>%
+  hc_title(text = paste("Median Salary by Database"))%>%
+  hc_xAxis(categories = median_sal_db$DatabaseWorkedWith)%>%
+  hc_add_series(data = median_sal_db$Median_Salary, name = "Median Salary", type = "bar")
+
+```
+
+This data consists of 259 rows. From the graph above, people who use most recently released database languages seem to earn more than the ones which existed for longe time.
+
+
+
+```{r}
+
+library(wordcloud)
+library(highcharter)
+#This code graphs a histogram of median salary by mostly used database by decreasing order.
+#Filters full-time workers, Data Scientists, US workers, and their missing data
+median_sal_plat = data%>%
+  filter(Employment %in% 'Employed full-time') %>% 
+  filter(!is.na(PlatformWorkedWith))%>%
+  filter(!is.na(DevType)) %>%
+  filter(DevType %in% c('Data or business analyst','Data scientist or machine learning specialist')) %>%     filter(Country %in% 'United States') %>%
+  select(PlatformWorkedWith,ConvertedSalary) %>% #The data already converted salaries to USD
+  mutate(PlatformWorkedWith = str_split(PlatformWorkedWith, pattern = ";")) %>%
+  unnest(PlatformWorkedWith) %>%
+  group_by(PlatformWorkedWith) %>%
+  summarise(Median_Salary = median(ConvertedSalary,na.rm = TRUE)) %>% #summarise each language by salary
+  arrange(desc(Median_Salary))%>% #descending order
+  ungroup()%>%
+  mutate(PlatformWorkedWith = reorder(PlatformWorkedWith, Median_Salary))
+
+#slice top 20
+median_sal_plat = slice(median_sal_plat, 0:20)
+
+highchart()%>%
+  hc_title(text = paste("Median Salary by Platform"))%>%
+  hc_xAxis(categories = median_sal_plat$PlatformWorkedWith)%>%
+  hc_add_series(data = median_sal_plat$Median_Salary, name = "Median Salary", type = "bar")
+
+
+```
+
+One interesting information found from this data, which consists of 200 rows is that although Windows is one of the preferred platform by data scientists(rank three in Mostly Used Platform histogram), the medain salary of its users are comparatively lower than other platforms.
+
+
+
+```{r}
+
+library(tidyverse)
+library(ggplot2)
+library(plotly)
+library(stringr)
+library(viridis)
+library(gridExtra)
+library(tidyverse)
+library(highcharter)
+library(plotly)
+library(dygraphs)
+library(lubridate)
+library("viridisLite")
+library(countrycode)
+library(leaflet)
+library(xts)
+library(htmltools)
+
+#This code shows world map by salaries(USD) of Data Scientists 
+
+
+by_country_salary <- data %>% select(Country, ConvertedSalary, DevType) %>%
+   filter(!is.na(DevType)) %>%
+  filter(DevType %in% c('Data or business analyst','Data scientist or machine learning specialist')) %>% #filter data scientists
+  mutate(ConvertedSalary=as.numeric(ConvertedSalary))  %>% filter(!is.na(Country)) %>% filter(!is.na(ConvertedSalary)) %>%
+  group_by(Country) %>% summarize(MedSalary = median(ConvertedSalary, na.rm=TRUE))
+
+data(worldgeojson, package = "highcharter") #using highcharter
+code <- countrycode(by_country_salary$Country, 'country.name', 'iso3c') #get country code
+by_country_salary$iso3 <- code
+by_country_salary$MedSalary <- round(by_country_salary$MedSalary/1000) #round
+
+#plot
+
+highchart() %>% 
+  hc_add_series_map(worldgeojson, by_country_salary, value = "MedSalary", joinBy = "iso3") %>% 
+  hc_colorAxis(stops = color_stops()) %>% 
+  #hc_legend(enabled = TRUE) %>%  
+  hc_title(text = "Median Salary by Country")  %>%
+  hc_tooltip(useHTML = TRUE, headerFormat = "",
+              pointFormat = "Country: {point.Country} / Median Salary: ${point.MedSalary}K") %>% hc_add_theme(hc_theme_google())
+
+
+```
+
+This world map shows median salary for full time data scientists by country. Brighter colored countries have higher median salary, and the darkered colored countries vice versa. The countries without a color are countries with no data.
+
+
+```{r}
+
+
+language_worked_with <- data %>% select(Country, LanguageWorkedWith, DevType) %>%
+   filter(!is.na(DevType)) %>% filter(!is.na(LanguageWorkedWith))
+  filter(DevType %in% c('Data or business analyst','Data scientist or machine learning specialist')) %>% 
+  filter(!is.na(Country)) %>% mutate(LanguageWorkedWith = str_split(LanguageWorkedWith, pattern = ";")) %>%
+unnest(LanguageWorkedWith) %>% group_by(Country, LanguageWorkedWith) %>%
+  summarise(Count = n()) 
+
+write_csv(language_worked_with, path = "language_worked_with_by_country.csv")
+
+
+db_worked_with <- data %>% select(Country, DatabaseWorkedWith, DevType) %>%
+   filter(!is.na(DevType)) %>%
+  filter(DevType %in% c('Data or business analyst','Data scientist or machine learning specialist')) %>% 
+  filter(!is.na(Country)) %>% filter(!is.na(DatabaseWorkedWith))%>% mutate(DatabaseWorkedWith = str_split(DatabaseWorkedWith, pattern = ";")) %>%
+unnest(DatabaseWorkedWith) %>% group_by(Country, DatabaseWorkedWith) %>%
+  summarise(Count = n())
+# %>% summarize(MedSalary = median(ConvertedSalary, na.rm=TRUE))
+write_csv(db_worked_with, path = "Database_worked_with_by_country.csv")
+
+
+
+pt_worked_with <- data %>% select(Country, PlatformWorkedWith, DevType) %>%
+   filter(!is.na(DevType)) %>%
+  filter(DevType %in% c('Data or business analyst','Data scientist or machine learning specialist')) %>% 
+  filter(!is.na(Country)) %>% filter(!is.na(PlatformWorkedWith))%>% mutate(PlatformWorkedWith = str_split(PlatformWorkedWith, pattern = ";")) %>%
+unnest(PlatformWorkedWith) %>% group_by(Country, PlatformWorkedWith) %>%
+  summarise(Count = n())
+# %>% summarize(MedSalary = median(ConvertedSalary, na.rm=TRUE))
+write_csv(pt_worked_with, path = "Platform_worked_with_by_country.csv")
+
+
+
+
+
+```
+
+
+
+
+```{r}
+library(tidyverse)
+library(dplyr)
+
+gender <- data %>% select(Country, Gender, DevType) %>%
+   filter(!is.na(DevType)) %>% filter(!is.na(Gender)) %>% filter(Gender == "Male" | Gender == "Female") %>%
+  filter(DevType %in% c('Data or business analyst','Data scientist or machine learning specialist')) %>% 
+  filter(!is.na(Country))
+
+
+genderMale <- gender %>%
+  filter(Gender =="Male") %>%
+  select(Country,Gender)
+
+genderFemale <- gender %>%
+  filter(Gender =="Female") %>%
+  select(Country,Gender)
+genderMale <- genderMale %>% mutate(Gender = ifelse(Gender == "Male",1,0))
+genderFemale <- genderFemale %>% mutate(Gender = ifelse(Gender == "Female",1,0))
+
+gx = genderMale %>%  group_by(Country) %>% summarise(Frequency = sum(Gender))
+gy = genderFemale %>%  group_by(Country) %>% summarise(Frequency = sum(Gender))
+
+d = merge(gx,gy, by = "Country", all = TRUE)
+colnames(d) <- c("Country", "Male", "Female")
+d[is.na(d)] <- 0
+```
+
+```{r}
+d
+library(plyr)
+counts_m <- ddply(d, .(d$Country, d$Male), nrow)
+names(counts_m) <- c("Country", "Freq")
+colnames(counts_m) <- c("Country", "Count", "Gender")
+counts_m$Gender = ifelse(counts_m$Gender >=0, "Male",-1)
+colnames(counts_m) <- c("Country", "Gender", "Count")
+counts_w <- ddply(d, .(d$Country, d$Female), nrow)
+names(counts_w) <- c("Country", "Freq")
+colnames(counts_w) <- c("Country", "Count", "Gender")
+counts_w$Gender = ifelse(counts_w$Gender >=0, "Female",-1)
+colnames(counts_w) <- c("Country", "Gender", "Count")
+k = rbind(counts_m, counts_w)
+colnames(k) = c("Country", "Gender", "Count")
+k[ , c(2,3)] <- k[ , c(3,2)]
+write_csv(k, path = "gender.csv")
+
+
+```
