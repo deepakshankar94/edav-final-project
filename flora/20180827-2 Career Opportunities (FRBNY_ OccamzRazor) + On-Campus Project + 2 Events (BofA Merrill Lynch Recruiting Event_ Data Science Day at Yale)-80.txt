@@ -1,0 +1,108 @@
+Subject: 2 Career Opportunities (FRBNY, OccamzRazor) + On-Campus Project + 2 Events (BofA Merrill Lynch Recruiting Event, Data Science Day at Yale)
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 8/27/2018, 3:52 PM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+Company
+	
+
+Federal Reserve Bank of NY
+
+Title
+	
+
+Graduate Summer Associate Program- Data & Statistics Group (only open to US Citizens & Perm Residents)
+
+Link
+	
+
+https://frb.taleo.net/careersection/02bcampus/jobdetail.ftl
+
+ 
+
+https://frb.taleo.net/careersection/02bcampus/jobdetail.ftl
+
+Brief Description
+	
+
+The mission of the Data Capabilities Office is to improve the FRBNY’s ability to effectively use data to support the FRBNY’s mission. The DCO is engaged in a multi-year effort to design and build out the FRBNY’s data management program.  The program is supported by two broad areas of practice, Analytics and Usability.   The Graduate Intern will contribute directly to meeting the Central Bank’s objectives towards driving our strategy on data, elevating the capacity for connecting and synthesizing the increasing scale of complex informational sources, and creating insightful analysis.
+
+
+Company
+	
+
+OccamzRazor
+
+Title
+	
+
+Full Stack Engineer
+
+Link
+	
+
+See attached. To apply, please send your resume to tarik@occamzrazor.com.
+
+Brief Description
+	
+
+OccamzRazor is automating the search for a cure to Parkinson’s disease. You will be working as a Full Stack Engineer in a team of highly talented engineers and researchers to expand the capabilities of our existing pipeline. Your role will be that of scientist, researcher and engineer.
+
+Mapping regulators of Efferocytosis - On Campus
+
+Brief description:  Defective efferocytosis, the phagocytic clearance of apoptotic cells, by macrophages is the cause of many human diseases including tumor, autoimmune diseases and atherosclerosis. Enhancing efferocytosis has potential therapeutic benefits. Many key regulators of efferocytosis have been identified, but a systematic approach to map regulators of efferocytosis in an unbiased manner on a genome-wide scale is missing. This project applies innovative genome-wide CRISPR screen to discover novel regulators of macrophage efferocytosis. The NGS data of the screen have already been analyzed and the ranking/score of the top hits are obtained. The students involved in this project are expected to work on: (1) illustration of the data by generating a variety of plots using R/Bioconductor packages; (2) Interpretation of the data using packages such as GSEA, DEPICT, MAGENTA.; (3) query public resources, including GTEx and GEO, to prioritize tissue-relevant and disease-related hits.
+Anticipated workload: 8 hr/week for 8 weeks
+Desired outcome: Results of the analysis are to be incorporated into abstract for presentation in meetings and potentially manuscripts.
+Desired technical/nontechnical skills? R and Bioconductor, Python, Basic knowledge in biology
+To apply: Send your resume to Hanrui at hz2418@cumc.columbia.edu.
+Paid? No
+
+
+Data Science Day at Yale
+On October 27, 2018, the New England Statistical Society (NESS) NextGen Committee will host its inaugural Data Science Day at Yale University! Data Science Day is a one-day conference geared toward undergraduate and graduate students, postdocs, new faculty, new industry employees, and others new to data science.  There will be two keynote speakers:  Katherine Wallman (Chief Statistician at the United States, 1992-2017) and Professor Xiao-Li Meng (Harvard, Whipple V. N. Jones Professor of Statistics, Dean of the Graduate School of Arts and Sciences). We will also have two sets of parallel sessions and a poster competition/session. Details can be found on our website: https://nestat.org/nextgen/dsd/.
+ 
+Registration is $10 for students and $20 for everyone else. You can register at https://nestat.org/nextgen/registration/ (link also appears on the website above). We have limited spacing, so registration is available on a first-come-first-serve basis.
+
+
+4142_image.jpg
+
+At Bank of America Merrill Lynch, we’ll match your drive and ambition to where you can make a real impact.
+
+ 
+
+As one of the world’s largest financial institutions, our global connections allow you to create a career on your own terms.
+
+ 
+
+We invite you to attend the Introduction to Quantitative Strategies event at our New York office on Friday 28 September.
+
+You can find out more about our Summer Internship program, and the type of work you could be involved in. We are accepting online registrations through the campus web site: here
+
+Registration deadline date: Sunday 30 September
+
+We offer a 10 week summer internship program with the Quantitative Strategies Group. We encourage you submit an online application early  through the campus web site: here
+
+Deadline date: Sunday 30 September
+
+ 
+
+ 
+
+Get Started. Apply Now at: campus.bankofamerica.com
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu
+
+Attachments:
+ness_nexgen_dsd_poster.pdf	183 KB
+Full Stack Engineer JD.pdf	163 KB

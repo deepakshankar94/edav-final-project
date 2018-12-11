@@ -1,0 +1,232 @@
+Subject: 6 Career Opportunities + 7 On-Campus Projects + 3 Events (SiriusXM Site Visit)
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 10/5/2018, 11:28 AM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+Company
+	
+
+Graham Capital Management
+
+Title
+	
+
+Fall Data Science Intern
+
+Link
+	
+
+https://grahamcapitalmanagement.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=224
+
+Brief Description
+	
+
+As a Data Scientist Intern, you will work with a trading team within a multi-billion macro hedge fund. You will conduct a specific data science project using your skills in programming, statistics and natural language processing. The project will require you to: automate data collection & cleaning process, conduct data analysis, generate meaningful outputs and standardize certain analytical processes to put into production. You will have the opportunity to apply your data science skills to solve a real-world finance problem and gain exposure to global financial market.
+
+Company
+	
+
+IBM – Chief Analytics Office
+
+Title
+	
+
+Data Science Summer Intern
+
+Link
+	
+
+See attached. IBM CAO will be at the DSI Career Fair to discuss this internship. Application Deadline: 10/11/18.
+
+Brief Description
+	
+
+This position is an internal Data Scientist Intern role with the Chief Analytics Office. You will work alongside consultants, managers, and senior data scientists to enhance business performance through analytics and data science focused initiatives. The position’s main role and responsibilities center on building innovative analytical models, testing and validating models, data gathering and research, fact-based quantitative analysis, interpreting the models in business terms, and communicating findings to business leaders. Are you passionate about harnessing the power of big data and analytics to address real-world business problems and play a key role in influencing change? If so, we want you to apply.
+
+Company
+	
+
+Johnson & Johnson
+
+Title
+	
+
+Multiple Full Time Roles
+
+Link
+	
+
+https://jobs.jnj.com/jobs?page=1&keywords=00001DJM
+
+https://jobs.jnj.com/jobs?page=1&keywords=00001DJO+
+
+https://jobs.jnj.com/jobs?page=1&keywords=00001DJP
+
+Note: J&J will be having a panel event and will also be at the DSI Career Fair next week!
+
+Brief Description
+	
+
+The R&D Data Science team within Janssen is looking for an outstanding senior scientist who is interested in designing, developing, and fielding impactful data science solutions. Our team supports projects from discovery through late development. The senior scientist will help identify viable data science opportunities and then conceive, develop and implement end to end data analytical solutions. There are many ways to explore and analyze data, and this drives the excitement and passion of data scientists at Janssen as many teams are eager to leverage data to drive scientific innovation. The senior scientist will be someone who stays on the cutting edge of the data science field in order to implement novel algorithms that influence decisions at various levels in the organization. The role requires both a broad knowledge of existing machine learning algorithms and creativity to invent and customize when necessary. The senior scientist will be part of a dynamic, accomplished team that supports multiple R&D therapeutic areas in the discovery and development of innovative medicines.
+
+
+Company
+	
+
+PepsiCo
+
+Title
+	
+
+eCommerce Spring/Summer Data Science Intern
+
+Link
+	
+
+See attached. PepsiCo will be at the Career Fair to discuss this role as well.
+
+Brief Description
+	
+
+In order to maintain the necessary pace to meet the growth targets and compete effectively against start-ups or technology competitors requires a step-change in our thinking and traditional approaches to data science. Accordingly, this role will play a critical effort in shaping and executing the global eCommerce growth agenda through leveraging subject matter expertise in machine learning modeling and analysis. S/he will be tasked with partnering across the team to execute on growth opportunities and technical initiatives. Successful performance in the role is measured by quality and impact of this work.
+
+Company
+	
+
+Blackstone
+
+Title
+	
+
+Data Scientist – Full Time
+
+Link
+	
+See attached. To apply, send your resume and cover letter to Kate at Kate.Rubenstein@blackstone.com.
+
+Brief Description
+	
+
+Blackstone is looking to hire a passionate data scientist to be an integral member of Blackstone’s Data Science Team. We are a new and growing team using data science to provide a competitive advantage to our investment professionals and management teams, allowing Blackstone to be a more efficient investor and owner of assets. This individual will play a key role in accelerating this evolution within Blackstone and in using data to impact investment decisions and management of our portfolio companies. Data scientists work directly with investment professionals and senior management of portfolio companies to define and deliver projects.
+
+Company
+	
+
+SecurityScorecard
+
+Title
+	
+
+Senior Product Manager, Analytics
+
+Link
+	
+https://boards.greenhouse.io/securityscorecard/jobs/1322009?gh_src=e236cf8c1
+
+Brief Description
+	
+
+The Senior Product Manager for Analytics will report to our VP of Product and will be crucial to the development of SecurityScorecard’s dashboard and analytics capabilities. To be successful, you should be proactive and able to effectively engage cross-functionally. You should also be skilled at synthesizing many information streams into clear, effective, roadmaps and communications.
+
+ON-CAMPUS PROJECTS
+
+Stan Improvement Project
+
+Overview: There is a lot of functionality we'd like to add to the core of
+Stan in the way of functions or improvements on existing functions.
+This is things like distributions, mathematical functions, more
+accurate or faster derivatives, etc.  This is all C++. 
+-We could use help doing things like providing executables for
+various platforms, including something that would run on scalable
+clusters on AWS using our MPI (multi-core) and GPU technologies.
+Or something that would easily run on the cluster at Columbia.
+This is more of a systems computer science role, and we're very
+short of that on our team of mostly academics.
+-If someone really wanted to dive into C++ we could use help
+reorganizing our template metaprograms and extending a lot our
+matrix library to use expression templates.
+-If someone really wants to dive into Python, there are packages
+we have in R and functionality in RStan that we would love to
+extend to Python.  These include things like interactive visualizations
+and leave-one-out cross-validation.  Jonah manages most of those
+here and the PyStan team is in Indiana and Helsinki and happy to
+support efforts along these lines.
+
+Interested in learning more or applying? Please email Bob Carpenter (carp@alias-i.com>) and cc Andrew Gelman (gelman@stat.columbia.edu) on your email. Please include your resume.
+
+Data Acquisition for Sports Inequity Project
+Brief description: Explore inequity in access to sport opportunities by home sports team
+Anticipated workload and duration: 4 hr/week for 12 weeks - full semester
+Desired outcome from Data Science Institute talent: A blog post and a data brief-style manuscript
+Desired technical/nontechnical skills? HTML data scrapping, GIS, basic population health
+To apply: Email resume to Claire at ycw2102@columbia.edu.
+Paid?  Maybe
+
+Text/Sentiment Analysis for Medical Residency Initiative
+Brief description: P&S is piloting a national AAMC initiative, Entrustable Professional Activities which include 13 activities that all medical students should be able to perform upon entering residency, regardless of their future career specialty. The guidelines are based on emerging literature documenting a performance gap at the transition point between medical school and residency training. Entrustable Professional Activities (EPAs) were chosen as the framework for the guide because they offer a practical approach to assessing competence in real-world settings and impact both learners and patients.
+Anticipated workload and duration: 5 hr/week for 10 weeks
+Desired outcome from Data Science Institute talent: textual analytics/sentiment analysis
+Desired technical/nontechnical skills? data mining/text analytics/sentiment analysis
+To apply: Send your resume to al3889@cumc.columbia.edu.
+Paid? Maybe
+
+Image Analysis for Complex Neural Data
+Brief description: Analyzing calcium imaging data from brain regions involved in emotional behavior
+Anticipated workload and duration: 10-15 hr/week for 1 year
+Desired outcome from Data Science Institute talent: Develop code for visualizing and analyzing complex neural data
+Desired technical/nontechnical skills? SQL, python (pandas, plotly, seaborn)
+To apply: Send an email with CV to jeb2242@columbia.edu
+Paid? No
+
+Association Analysis for Bariatric Surgeries
+Brief description: We are trying to determine the association of metabolomic profiles with long term outcomes of bariatric surgery in a small cohort of adults.
+Anticipated workload and duration of this project: 10 hr/week for 12 weeks
+Desired outcome from Data Science Institute talent: Mutual learning
+Desired technical/nontechnical skills? Knowledge of R/Python/unix etc. Good communication skills always helps.
+To apply: Send your resume to Vidhu at vvt2114@cumc.columbia.edu.
+Paid? No
+
+Pipeline Development for Data Sequencing
+Brief description: Developing a pipeline for targeted resequencing of ~100 genes
+Anticipated workload and duration: 10 hours for 12 weeks
+Desired outcome from Data Science Institute talent: Set up the pipeline and teach our team to run it.
+Desired technical/nontechnical skills? Some knowledge of working with sequencing data
+Required domain knowledge: Sequencing data alignment
+To apply: Send your resume to Vidhu at vvt2114@cumc.columbia.edu.
+Paid? Maybe
+
+Data Mapping for Marine Observation
+Brief description: Data map for marine observation and data conversion of 3 paper forms to digital using tablets input device. Data map to display data location and data points for analysis. Separation of public/private data on map site. A display showing parameter warnings either as analog indicator or digital ie. red, yellow, green. Method to compile data for different types of analysis.
+Anticipated workload and duration: 5hr/week for 12 weeks or more
+Desired outcome from Data Science Institute talent: 1) 3 different paper form for 13 sites converted to a tablet input method. 2) Data visualization site. 3) Make a public/private map site showing the location of field sites and the data available at those sites. 4) Method for public and private groups to upload data to map site. 5) Fire wall protection so private sector can separate there data from public data. 6) Method for digital data to be exported to other software for analysis. 7) Alert page showing state of sampled parameters (status indicator: red, yellow, green). 8) (possibility of inputting data) scanning for 119 years of archived data.
+Desired technical/nontechnical skills? GIS people, tablet input developers, server developers, data input personal, webpage developers and software people.
+To apply:  Send resume to Rischard at r.sheryll@columbia.edu.
+Paid? Maybe
+EVENTS
+
+SiriusXM Site Visit - RSVP NOW!
+Come visit the office of SiriusXM and learn about opportunities to apply your data science degree in the world of radio and media. Join us on Friday, October 19th from 2-4 pm at our midtown Manhattan office. The visit to SiriusXM will include a panel with our senior level data science staff answering your questions about the field of data science and sharing information about opportunities with the company. The panel will be followed by a networking session and a tour of our offices. Please RSVP to Alison.smith@siriusxm.com to reserve your spot. Space is limited and RSVPs will be accepted on a first come first serve basis. Confirmation details will be shared upon RSVP. We look forward to having your join us!
+
+
+
+
+
+
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu
+
+Attachments:
+Co2019 eComm Data Science Intern.pdf	413 KB
+Blackstone Data Scientist_2018.pdf	206 KB
+Data Scientist Intern – Chief Analytics Office.pdf	246 KB

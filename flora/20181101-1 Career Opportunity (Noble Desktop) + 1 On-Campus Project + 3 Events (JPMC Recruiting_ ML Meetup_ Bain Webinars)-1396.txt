@@ -1,0 +1,85 @@
+Subject: 1 Career Opportunity (Noble Desktop) + 1 On-Campus Project + 3 Events (JPMC Recruiting, ML Meetup, Bain Webinars)
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 11/1/2018, 1:26 PM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+Company
+	
+
+Noble Desktop
+
+Title
+	
+
+January Bootcamp Instructor
+
+Link
+	
+
+See attached.
+
+Brief Description
+	
+
+The job will entail teaching a class of 10 undergraduate students Python for Data Science. The course runs from 10am – 5pm on Jan 14-18– with a one hour lunch in Midtown. The job entails teaching the students the basics of Python and moving into Pandas & Matplotlib. Most of the curriculum will be curated for you and there is no grading.
+
+ON-CAMPUS PROJECT
+Augmented Reality and Immersive Technology- Electric Fields
+Brief description: The use of Augmented Reality and Immersive Technology in developing students' understanding surrounding electric fields. Learners will be using the technology to formulate an understanding of the representations and develop the skill of representational competence in the realm of secondary physics.
+Anticipated duration: Through Spring 2019.
+Desired outcome from Data Science Institute talent: I would like someone that helps with two sides: development of the augmented reality application and implementation of data collection processes within the technology. After the application is created and the study is run, interested parties could stay to help with analysis of the data, as it will most likely be of log-data nature.
+Desired technical/nontechnical skills? Programming in C# or game design experience.
+To apply: Email Aakash at ask2229@tc.columbia.edu.
+Paid? Maybe
+
+EVENTS
+JPMC Flagship Event
+RSVP: https://jpmc.recsolu.com/external/events/N9aMJgznFS8Rpqes_cOh2w
+
+
+
+Machine Learning for Casual Inference Meetup
+Thursday, November 15, 2018
+6:30 PM to 8:00 PM
+Join Comet.ml and Two Sigma Ventures to learn about using machine learning for casual inference on November 15th. 
+
+Our speaker for the evening, Yixin Wang, is a Columbia statistics PhD candidate advised Profesor David Blei. Her work proposes an algorithm that combines unsupervised machine learning and predictive model checking to perform causal inference in settings with multiple variables of interest. We'll be reviewing three examples with genomic data, smoking and lung cancer, and actors and movie revenue.
+
+Food & beverages provided along with networking opportunities — RSVP at https://www.meetup.com/NYC-Artificial-Intelligence-Machine-Learning/events/255165202/
+
+
+BAIN & CO. UPCOMING WEBINARS
+
+Artificial Intelligence & Machine Learning: An insightful but critical introduction to artificial intelligence and machine learning
+
+Monday, November 5th at 12:00pm EST
+
+ 
+
+Transfer Learning: Learn about data science and advanced analytics at Bain
+
+Wednesday, November 14th at 12:00pm EST
+
+ 
+
+Blockchain: Discuss Distributed Ledger Technology use cases, adoption and standardization across a variety of industries
+
+Monday, November 26th at 7:00pm EST
+
+
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu
+
+Attachments:
+Job Post for Data Science.docx	1.3 MB

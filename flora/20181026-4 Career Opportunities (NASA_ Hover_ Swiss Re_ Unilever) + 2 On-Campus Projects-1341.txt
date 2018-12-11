@@ -1,0 +1,144 @@
+Subject: 4 Career Opportunities (NASA, Hover, Swiss Re, Unilever) + 2 On-Campus Projects
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 10/26/2018, 1:25 PM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+Company
+	
+
+National Aeronautics and Space Administration(NASA) - Goddard Institute for Space Studies
+
+Title
+	
+
+Software Engineer
+
+Link
+	
+
+https://www.giss.nasa.gov/about/jobs/scispace_20181015.html
+
+Brief Description
+	
+
+The successful candidate will use Python and relevant data and statistical analysis libraries to update and maintain current projects while also taking on new initiatives. The individual will be responsible for material related to the NASA Goddard Institute for Space Studies (GISS) Temperature Analysis (GISTEMP) and will support local science teams at GISS as well as various educational institutions and government agencies.
+
+Company
+	
+
+Unilever
+
+Title
+	
+
+Data Scientist (Full Time in Trumbull, CT)
+
+Link
+	
+
+See attached. If interested in applying, please send me (Rachel.cohen@columbia.edu) your resume by Monday, 10/29, at 11:59pm.
+
+Brief Description
+	
+
+We are looking for a Data Scientist who will support our Product Innovation and Science & Technology teams in R&D with insights gained from analyzing data. The ideal candidate is adept at using large data sets to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action. They must have strong background in statistical modelling, experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+
+ 
+
+Company
+	
+
+Swiss Re
+
+Title
+	
+
+Analytics Specialist (Data Scientist)
+
+Interns@swissre 2019 - Data Scientist Intern 
+
+Link
+	
+
+Links above.
+
+Brief Description
+	
+
+We're looking for data scientists who have a passion for technology and enjoy realizing new analytical insights, to join our highly skilled global team.  You will work with colleagues from various countries who have studied at  universities around the world and have world class experience which you will be excited to learn from.  You will work closely with many business units and projects which will allow you to actively leverage your technical and quantitative skills. Projects will leverage internal and external data and will allow you to apply analytical methods and algorithms to build, interpret and communicate data insights to business stakeholders. The ideal candidate has a background in computer science/engineering, computational linguistics or information science and possesses working experience in at least one (and ideally a combination) of the following domains: data & text  one (and ideally a combination) of the following domains: data & text mining and information visualization.
+
+Company
+	
+
+HOVER
+
+Title
+	
+
+Multiple Data Roles
+
+Link
+	
+
+https://hover.to/jobs
+
+Brief Description
+	
+
+HOVER is a computer vision/deep-learning startup.  We are building the future of 3D property data with  a platform that lets anyone generate accurate 3D buildings by simply taking a few photos with their smartphone.  From home improvement to commercial property management and insurance, our goal is to change the way you see the world by building the world’s most comprehensive and accurate database of physical properties.
+
+ 
+
+HOVER is a series B startup backed by Google Ventures and Home Depot, amongst others.  HOVER has hired several Columbia graduates in the past and is currently hiring across all groups.  
+
+ 
+
+Our first multi-billion dollar target market is exterior home improvement, one of the few markets that has gone largely  un-disrupted by technology.  
+
+ 
+
+If you are interested please download and evaluate the product, review the job posting, and submit a cover letter in addition to your resume.  
+
+ 
+
+This is a full-time position located in the SOMA neighborhood of San Francisco.
+
+ 
+
+
+ON-CAMPUS PROJECTS
+Using AI for Medical Clinical Performance
+Brief description: Applying artificial intelligence to develop tools that help evaluate the clinical performance of medical professionals.
+Anticipated workload and duration of this project:10-15 hrs/week
+Desired outcome from Data Science Institute talent: We are looking for creative problem-solvers who are interested in engineering a product that uses artificial intelligence to evaluate the clinical performance of medical professionals.
+Desired technical/nontechnical skills?
+- Must have experience coding in python and using machine learning libraries (Keras, Scikit-Learn, etc.)
+- Must have a development background; past projects will be used as verification
+- Strong preference for those with experience in natural language processing
+- Preferred experience using node.js for development
+To apply: Email your resume to Anhphan at al3889@cumc.columbia.edu.
+Paid? No
+
+Data Mapping for Marine Observation
+Brief description: Data map for marine observation and data conversion of 3 paper forms to digital using tablets input device. Data map to display data location and data points for analysis. Separation of public/private data on map site. A display showing parameter warnings either as analog indicator or digital ie. red, yellow, green. Method to compile data for different types of analysis.
+Anticipated workload and duration: 5hr/week for 12 weeks or more
+Desired outcome from Data Science Institute talent: 1) 3 different paper form for 13 sites converted to a tablet input method. 2) Data visualization site. 3) Make a public/private map site showing the location of field sites and the data available at those sites. 4) Method for public and private groups to upload data to map site. 5) Fire wall protection so private sector can separate there data from public data. 6) Method for digital data to be exported to other software for analysis. 7) Alert page showing state of sampled parameters (status indicator: red, yellow, green). 8) (possibility of inputting data) scanning for 119 years of archived data.
+Desired technical/nontechnical skills? GIS people, tablet input developers, server developers, data input personal, webpage developers and software people.
+To apply:  Send resume to Richard at rs3321@columbia.edu.
+Paid? Maybe
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu
+
+Attachments:
+WL1 Modeling and Analytics_JD_Oct_2018 v2.docx	19.2 KB

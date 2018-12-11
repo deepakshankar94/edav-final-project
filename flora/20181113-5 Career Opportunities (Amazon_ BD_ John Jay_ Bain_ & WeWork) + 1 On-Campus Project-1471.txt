@@ -1,0 +1,182 @@
+Subject: 5 Career Opportunities (Amazon, BD, John Jay, Bain, & WeWork) + 1 On-Campus Project
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 11/13/2018, 3:03 PM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+Company
+	
+
+Amazon (Seattle)
+
+Title
+	
+
+Business Intelligence Engineer
+
+Link
+	
+
+https://www.amazon.jobs/en/jobs/737869/bie-trans-performance
+
+ 
+
+To apply, please send your resume to me (Rachel.cohen@columbia.edu) by Thursday, 11/15, at 11:59pm. Please only email me if:
+
+1)You are interested in the role.
+
+2)You would relocate to Seattle.
+
+3)You will be available in Jan/Feb for a full-time position in Seattle. This is NOT an internship.
+
+Brief Description
+	
+
+Amazon is seeking a motivated candidate to provide insights into operational issues, analyze the root cause and provide recommendations for improvements. Role will require data analysis, understanding of the systems workflow, cross-functional communication and issues management.
+
+The successful candidate is passionate about the customer experience, and takes a data-driven approach to identifying and prioritizing the most impactful efforts. You are an excellent communicator at all levels internal and external, both spoken and written. You have an ability to remain flexible in a rapidly changing space and are adept at learning new tools and systems. You thrive in an environment that is deadline driven, fast paced and requires you to be detail-oriented and comfortable interacting or working with cross-functional business and technical teams. You are decisive in an often ambiguous environment.
+
+Company
+	
+
+BD
+
+Title
+	
+Healthcare Analytics Consultant - Client Optimization (in San Diego, CA)
+
+Link
+	
+
+https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/Healthcare-Analytics-Consultant---Client-Optimization_R-321338-1
+
+
+You can apply online and email DSI student Carlo (carlo.provinciali@bd.com) with any questions. Thanks Carlo for sharing this opportunity!
+
+Brief Description
+	
+
+Becton, Dickinson and Company’s Global Customer Services BI & Analytics team has a vision to become a world class center of excellence that provides tangible competitive advantage for BD by delivering actionable intelligence services to the organization. Using knowledge of BD business objectives, strategies and requirements, we identify opportunities where information can be leveraged to achieve significant business benefits. We automate information delivery and communicate insights and benefits so that they are easily understood. Also, we influence management and others to take action to support continuous improvement and greater customer satisfaction. 
+
+Our team is looking for a Healthcare Analytics Consultant that can develop actionable research questions, analyze datasets, define meaningful features, and support the development of an analytics platform. The ideal candidate will be an analytically-driven team player, with excellent attention to detail who wants to explore customer experience improvement opportunities. This position will be responsible for building client-facing custom reports, dashboards, and automate the tracking of client performance during optimization efforts.
+
+Company
+	
+
+John Jay College
+
+Title
+	
+
+Data Manager
+
+PostDoctoral Fellow
+
+Link
+	
+
+See attached.
+
+Brief Description
+	
+
+Data Manager: With support from the National Institute on Aging, we are putting together a research team for an exciting new project that focuses on the impact of early life exposure to child maltreatment on biological aging and risk for cognitive decline, mild cognitive impairment, and Alzheimer’s disease. We will use existing data from multiple waves of an ongoing study of the long-term consequences of abuse and neglect and will embark on a new wave of data collection. This prospective longitudinal design represents a unique opportunity to examine temporal relationships between childhood adversity and these outcomes.
+
+PD Fellow: Position: A 1-year renewable postdoctoral research fellowship is available with Professor C.S. Widom in the Psychology Department at John Jay College of Criminal Justice and the City University of New York, starting immediately. The postdoc will conduct mentored research on a new grant funded by the National Institute on Aging that will focus on the impact of early life exposure to child maltreatment on risk for cognitive decline, mild cognitive impairment, Alzheimer’s disease, and biological aging. The fellow will join a multidisciplinary research group, have access to an extensive longitudinal data set, and have opportunities for training in all aspects of this research, including project conceptualization, data analysis, manuscript preparation, publication, and conference presentations. The Fellow will work closely with Dr. Widom and the principal investigators to analyze and interpret quantitative findings, prepare scholarly journal articles, and present at academic conferences. This person will be expected to work both independently and collaboratively as part of the research team.
+
+Company
+	
+
+Bain
+
+Title
+	
+
+2 Full Time Roles
+
+Link
+	
+
+U.S. – Advanced Analytics Specialist
+
+Europe – Advanced Analytics Specialist
+
+Application deadline - November 30th
+
+Brief Description
+	
+
+The Advanced Analytics Group (AAG) is a team of experts in data science, engineering, marketing science, operations research and primary market research. The Advanced Analytics Specialist works with Bain’s consulting teams to provide high quality results for our clients.
+
+ 
+
+The candidate will also work to advance AAG’s and Bain’s analytic and research capabilities and provide training to the consulting staff as needed.
+
+ 
+
+Company
+	
+
+WeWork
+
+Title
+	
+
+Full Time Jobs & Summer Roles
+
+Link
+	
+
+All roles are posted at careers.wework.com
+
+ 
+
+To apply for a summer internship, apply online.
+
+
+To apply for a full-time job, email your resume with the title of the role to Mitchell at mitchell.silverman@wework.com.
+
+Brief Description
+	
+
+As WeWork continues to rapidly expand and grow, our newly created Revenue Optimization function is focused on building the foundations for pricing / yield management and inventory optimization through state-of-the-art analytics and predictive modelling.
+
+
+ON-CAMPUS PROJECT
+
+Measuring Liberal Arts: Creating an Index for Higher Education
+Description: We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. Potential tasks include:
+
+-- Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project's expanding library of data.
+
+-- Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records.
+
+-- Merging multiple forms of data into a single dataset
+
+-- Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.
+
+Skills:
+
+Candidates must possess fluency in Python, SQL, and Git/Github, as well as a working knowledge of Amazon Web Services (especially EC2 instances and S3 buckets) and the Unix/SSH command line. The ideal candidate will also have a knowledge of machine learning (such as trained classifiers and information extraction), and NLP packages such as NLTK and SpaCy. A basic knowledge of the R programming language, HTML, Docker, and distributed computing technologies (such as Apache Spark) are desirable but not required.
+
+Requirements: The candidate will be part of a research team led by Sociologist Peter Bearman. The current work load is expected to be 20 hours per week for the fall and spring semesters.
+
+Application Details: Contact Michael Falco at incite@columbia.edu with questions or apply by sending a copy of your resume or CV.
+
+Paid? Yes
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu
+
+Attachments:
+Job Posting - Data Manager.pdf	177 KB
+Job Posting - Postdoctoral Fellow.pdf	190 KB

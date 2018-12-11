@@ -1,0 +1,171 @@
+Subject: Re: 3 Career Opportunities (LDEO@CU, Verisk Analytics, Palantir) + 3 On-Campus Projects + 2 Events (Girls' Science Day Volunteering, FinTech Panel)
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 9/18/2018, 2:09 PM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+For the Data Set Prep for Air Pollution on-campus project, you can apply by emailing your CV to Matthew at mn2191@columbia.edu.
+
+On Tue, Sep 18, 2018 at 1:55 PM, Rachel Fuld Cohen <rachel.cohen@columbia.edu> wrote:
+
+
+    Company
+    	
+
+    Verisk Analytics
+
+    Title
+    	
+
+    Data Science Excellence Program
+
+    Link
+    	
+
+    See attached.
+
+    Brief Description
+    	
+
+    Our Data Science Excellence Program consists of three 18-month rotations at different Verisk businesses. This full-time position as a Verisk data scientist provides a competitive salary, long-term incentive awards, and on-the-job training with real-world projects in a variety of disciplines.
+
+     
+
+
+    Company
+    	
+
+    Palantir
+
+    Title
+    	
+
+    R&D Bioinformatics Fellowship
+
+    Link
+    	
+
+    https://jobs.lever.co/palantir/4b4c349f-aee9-45b0-8d46-bd67d7422291
+
+    Brief Description
+    	
+
+    Palantir's two-year research and development fellowship program is an opportunity for enterprising PhD graduates to accelerate the understanding and treatment of devastating human diseases. Between Palantir and its biomedical partners in research institutes, cancer centers, and pharmaceutical companies, Bioinformatics Fellows will have access to a unique ecosystem of data, technology, and expertise in which to pursue bioinformatics research.
+
+
+    Company
+    	
+
+    LDEO of Columbia University
+
+    Title
+    	
+
+    Computational Technology Internships – Fall 2018
+
+    Link
+    	
+
+    http://rte.ldeo.columbia.edu/intern_program/intern_program_fall_2018.html
+
+    Brief Description
+    	
+
+    As part of the Real-Time Earth strategic initiative to enhance the Observatory’s approach to computing and data science, we are seeking six students to participate in a pilot Computational Technology Intern Program during the Fall of 2018. These paid interns will be paired with Lamont scientists and will contribute to ongoing research projects involving scientific computing, machine learning, and big data. The interns will develop software and data-analysis pipelines in support of these projects and will deploy their applications on commercial cloud platforms. In return, interns will gain valuable real-world experience working on challenging and novel problems such as ocean energetics, deep-sea image analysis, and ocean waves in hurricanes.
+
+    On-Campus Projects
+
+    Programmer for Intervention App
+    Brief description: See attached.
+    Anticipated workload and duration: Part-Time for Fall Semester.
+    Desired outcome from Data Science Institute talent: Creation of an app for data collection. More information in the attached.
+    To apply: Please email CV/resume to Jeffrey Birk at jlb2287@cumc.columbia.edu.
+    Paid? Yes 
+
+    Human Solid Organ Transplantation Projects
+
+    Brief description:
+    One or two Fall 2018 internships are available in the Sykes lab to work on a project relating to human solid organ transplantation. For many patients, solid organ transplant is the only available treatment option. However, successful transplantation is limited by rejection of the donor graft by the recipient immune system. The strong immunosuppression necessary to prevent rejection also has many side effects, which negatively impact patient health and quality of life. Our laboratory is at the forefront of research efforts to prevent rejection, studying complex immune cell interactions following solid organ transplant. We have developed a method to track donor-reactive immune cells (allospecific lymphocytes) in the recipient after transplant, using high throughput next generation DNA sequencing approaches, resulting in a large data set. Research will involve analysis of this data to understand temporal stability, expansions, and evolution of these responses at the level of individual cells.
+    -Multiple project opportunities are available, with specific projects in the lab focusing on contributions of allo-specific T- or B-lymphocytes in the context of human intestinal, kidney, and liver transplantation. An additional project will involve generation of a high throughput sequencing platform for tracking lymphocyte clones from miniature swine, a unique large animal transplantation model.
+    -The candidate will develop a mentoring plan and project goals with Dr. Sykes and will work directly with postdoctoral fellows in the lab.
+    Additional Links to :
+    The Columbia Center for Translational Immunology http://www.cumc.columbia.edu/ccti/
+
+    iBiology video lectures by Dr. Sykes on The Immune Response to Allo- and Xeno-Transplantation https://www.ibiology.org/immunology/xenotransplantation/
+
+    Anticipated workload and duration: 5-6 hours /week minimum, may evolve based on depth of project
+    Desired outcome from Data Science Institute talent
+    Assist biomedical researchers (who have limited coding skills) with analysis requiring sophisticated computational methods. The goal will be to develop methods for the analysis of clonal antigen receptor DNA sequences (B cell receptor(BCR) or T cell receptor(TCR)) using clustering based on global and local similarity of sequence motifs, over time from serial patient samples. The project focusing on tracking lymphocytes in the miniature pig model requires assistance in the use of computation to assemble raw sequencing data to define lymphocyte receptor genes. A main focus will be to develop shareable reproducible code for analysis methods developed for the projects.
+    Prerequisites: college level basic biology coursework, computational courses, Skills Sets: R and/or Python
+    To apply:  For interest in thesis level projects, please contact Dr. Sykes at ms3976@cumc.columbia.edu.
+    Paid/funded opportunity? Maybe
+
+     
+
+    Data Set Prep for Air Pollution Study
+
+    Brief description: Explore relationship between air pollution and preferences
+    Anticipated workload and duration: About 40 hours total
+    Desired outcome from Data Science Institute talent: Prepare data set
+    Desired technical/nontechnical skills? ability to convert data from multiple, non-rectangular formats in one, rectangular form
+    To apply: Email CV
+    Paid? Yes
+
+
+    Girls' Science Day Volunteer Meeting
+     
+
+    Date:  Tuesday, September 18th, 2018
+    Time: 8:00 pm - 9:00 pm
+    Location: Miller Room, Havemeyer Hall, Morningside Campus
+
+    Are you interested in outreach?
+    What to show middle school girls how interesting science is?
+
+    Girls' Science Day is looking for volunteers!
+
+    Girls' Science Day is one of the largest science outreach events at Columbia. Every year, about 100 middle school girls come to Columbia, where we show them cool experiments in science. To pull this off, we have many volunteers help us each year. We need people to help us lead experiments and demonstrations, organize logistics, design t-shirts, take photos, and much more! This is a great opportunity for you to gain experience in outreach, meet new people, and work with young students who are excited about science. All volunteers will receive pizza lunch and an awesome t-shirt.
+
+    Girls' Science Day will take place on Saturday, November 10th from 9:00am-4:00pm.
+
+    The first volunteer meeting will be held on Tuesday, September 18th from 8:00-9:00pmin the Miller Room in Havemeyer Hall. Come to this meeting to learn about volunteering at Girls' Science Day!
+
+    Questions about this event? Can't make it but want to learn more? Please contact girlsscienceday@gmail.com
+     
+    Girls' Science Day T-shirt Design Contest
+
+    We are looking for a t-shirt design for Girls Science Day! If you like to draw, have a background in graphic design, or just want a chance to have your art displayed on the shirts, submit your design to us! We will select a winner from the submissions to be featured on the shirts at GSD this year. Submit your design to girlsscienceday@gmail.com by October 5th.
+
+    (Please limit your designs to one color)
+     
+    girlsscienceday.com
+
+    RSVP at: whats-next-in-the-world-of-fintech-columbia-university-fintech-panel
+
+
+    -- 
+    Rachel Fuld Cohen
+
+    Assistant Director of Student Services & Career Development
+    Data Science Institute
+    Columbia University
+    500 West 120th Street
+    Room 432 (Mudd)
+    New York, NY 10027
+    (212)854-9325
+    rachel.cohen@columbia.edu
+
+
+
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu

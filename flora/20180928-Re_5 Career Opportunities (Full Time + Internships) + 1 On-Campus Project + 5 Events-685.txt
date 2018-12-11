@@ -1,0 +1,333 @@
+Subject: Re: 5 Career Opportunities (Full Time + Internships) + 1 On-Campus Project + 5 Events
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 9/28/2018, 3:11 PM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+To apply for the below on-campus project, you can email za2235@cumc.columbia.edu.
+
+Best,
+Rachel 
+
+
+On Fri, Sep 28, 2018 at 10:49 AM Rachel Fuld Cohen <rachel.cohen@columbia.edu> wrote:
+
+    Company
+    	
+
+    Columbia Business School
+
+    Title
+    	
+
+    2 Full Time Roles – Staff Associate & Research Staff Associate
+
+    Link
+    	
+
+    See attached 2 documents.
+
+    Brief Description
+    	
+
+    Columbia Business School is seeking to hire a staff officer of research. The Research Staff Associate will take an active role in on-going research projects in the Management Division. The work will include quantitative and qualitative research and analysis, collection, coordination and management of information and data, development of research materials (figures, presentations, papers, etc.), and work on special projects relating to what fields of research within the division.  This position provides an opportunity to gain experience in academic business research, with a special focus on fields such management, statistics, data science, and economics; and, would be ideal preparation for a PhD program or other graduate study.
+
+    Company
+    	
+
+    Modern Meadow
+
+    Title
+    	
+
+    Data Scientist
+
+    Link
+    	
+
+    http://www.modernmeadow.com/job/?gh_jid=1311490&job
+
+    Brief Description
+    	
+
+    Here at Modern Meadow we are harnessing the power of design, biology, and engineering to produce biofabricated materials. Applying the latest tools of biotechnology, we are creating a new type of materials company. As we continue to grow we are seeking to hire our first Data Scientist who will be adept at wearing several hats!
+
+    Company
+    	
+
+    Purchase Order Financing Startup
+
+    Title
+    	
+
+    Co-founder and Head of Risk
+
+    Link
+    	
+
+    See below. To apply, email your resume to Mike at michaelbeispel@gmail.com.
+
+    Brief Description
+    	
+
+    Company Description:
+
+    We automate purchase order financing by leveraging alternative data sources that look at transaction history, rather than traditional balance sheet lending to expand access to affordable business financing earlier in the procurement cycle. 
+
+     
+
+    Job Description:
+
+    Co-founder and Head of Risk
+
+    You will be designing, testing, and implementing our lending strategy based off of our proprietary data sources.
+
+     
+
+    Desired Technical Skills:
+
+    Background in quantitative risk management 
+
+    Experience in data mining or data analytics
+
+    Experience in loss forcasting
+
+    Company
+    	
+
+    S&P Global
+
+    Title
+    	
+
+    Data Scientist
+
+    Link
+    	
+    https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-US/Data-Scientist_242428
+    S&P will be on campus through CCE – learn more and RSVP here: https://app.joinhandshake.com/events/200956/share_preview
+
+    Brief Description
+    	
+
+    The Data science team is a newly formed applied research team within S&P Global Ratings that will be responsible for building and executing a bold vision around using Machine Learning, Natural Language Processing, Data Science, knowledge engineering, and human computer interfaces for augmenting various business processes.
+
+    Company
+    	
+
+    Bloomberg
+
+    Title
+    	
+
+    Summer 2018 Internship
+
+    Link
+    	
+    https://careers.bloomberg.com/job/detail/68834
+    (Even though the title is SE internship, use this link to apply for DS/ML summer roles as well)
+
+    Brief Description
+    	
+
+    Bloomberg software engineers develop impactful solutions to complex, real-world problems. This is no different for our interns. Engineering interns take ownership of their projects under the mentorship of full-time software engineers. We are looking for top computer science students who are passionate about technology and eager to learn in our high energy, fast-paced environment.
+
+     
+
+    As an intern, you’ll become an expert on the Bloomberg Terminal and gain a deeper understanding of technology and finance. In addition to your projects, you’ll participate in coding challenges, attend tech talks and network with other interns.
+
+    Company
+    	
+
+    Recurve Asset Management
+
+    Title
+    	
+
+    Fall Intern
+
+    Link
+    	
+
+    See attached.
+
+    Brief Description
+    	
+
+    This is an opportunity for students and researchers of advanced data modeling and statistical learning methods to apply these techniques to market prediction and systematic trading. Projects might include applying sophisticated numerical techniques, developing statistical models for financial trading strategies, or reviewing financial literature to identify new trading opportunities and creating simulations for back- testing.
+
+
+    ON CAMPUS PROJECTS
+
+
+    AEP/TEP Study
+
+    Research questions
+
+    How successful are AEPs/TEPs in integrating learners into formal education or
+
+            vocational education?
+
+    To what extent are AEPs/TEPs successful in reaching and supporting
+
+            marginalized learners? 
+
+    The answers to these questions will help us to better understand:
+
+    •   The extent to which AEPs/TEPs can foster resilience in children at scale and;
+
+    •    What additional supports are required to serve marginalized children?
+
+    Study design
+
+    The study team is undertaking a mixed-methods study in support of the education efforts implemented by the Norwegian Refugee Council in the Democratic Republic of the Congo and Tanzania. Data collection will be longitudinal to allow for greater understanding of the learner experience and the long-term impact of attending two education programs (the AEP and the TEP). The study is focused on learners, ages 10-13, who are enrolled in the 1-year TEP, as well as learners, ages 10-17 enrolled in the 3-year AEP. The study design includes data collection upon enrollment in 2018, before graduation in 2019, immediately after graduation in 2019, and one year after enrollment in formal school in 2020. 2018 baseline data has been collected and will need to be cleaned and analyzed during the Fall semester.
+
+    Time: 5hrs/week
+
+    Deadline: Completed by late December
+
+    Skillset: Data cleaning, Excel, Statistical analysis, Imputation
+
+    Language: Not required but if available, French
+
+    Learning opportunities: This will be an exciting opportunity to work on a global education program focused on the educational needs of refugees in the DR Congo and in Tanzania. Current work needs are for baseline analysis in 2018 but the project is four years in duration (a student interested in long term commitment will also be considered).
+
+    EVENTS
+
+    IDA Information Session
+
+    (U.S. citizens only)
+
+    Oct. 4
+
+
+    Register here: 
+
+    https://www.eventbrite.com/e/employer-meeting-ida-tickets-50222726527
+
+
+    The presentation will describe career opportunities at the Institute for Defense Analyses (IDA), a non-profit think tank supporting the Department of Defense and other federal government agencies with multi-disciplinary research. IDA’s core staff includes nearly a thousand analysts, most of whom have PhDs in STEM fields, along with a large group of social scientists. Our work covers the spectrum of national security topics, from basic science and system evaluations to cost analyses, policy, force structure, training, human-machine interfaces, cybersecurity, intelligence, and strategic planning. Given the vital importance that applied statistics plays in our work, IDA created a dedicated Test Science group of about a dozen researchers, most with PhDs in statistics, to help increase the level of rigor in our test designs, data analyses, and uncertainty quantification. 
+
+     
+
+    Full-time positions as Research Staff Members and Research Associates are available to qualified candidates with Doctoral and Masters degrees. IDA also runs a Summer Associate program for graduate students and rising senior undergraduates and a two-year Science Policy Fellowship for recent Bachelor’s and Master’s degree recipients. Please note that all applicants must be able to obtain a security clearance, which requires US citizenship.
+
+     
+
+    Dr. Steve Rabinowitz is an alumnus of Columbia College (BA Physics 1984) and GSAS (PhD Physics 1992). He has been working in IDA’s Operational Evaluation Division for 26 years, where he leads the Undersea Warfare task.
+
+    Third Thursday Entrepreneurship Forum
+
+    Thursday Sept 27th, 5:30PM, CEPSR 750
+
+    https://seasseptthirdthursday.eventbrite.com
+
+    Third Thursday is a recurring open forum and networking  session for the Columbia University entrepreneurship community. It provides students, faculty, staff, and alumni the opportunity to hear ideas from across campus, form teams, and explore career options. In September, you'll hear a lightning talk from Prof. Sam Sia and his experience as a founder and expert in microfluidics. Sam founded Harlem Biospace and also does biomedical work in Rwanda and all over the world.
+
+    You'll also hear from our entrepreneurship partners from around the university and all the events and resources available in the fall. 
+
+    Join us! Food will be served!
+
+    Have an announcement or idea to pitch to the group? Contact Ivy Schultz (is2350@columbia.edu) in advance and come prepared to pitch it!
+
+     
+
+    Join us for the Urban Works Challenge: India
+
+    Key Dates: Tues Oct 2, Sat Oct 6
+
+    Register here: https://urbanworksindia2018.eventbrite.com
+
+     The Urban Works Design Challenge aims to generate innovative interdisciplinary technology solutions that could have an immediate impact on the future of work spaces in urban settings in India. Teams selected to continue will win a trip to Mumbai in January 2019. We invite students from all schools at the university to participate in this exciting opportunity to address a complex and future-facing problem.   Individuals and teams from all backgrounds are welcome. Bring your passion for solving real problems!
+
+
+    Weight Watchers (WW) Info Session
+
+    RSVP here (They are looking for FULL TIME Software roles only. NO INTERNSHIPS)
+
+    WW will be hosting an info session on Monday, October 1st. This event is first come first serve. Once spots are filled there will not be available spots unless an email goes out stating such.
+
+    Company Note
+
+    WW is looking for candidates to help change people’s lives. We are a global wellness technology company inspiring millions of people to adopt healthy habits for real life. We do this through engaging digital experiences, face-to-face workshops and sustainable programs that encompass healthy eating, physical activity and positive mindset. By drawing on over five decades of experience and expertise in behavioral science, we build communities in order to deliver wellness for all. To learn more about WW and jobs with a purpose, visithttp://www.ww.com/us/corporate-careers.
+
+    We’re looking for smart, curious engineers who are currently college seniors, capable and excited about building world-class software and solving difficult problems. Our challenges span many technologies, web and mobile applications (iOS, Android) to server-side development (Java, Node, Python, Ruby, or Scala). Our engineers work on small teams collaboratively with people across engineering, product, and creative, building reliable, fast, responsive, and beautiful software. Our apps are deployed globally to millions of users in English, French, Spanish, Dutch, and Swedish.
+
+    This opportunity will offer you one on one mentorship as you work closely with a Senior Engineer on exciting projects that impact miliions of peoples’ lives. You will learn about how WW “does Tech” while also learning about the WW culture and agile environment.  You will attend wellness workshops and speak with our members in order to build the best apps that support their wellness journeys.
+
+    We promise that you will be challenged!  You will work on projects that span across all of our platforms as you learn and understand the purpose behind everything we do.
+
+    Resume Collection
+
+    Please submit your resume here by Sun, Sept 30th.
+
+    Space is limited and first come first serve.
+
+    Cancellation Policy*
+
+    Please be responsible and courteous and cancel if you cannot attend, preferably no later than 3 days before. Follow these instructions to cancel.
+
+    If you have any questions reach out to ieor-events@columbia.edu.
+    We hope you can make it!Cheers,Columbia IEOR Department
+    	
+    eventbrite
+
+    cid:image005.jpg@01D451B3.C4DF4770
+
+    In Greater China, our clients include fast-growing tech-based startups, established privately-own companies, state-owned enterprises and multinational companies. McKinsey Greater China region is dedicated in helping our clients with new capabilities, tools, and ways of working –from building digital businesses from the ground up, to leveraging data analytics to optimize marketing strategies, to designing cutting-edge products.
+
+     
+
+    We will be hosting an exciting event in New York! Sign up now!
+
+     
+
+    Partner Panel – New York, October 22
+
+    What are the hot business topics in Greater China? How do our partners feel about their McKinsey experience? What career advice would they share with those who are interested in a consulting career? Join us for the panel discussion hosted by our Greater China partners. You can ask them any questions in your mind!
+
+     
+
+    Date: Monday, October 22
+    Time: 7pm-9pm EDT
+    Registration link: www.mckinsey.com/GCRPartnerPanel
+
+     
+
+    Sign up by October 10 with your latest resume in English.
+
+    Students who are graduating in 2020 and experienced professionals are all welcome to the events. Short-listed individuals will be notified by email on October 17.
+
+     
+
+     
+
+    Follow us on WeChat to stay updated on what's happening inside McKinsey China!
+
+    For further inquiries, please contact us at gc_recruiting@mckinsey.com.
+
+     
+
+    -- 
+    Rachel Fuld Cohen
+
+    Assistant Director of Student Services & Career Development
+    Data Science Institute
+    Columbia University
+    500 West 120th Street
+    Room 432 (Mudd)
+    New York, NY 10027
+    (212)854-9325
+    rachel.cohen@columbia.edu
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu

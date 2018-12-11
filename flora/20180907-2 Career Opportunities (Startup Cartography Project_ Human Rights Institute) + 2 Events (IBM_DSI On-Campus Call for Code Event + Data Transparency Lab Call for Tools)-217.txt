@@ -1,0 +1,102 @@
+Subject: 2 Career Opportunities (Startup Cartography Project, Human Rights Institute) + 2 Events (IBM/DSI On-Campus Call for Code Event + Data Transparency Lab Call for Tools)
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 9/7/2018, 11:23 AM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+Name tag Pick-Up
+If you ordered a name tag through DSI Student Council in the Spring, you can pick it up from Jack Wang and other DSISC reps at the Capstone meeting this afternoon.
+
+Company
+	
+
+Startup Cartography Project
+
+Title
+	
+
+Data Scientist
+
+Data Strategist
+
+Link
+	
+
+See attached descriptions and application instructions.
+
+Brief Description
+	
+
+We are looking for a full-time, one year, research assistant with computer science and statistical background to serve as a data scientist in the Startup Cartography Project (www.startupmaps.us).
+
+The Startup Cartography Project is an innovative new project focused on using a Big Data approach, predictive analytics, and innovative visualization techniques, to develop a unique way to visualize and study the evolution of entrepreneurial ecosystems in the United States. The project is developed by researchers at MIT, Columbia University, and Boston University, and it is currently moving from a ‘beta’ stage to production, where we will focus on using it to deliver new research insights and enable regional planners to develop and understand new entrepreneurial ecosystems.
+
+
+Call for Code for Natural Disaster Preparedness
+
+Hosted by the Data Science Institute at Columbia University
+
+RSVP Here
+
+2017 was one of the worst years on record for natural disasters and while weather events may be inevitable they don’t have to become so catastrophic. 2.5 billion people have been directly affected since 2000 and there has been $1.5 trillion of economic impact since 2003.
+
+In collaboration with IBM, the Data Science Institue is hosting a hackathon on September 15th in Schapiro CEPSR 750 to bring together the Columbia community to tackle challenges associated with natural disasters. Check out some of the challenge statements on the website below or bring your own to the hackathon. If you are not a developer, no problem. We are open to people joining who have diverse skillsets outside of coding.
+
+This hackathon is part of a larger effort called the Call for Code Global Challenge to create solutions that significantly improve preparedness for natural disasters and relief when they hit.
+
+On-Campus Project
+US military investigations into civilian harm
+Brief description: We have a large set of data on US military investigations into civilian harm that we need help sorting, cleaning, analyzing, organizing, and potentially visualizing/preparing for and turning into a website that will be a resource for NGOs, researchers, the military. Below are further details.
+
+The Human Rights Institute has compiled a collection of over 450 US military reports of investigation, many related to investigations of civilian casualties reportedly caused by US military operations. The reports have been uploaded in PDF format, and range in page length from 3 to over 500 pages each. Each report is a scanned reproduction of an original file, and the quality and consistency of reproduction is highly variable. While our team has rendered the files to a text-readable format, the prospects for qualitative data analysis are limited by the high variability and complexity of the content of each, and the fact that a number of files are heavily redacted.
+
+Database of Files: In addition to the files themselves, we have developed an excel spreadsheet “database” of the investigative reports, which lists a document number, date of the report, source and brief description of each investigation. This database has 453 rows and 16 columns of data.
+
+Analytical Database: We are in the process of analyzing each investigative report, within a subset of the total that relate exclusively to civilian casualties (around 300 cases) using an analytical framework that includes a questionnaire of over 100 questions. Each completed analysis comprises a row of data in a spreadsheet. Each report comprises one row of data, and each analytical question one column, resulting in 31,000 total data entries.
+Anticipated workload and duration of this project. (e.g., 5 hr/week for 10 weeks)
+Difficult to assess - potentially 5-10hrs/week for 10 weeks (maybe more than one student on project) - would be good to discuss
+Desired outcome from Data Science Institute talent
+Our overarching objective in partnering with the Data Science Institute is to develop a web (cloud) – based database with a user-friendly interface that we can use in our own future research and advocacy efforts, but also one can be widely used by other researchers, human rights organizations, and possibly the military itself to quickly find reports and to analyze data based on a range of sortable criteria.
+
+We see three intermediate outcomes that can be served in a partnership:
+1) Assistance with cleaning and sorting data to ensure our data is homogenous, and that our files are stored and organized in a way that lends itself to the objective of a web-based database.
+2) Assistance with data-visualization, using Tableau or other software, to render analysis of the files (e.g. statistics, dates, or features of an investigative analysis such as number of witness interviews) in visually appealing and compelling ways.
+3) Development of a publicly available website (akin to others such as https://www.thetorturedatabase.org/) , to include designing the user interface and back office data and file storage.
+
+While our initial assessment suggests that the documents we have pose significant challenges to conducting natural language processing or qualitative data analysis, we welcome innovative ideas and recommendations from the individuals or teams assigned to work with us.
+Desired technical/nontechnical skills? Knowledge Management (storage, data “cleaning”, naming conventions, etc)
+Data visualization (including the development of interactive data visualization tools, such as bullet graphs, bar and pie charts, progress bars, etc)
+Web design
+To apply: Please send a CV/Resume and cover letter explaining how your experience and skills are relevant to the project to Alex Moorehead at amoorehead@law.columbia.edu.
+Paid? No
+
+logo-dtl-news.png
+developers wantedGet up to €25,000 and 6 months of technical support to develop tools on privacy and transparency
+You have less than 1 month to participate
+ 
+
+Data Transparency Lab has launched its first call for apps, tools, libraries and other forms of software that provide privacy and transparency to users on how their data is being used when they connect to online services: which data is collected, who is collecting that data and how it is used. The aim of this call is to give economic and technical support to develop tools. The call is open to students, startups, universities, research centres and entrepreneurs.
+
+
+Participants will be able to select the required amount to develop their tool, from €10,000 to €25,000. The selected projects will get technical support for 6 months from Telefónica advisor with whom they will sign a Schedule of Work to guarantee the success of the project.
+Deadline: September 30th
+
+Areas of interest: privacy leaks detection, advertisement transparency, personal data valuation, analysis of tracking techniques and variation of pricing depending on personal information, detection of algorithmic bias and discrimination, identification and analysis of anti-competitive practices in online platforms, detection and analysis of online behavioural targeting on advertising, search, recommendation, transparency challenges around new crypto-currencies and blockchain technologies, explainable Artificial Intelligence, etc.
+Submit your project
+
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu
+
+Attachments:
+Data Strategy Student Consulting Project.pdf	109 KB
+Data Scientist - Startup Cartography Project.pdf	114 KB

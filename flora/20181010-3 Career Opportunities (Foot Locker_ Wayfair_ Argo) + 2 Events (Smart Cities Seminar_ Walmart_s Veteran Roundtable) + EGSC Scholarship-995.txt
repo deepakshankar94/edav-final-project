@@ -1,0 +1,149 @@
+Subject: 3 Career Opportunities (Foot Locker, Wayfair, Argo) + 2 Events (Smart Cities Seminar, Walmart's Veteran Roundtable) + EGSC Scholarship
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 10/10/2018, 4:18 PM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+
+Company
+	
+
+Foot Locker
+
+Title
+	
+
+Data Scientist
+
+Prinicipal Data Scientist
+
+Link
+	
+
+* Data Scientist
+* Principal Data Scientist.
+
+Brief Description
+	
+
+The Data Scientist leads the team in developing sophisticated predictive models, mining large data sets for insights, building scalable data products, and growing the overall Data Science capability at Foot Locker. This individual serves as the senior member on project teams, often creating solutions from scratch, or, applying known and proven techniques effectively. This role is well versed in multiple analytical techniques, and can seamlessly transition between projects, data types, and problems.
+
+Company
+	
+
+Wayfair
+
+Title
+	
+
+Data Science Summer Intern
+
+Operations Research Associate – Full Time
+
+Link
+	
+
+http://jobs.jobvite.com/wayfair/job/obwc8fwL  http://jobs.jobvite.com/wayfair/job/o1fe8fwm
+
+Brief Description
+	
+
+The Data Science group is made up of team members with diverse skill sets across math and engineering, dedicated to solving some of the most analytically challenging problems here at Wayfair. The work we do encompasses:
+
+ 
+
+-Data mining- uncover deep insight hidden in our vast repository of raw data, and provide tactical guidance on how act on findings
+
+-Algorithm design- develop quantitative models, leveraging machine learning and advanced data analysis techniques
+
+-Algorithm platform engineering- architect and build technical platforms for our algorithmic engines to run at scale
+
+-Influencing business decisions- relentlessly leverage our work and encourage adoption across our business partners, to drive real business value
+
+
+Company
+	
+
+Argo Group
+
+Title
+	
+
+Data Scientist
+
+Data Solutions Engineer
+
+Link
+	
+
+http://jobs.ieor.columbia.edu/job/data-solutions-engineer/
+
+http://jobs.ieor.columbia.edu/job/data-scientist-7/
+
+Deadline to apply is Sunday October 14th at 11:59pm.
+
+Brief Description
+	
+
+Argo Group International Holdings, Ltd. (ARGO) is an international underwriter of specialty insurance and reinsurance products in areas of the property and casualty market. Through our operating subsidiaries, Argo Group offers a comprehensive line of products and services designed to meet the unique coverage and claims-handling needs of our clients.
+
+
+Sense, Collect and Move Data” DSI Center Seminar
+
+ 
+
+Speaker: Prof. Zoran Kostic, Electrical Engineering Dept.
+
+
+Title: Smart City Intersections in Megapolises
+
+ 
+
+Location: EE Conference Room, Mudd 1300
+
+ 
+
+Time: Friday, Oct. 12, 2 -3 pm
+
+ 
+
+Host: Prof. Debasis Mitra
+
+ 
+
+Abstract: Large cities present challenging environments for autonomous cars. Beyond complex movements of numerous vehicles, the behavior of pedestrians is particularly erratic/uncontrollable at intersections. We consider the problem of equipping the megapolises and autonomous vehicles with physical, sensor, communication and computational infrastructure and algorithms to facilitate safe and efficient movement of vehicles and pedestrians. To attack this problem, we propose to investigate the use of multitude of collaborative cameras, very low latency short distance wireless communications, and real time deep learning applications. We show the initial results in utilizing bird's eye cameras for vehicle and pedestrian detection and short term trajectory prediction, using video recordings of the intersection between Amsterdam Avenue and 120th street in New York City. We discuss the deployment of the proposed experiments on the NSF-funded COSMOS testbed for next-generation wireless research.
+
+ 
+
+Bio: Zoran Kostic is an Associate Professor of Professional Practice in the Electrical Engineering Department at Columbia University in New York. He completed his Ph.D. in Electrical Engineering at the University of Rochester and his Dipl. Ing. degree at the University of Novi Sad. He spent most of his career in industry where he worked in research, product development and in leadership positions.
+
+Zoran's expertise spans mobile data systems, wireless communications, signal processing, multimedia, system-on-chip development and applications of parallel computing. His present research addresses Internet of Things systems and physical data analytics, smart cities, and applications of deep learning in autonomous vehicle navigation, medicine and health.  His work comprises a mix of research, system architecture and software/hardware development, which resulted in a notable publication record, three dozen patents, and critical contributions to successful products. 
+
+
+
+
+
+
+
+
+Keeping with the highest ideals of the EGSC, the Professional Development Scholarship is awarded to outstanding graduate students in Columbia University Fu Foundation School of Engineering and Applied Science (SEAS) as a means of defraying costs associated with their academic and professional endeavors.  In addition to a monetary award, EGSC Professional Development Scholars are provided a platform from which to disseminate their knowledge and expertise, thereby impacting the larger Columbia Engineering community.
+
+
+Applications due by: 10/20/2018, 5:00 PM
+Application link: Form
+
+
+If you have any questions, please read the FAQ or contact the EGSC Treasurer Sai Mali Ananth at treasurer@egsc.seas.columbia.edu
+
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu

@@ -1,0 +1,142 @@
+Subject: A Message on Data for Good + 4 Career Opportunities (MarketAxess, Quantifi, Proviti, CIESIN) + 3 On-Campus Projects
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 8/31/2018, 3:37 PM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+***** A message on "Data for Good"  *****
+from Professor Tian Zheng (DSI's Associate Director for Education)
+
+Data ethics has gained increasing attention from both the data science research community and the general public. The interest and discussion from the latter have been fueled by recent events such as Facebook and Cambridge Analytica, EU’s GDPR etc. It has become indisputably necessary for us to include a component on data ethics in our data science curriculum. We want this component to be grounded in “data for good” and keeps up to speed with current research, events, and discussions. 
+
+We encourage our students to embrace DSI's tag line “Data for Good” since day one, which touches upon the importance of carrying out responsible and ethical practices of data science. Students should watch out for data ethics topics in all their courses, engage their professors and peers in data ethics discussion, and bring data ethics news and resources to their classroom whenever possible.
+
+DSI's “Data for Good” seminar series invites researchers who work at the frontier of data ethics to present the most recent open problems and discussions in this area. This is a public talk series. You may find the videos of some past events in DSI's youtube channel. Future events will be posted in DSI events calendar.
+
+
+Company
+	
+
+Columbia University’s Center for International Earth Science Information Network (CIESIN) – On Campus
+
+Title
+	
+
+Fall Internship
+
+Link
+	
+
+See attached. Application deadline is September 7th.
+
+Brief Description
+	
+
+Columbia University’s Center for International Earth Science Information Network (CIESIN) has an internship open for a DSI student to work on a project focused on harnessing big geospatial data to monitor population movements (or “displacement”) associated with humanitarian crises. The project, supported by the Schmidt Futures Foundation through the DSI, is exploring the development of a data collaborative to harness a range of geospatial data – including remotely sensed nighttime lights data, high resolution satellite imagery, cell phone and device location data, and social media data – that could help monitor population displacements. The project has an advisory group with experts from Columbia’s  Program on Forced Migration, the Platform for Disaster Displacement, and humanitarian organizations who need better ways to assess the numbers, locations, and characteristics of displaced populations in the aftermath of humanitarian crises.  Data gaps and problems associated with on-the-ground reporting of population displacement make big data from multiple new sources potentially invaluable. However, there are a range of questions as to the information content and utility of the data, and potential biases and uncertainties in them.
+
+ 
+
+Company
+	
+
+Proviti
+
+Title
+	
+
+Data Science Co-Op – Fall 2018
+
+Link
+	
+
+Data Science Co-Op – 2018
+
+*This position is only open for US Citizens & Perm Residents
+
+Brief Description
+	
+
+Data Science Co-Ops work side by side with clients in dynamic, inclusive environments where you have the opportunity to deliver solutions for the complex business problems that organizations face.  As a Data Science Co-Op, you develop an understanding of business and technology processes; while helping management and boards of directors understand the value – and limitations – of their data and statistical models so they can make data-driven business decisions, advance business strategies and leverage cutting edge technology to solve their complex business problems.
+
+Company
+	
+
+Quantifi
+
+Title
+	
+
+Data Science Consultant
+
+Link
+	
+
+See attached.
+
+Brief Description
+	
+
+Quantiphi is a category defining Data Science and Machine Learning Software and Services Company focused on helping organizations translate the big promise of Big Data & Machine Learning technologies into quantifiable business impact. We were founded on the belief that machine learning and artificial intelligence are transformative technologies that will create the next quantum gain in customer experience and unit economics of businesses. Quantiphi helps clients find and capture hidden value from data through a unique blend of business acumen, big-data, machine learning and intuitive information design.
+
+Company
+	
+
+MarketAxess
+
+Title
+	
+
+Data Science Internship – Summer 2019
+
+Link
+	
+See below. To apply, send your resume to Julien at JAlexandre@marketaxess.com.
+*Please only apply if you are interested in committing to a summer internship in this industry at this time.
+
+Brief Description
+	
+
+The research interns will work on data projects related to the corporate bond market. They will have access to MarketAxess unique data. Relevant skills include large-scale data analysis, SQL and R programming, Machine Learning and Market Microstructure.
+
+
+Stat Analysis for Survey Data - Department of otolaryngology
+Description: We are providing patients with several different surveys to fill out in the outpatient setting. There is a survey for general quality of life, a survey about their sinuses, and a survey about their sense of smell. Each survey is scored with a numerical value. Now, our goal is to compare patients who are sick to those who are feeling at their baseline and see if there is a statistical difference between the two groups in terms of the scores on their surveys.
+Timeline: This is a shorter project to support research in the department of otolaryngology.
+How to apply: If you would like to work on this, please email Chetan Safi at cys9028@nyp.org.
+Paid? No.
+
+App Development for Ocean-Related Data Distribution
+
+Brief description: Of the many anthropogenic and climate-driven changes being reported in oceanic ecosystems worldwide, the Arabian Sea (AS) stands out as one of the most extreme and dramatic. Within a decade and half, its diatom-dominated base of the food chain has transitioned to one now dominated by a large (~1 mm in diameter) mixotrophic dinoflagellate, Noctiluca scintillans (Noctiluca), which is posing a serious threat to coastal fisheries in countries bordering this ocean basin. In the Sultanate of Oman, outbreaks of large blooms of Noctiluca often have a huge impact on the operation of desalination plants and refineries, aquaculture farms, tourism and recreation and a host of other industries. We are currently in the process of developing an early warning system and several decision support tools that would help fisheries and environmental agencies to forecast these blooms with the ultimate goal of better managing their coastal resources. Currently outputs from models and satellites generated as part of this project are being served to the end users in Oman through a GIS-web based data portal. What we would like to accomplish as part of this DSI Talent Proposal is to develop an app that would help us make all of our data available to various stake holders via a smart phone, similar to what is being done with most weather related apps (for example Windy). We would like to work with a student from the Data Science Institute to help us accomplish this task which is currently not part of our original project
+Anticipated workload and duration of this project.:8 hours per week for 10 weeks
+Desired outcome from Data Science Institute talent:  We believe that this interaction with a data science student will be of mutual benefit. First it will be an opportunity for the DSI talent to understand how climate change is impacting ocean resources and countries that depend on these resources. The app that the DSI student will build will be of great socio-economic relevance and has the potential to be widely distributed among communities in Oman.
+Desired technical/nontechnical skills? Programming skills (python, matlab) and App development skills; Students interested in environmental issues
+To apply: Email applications - CV and reasons why this project would be of interest – to Joaquim at jig@ldeo.columbia.edu.
+Paid? Maybe
+
+ 
+
+Image Classification of Ships
+
+Brief description: We have recently developed a ship based flow through system that now offers us the amazing potential of sampling the ocean surface at high spatial resolution. One of the instruments which is part of this flow through system is a particle imaging system which basically functions as a virtual microscope providing us with instantaneous images of particles and plankton present in seawater. Over the past two years we have been able to amass a large amount of data on the distribution of marine phytoplankton as well as microplastic from different parts of the world. Currently we analyze and classify all the images manually and this has been a stumbling block towards making this a high-throughput system. We are interested in working with DSI to develop a classification system that would help identify each of the particles automatically based on their shape and size. This would be a considerable step forward for oceanographic research
+Anticipated workload and duration of this project.: 8 or more hours per week depending on student's class work load
+Desired outcome from Data Science Institute talent:  Development of a computer-based image analysis and pattern recognition system that would allow automatic identification and counting of individual particles and plankton
+Desired technical/nontechnical skills? Knowledge of Image processing, pattern recognition techniques, experience in working in a neural network simulation environment
+To apply: E-mail with CV citing reasons why this project would be of interest to Joaquim at jig@ldeo.columbia.edu.
+Paid/funded opportunity?  Maybe
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu
+
+Attachments:
+CIESIN Schmidt Futures grad student request.docx	16.9 KB
+Data Science Consultant - Company Profile and Job Description.pdf	124 KB

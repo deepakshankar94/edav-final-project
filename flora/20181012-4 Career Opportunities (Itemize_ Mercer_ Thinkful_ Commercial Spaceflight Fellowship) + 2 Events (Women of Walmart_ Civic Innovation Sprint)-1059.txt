@@ -1,0 +1,90 @@
+Subject: 4 Career Opportunities (Itemize, Mercer, Thinkful, Commercial Spaceflight Fellowship) + 2 Events (Women of Walmart, Civic Innovation Sprint)
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 10/12/2018, 12:55 PM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+
+Company
+	
+
+Itemize
+
+Title
+	
+
+Data Operations Lead
+
+Link
+	
+
+See attached. To apply, send your resume to careers@itemizecorp.com.
+
+Brief Description
+	
+
+The Data Operations Lead will oversee the operational delivery of services to enterprise clients, including the achievement of SLAs for data processing accuracy and timeliness. The Data Operations Lead will work with the data science team to continuously improve the system and generate meaningful business intelligence.
+
+Company
+	
+
+Thinkful
+
+Title
+	
+
+Curriculum Writer: Data Analytics & BI
+
+Link
+	
+
+https://hire.withgoogle.com/public/jobs/thinkfulcom/view/P_AAAAAAEAAAxNCoV-PBhDXx
+
+Brief Description
+	
+
+Help us tell our students the story of how to tell stories with data! As a curriculum writer, you'll design the syllabus and write learning materials for our Data Analytics and Business Intelligence program. You'll teach our students how to use tools like Excel, Tableau, and Python to analyze and visualize data in order to drive business decision-making. 
+
+
+Company
+	
+
+Mercer
+
+Title
+	
+
+Workforce Strategy & Analytics – Sr. Analyst
+
+Link
+	
+See attached description and application instructions.
+
+Brief Description
+	
+
+About Workforce Strategy & Analytics at Mercer– we are a group that deals primarily in personnel economics: taking company specific employee level data and using econometrics to answer HR issues such as gender pay equity disparities, predicting employee turnover, produce descriptive statistics that show workforce diversity, etc. As a Senior Analyst on our team, you are expected to use SAS and/or R Studio to prep client data for analysis so experience with statistical programming software is highly desired. Analysts are also involved in the entire project life cycle and process; from initial data receipt up to client model deliverables, under the guidance of more senior Associates and Principals.
+
+
+
+
+
+
+Tech Society Interface Lab’s inaugural Civic Innovation Sprint
+
+Application for Columbia’s Tech Society Interface Lab’s inaugural Civic Innovation Sprint is NOW OPEN!
+
+The event is a university hack for accelerating technology’s impact on our civic sector. Over a two-day workshop, students will receive hands on training about the intersection of technology and civic engagement from New York City’s innovative thought leaders,  Hollie Russon Gilman (SIPA) and Sudhir Venkatesh (Sociology & Global Thought). Students will also participate in a Challenge, which invites them to develop innovative solutions with modern tools to hack on a pressing issue - Driving Voter Turnout At Scale. At the end of day two, participants will present their recommendations to an invited jury. There will also be networking opportunities for students to develop relationships with leaders in public and private sectors to help them launch their careers in industries transformed by digital technologies.
+
+Any questions, please contact: sv185@columbia.edu. Apply Now
+
+https://docs.google.com/forms/d/1spZ6VaeIbuztFnshJZ2UiYfprjlKemOUI7LJx8TKoXQ/viewform?edit_requested=true
+
+
+
+Attachments:
+TSiGNL_Civic_Innovation_Sprint_Flyer_Final_ForDist_101118 (1).pdf	237 KB
+Women of Walmart.pptx	381 KB
+MIFP_Flyer_2018.pdf	3.3 MB
+Data Operations Lead - Itemize Corp.-1.pdf	534 KB
+Mercer Sr Workforce Strategy Analyst Opening - NYC(1).pdf	205 KB

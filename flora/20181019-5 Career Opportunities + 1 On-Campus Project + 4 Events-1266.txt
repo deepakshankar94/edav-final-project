@@ -1,0 +1,279 @@
+Subject: 5 Career Opportunities + 1 On-Campus Project + 4 Events
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 10/19/2018, 3:45 PM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+Company
+	
+
+SiriusXM
+
+Title
+	
+
+Spring Internships
+
+Link
+	
+
+https://www.siriusxm.com/careers/internships
+
+Brief Description
+	
+
+SiriusXM is looking for an intern to join our strategic analytics team to assist in tracking marketing campaign performance.
+
+Duties and Responsibilities:
+
+    Build statistical models.
+    Review weekly model trend reports.
+    Complete QC requirements for model use in campaigns.
+    Support design of tests for marketing.
+    Produce data visualization to monitor trends.
+    Complete model decks and documentation.
+    Communicate with the business intelligence solutions team.
+    Perform other duties as assigned.
+
+
+Company
+	
+
+Care/of
+
+Title
+	
+
+Data Engineer
+
+Link
+	
+
+See below. Previous Experience Required for this role.
+
+Brief Description
+	
+
+Care/of strongly believes that data science is a key part of our product differentiation and long-term innovation. Our data infrastructure is the foundation of all analytics and machine learning work at the company; no good research is possible without clean and well-maintained pipelines of data. While the bulk of this work is currently for a relational data warehouse updating nightly, we are also beginning to incorporate real-time use cases that require a different set of tools. Our data engineers must support both frameworks: they understand classic dimensional modeling, but they also have methods and tools for making semi-structured data readily queryable by business end users. As we collect high-volume datasets from wearable devices, our data engineers must fully understand performance considerations and write robust, maintainable software that enables the team to extract value from novel datasets.
+
+Responsibilities
+
+·  Write scalable data pipelines that pull from a wide variety of sources: APIs, databases, event streaming, ad hoc scraping
+
+·  Design and maintain the dimensional modeling of the data warehouse to serve business intelligence tools
+
+·  Maintain the logical data model in the back end of the BI tool
+
+·  Optimize the performance of data loads and scale systems as the company grows
+
+·  Design access controls in the data warehouse and the analytics tools to safeguard personally identifiable information and protected health data
+
+·  Provide production support on some weekends
+
+Qualifications
+
+·  Bachelor's degree, preferably in computer science
+
+·  High proficiency with Python and SQL. You have opinions about what is Pythonic
+
+·  2+ years of experience with data modeling for a data warehouse
+
+·  2+ years of experience with engineering tools: GitHub, CI/CD, Docker, ETL frameworks (Airflow)
+
+·  Familiarity with the suite of AWS data products (Redshift, S3, Kinesis, DynamoDB)
+
+·  Bonus: experience productionizing machine learning models
+
+Mandatory for a candidate to have at least some experience with the qualifications highlighted in red, especially the ones concerning data modeling for a data warehouse and high proficiency with Python and SQL. Interested candidates can send their resumes to me at WL2522@columbia.edu.
+
+Company
+	
+
+Ipsos
+
+Title
+	
+
+NLP Engineer/Scientist (NY or DC)
+
+Link
+	
+
+See attached. To apply, send your resume to Peter at Peter.Szczesny@ipsos.com.
+
+Brief Description
+	
+
+We are currently seeking a recent/future graduate with experience in Natural Language Processing to join the U.S. group and support our Risk Analytics Division. You will become a part of the team, which – among other interesting projects – works on real time political risk analytics, including global election and public opinion forecasting. 
+
+ 
+
+A great candidate will be a self-starter with strong work ethic, methodical approach to problem solving and burning desire to answer challenging questions. Bonus points for that unique mix of intelligence and laziness.
+
+Company
+	
+
+Holly Lynch for Congress 2020
+
+Title
+	
+
+Data Scientist
+
+Link
+	
+
+See below.
+
+Brief Description
+	
+
+I’m in need of a data scientist who is interested in tackling all the voting data for NY’s 10th Congressional District.
+
+ 
+
+I have the voter files as well as the direct contact information for 12,000 of the approximately 700,000 residents.
+
+ 
+
+I want a block by block by /neighborhood by neighborhood insight into each community in the district, the issues they care about, their demographics and psychographics and why they haven’t voted in the past.
+
+ 
+
+Something like this:
+
+https://www.npr.org/2018/10/01/649701669/the-american-dream-is-harder-to-find-in-some-neighborhoods for NY-10 (https://en.wikipedia.org/wiki/New_York%27s_10th_congressional_district) with faces and consumer friendly information so I can find a way to meet them and hear their concerns.
+
+ 
+
+It would be amazing of the person were already passionate about social justice and governmental reform.
+
+ 
+
+For anyone interested, please email or call. hollylynchny.org
+917-459-2577.
+
+Company
+	
+
+Blue Cross Blue Shield
+
+Title
+	
+
+Associate Data Scientist
+
+Data Scientist
+
+-Jobs located in Chicago or Dallas.
+
+Link
+	
+
+Associate Data Scientist: http://bit.ly/2ClZIOH
+
+Data Scientist: http://bit.ly/2yHhmsO
+
+Brief Description
+	
+
+We’re looking for a Data Scientist in our growing Enterprise Analytics area to develop new data science products using machine learning, natural language processing, data visualization techniques, and other forms of advanced analytics.
+
+The Enterprise Analytics team is also a Center of Excellence for data science at Blue Cross and Blue Shield of Illinois, New Mexico, Montana, Oklahoma & Texas. This person will spend approximately a quarter of their time promoting best practices in data science across the enterprise and leading and organizing technical training for the broader community.
+
+ 
+
+On-Campus Project
+
+Chinese Ornithological Manual – Data Viz Project
+
+Overview:  I am an art historian working with an eighteenth-century encyclopedia of Chinese birds produced for the Qing court.  This is the first dedicated Chinese ornithological manual, and it accurately depicts individual species.  I have identified each of the 360 birds in this manual, and want to examine the relationship between the real geographical ranges of these species and the geography of China.  Using the Birdlife database of range distributions, I would like a student to help me visualize the data in a compelling manner.
+
+Required Skills:  I don’t know the best way to visualize this dataset.  I would be open to using ArcGis, QGis, or something else entirely.  Creative solutions are welcome.
+
+Timeline and time commitment:  I am under a deadline to publish this information, and would like to complete this work by the end of November.  I have already done the data entry, so I hope that the visualization work can be accomplished quickly.
+
+Paid - Yes.  I will be happy to discuss an hourly or project-based fee.
+
+Events
+
+Bridgewater Associates Investment Engineering Info Session
+
+Wednesday, October 24th 5:00pm – 6:30pm
+
+Faculty House, Garden Room 2
+
+Bridgewater Associates is one of the largest and most successful asset managers in the world, managing approximately $160 billion in investments for many of the largest institutional investors globally.
+
+Come and learn more about how Investment Engineers own and innovate Bridgewater’s investment systems across the entire investment process, from design to expression of investment logic. The info session will provide an overview of Bridgewater and of the role of Investment Engineering in our investment pipeline with real examples of the type of work we are involved with and lots of opportunities to ask questions.
+
+Registration Link in LionSHARE: https://columbia.joinhandshake.com/events/223907
+
+San Diego EDC’s Virtual Career Fair
+
+San Diego Regional EDC is hosting a Virtual Career Fair exclusive to data scientists on October 30, from 9am-12pm PST. This free, web-based event serves to connect experienced data scientists with recruiters at top San Diego employers: FICO, ResMed, Booz Allen Hamilton, and Analytics Ventures. This alleviates the inconveniences brought on by in-person career fairs, and still enables real-time conversation via chat and video between recruiters and participants.  
+
+ 
+
+Details and registration available here: datascience.sandiegolifechanging.org.
+
+ 
+
+Speakers needed for Data Eng Conf
+
+Interested in speaking at the DataEngConf in NYC this year? If you’re interested in speaking about some of the work at your company, please email me with a brief abstract about what you’d be interested in talking about! We have great speakers already from buzzfeed, netflix, mit, facebook, columbia, stitchfix, etc…
+
+I look forward to seeing your submissions!
+
+- William Falcon
+
+will@williamfalcon.com
+
+https://community.bain.com/sites/departments/humancapital/Recruiting/Email%20Marketing%20Headers/well-meet-you-virtually-anywhere-youd-like.gif
+
+ 
+
+Hello,
+
+ 
+
+I hope you’re having a good week!  Bain & Company would like to make you aware of a series of topical webinars called BainStrategies.  These virtual events allows us to engage a global recruit audience without the restrictions of school calendars or geography.  Below are a list of webinars that may be of interest to you:
+
+ 
+
+Artificial Intelligence & Machine Learning: An insightful but critical introduction to artificial intelligence and machine learning
+
+Monday, November 5th at 12:00pm EST, Register here
+
+ 
+
+Transfer Learning: Hear from our Advanced Analytics Group about how we use data science methods to get results for our clients
+
+Wednesday, November 14th at 12:00pm EST, Register here
+
+ 
+
+Blockchain: Discuss Distributed Ledger Technology use cases, adoption and standardization across a variety of industries
+
+Monday, November 26th at 7:00pm EST, Register here
+
+ 
+
+ 
+
+Interested in other topics?  To view a full list of the webinars we are offering this fall, please visit BainStrategies.
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu
+
+Attachments:
+Posting - NLP Engineer (Scientist).docx	16.9 KB

@@ -1,0 +1,155 @@
+Subject: 5 Career Opportunities (BARK, CNA, Child Mind Institute, Urbint, McKinsey) + 3 On-Campus Projects
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 11/9/2018, 11:22 AM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+Company
+	
+
+CNA Corporation
+
+Title
+	
+
+Data Scientist (in DC area/Virginia)
+
+Link
+	
+
+https://cna.hua.hrsmart.com/hrsmart/ats/Posting/view/1168
+
+Brief Description
+	
+
+CNA's Data Science Team brings data science expertise and support to the Department of the Navy. The team develops advanced analytics and algorithms, including machine learning and predictive analytics, that could have a transformative impact on the Navy’s competitiveness. Research Scientists have some relevant research experience and an increasing ability to operate independently. They typically lead smaller and/or less complex projects, playing a critical role as a team member on projects with specific technical/scientific expertise, or operating as a field rep. Scientists are expected to consistently produce high quality analysis. Research Scientists in the Data Science Team work on projects to help the Department of the Navy and other government agencies develop advanced analytics and algorithms for systems, sensors, networks, and platforms to ensure America’s defense in the 21st century. Scientists will learn CNA's unique approach to analytics that combines an understanding of the technical capabilities with insights gained from up close and current experience with real-world military operations.
+
+Company
+	
+
+BARK
+
+Title
+	
+
+Multiple Data Roles
+
+Link
+	
+
+Data scientist: https://bark.co/jobs/#data-scientist
+
+Data Engineer / Data Systems Architect: https://bark.co/jobs/#data-engineer-data-systems-architect
+
+Brief Description
+	
+
+BARK is what happens when a bunch of crazy dog people turn an obsession into a profession. Our office is filled with dogs barking and burping, wrassling and chirping. (And laughter. Lots of laughter!) We’re looking for hard-working, dog-loving folks to join our pack and help us create wonderful new ways to make dogs happy.
+
+As the first Data Scientist at BARK, you will be the point person supporting BARK’s growth, marketing, finance, and operations/planning/logistics teams by applying advanced analytical techniques to our rich and varied datasets, including but not limited to: subscriptions, orders, surveys, payments, email, shipments, web traffic, and external sources. In this hands-on strategic role, you will work with leadership across the organization to understand and develop methodologies for optimizing key performance metrics such as retention, campaign and funnel conversion, new subscribers, customer lifetime value, and more.
+
+Company
+	
+
+Urbint
+
+Title
+	
+
+Senior Machine Learning Engineer
+
+Link
+	
+
+https://urbint.workable.com/j/DB8436477E
+
+Brief Description
+	
+
+We are seeking a Senior ML Engineer to solve some of our hardest technical challenges. You will work closely with our clients, fellow engineers, deployment strategists and others across the company to implement projects from start to finish, participating in data discovery, analysis, algorithm development, feature extraction, and delivery of results.
+
+You will have a real passion for using dirty, disparate data to optimize business processes and highlight relevant metrics and insightful stories. You prefer asking the right question as opposed to offering the right answer. You appreciate ambiguity and are comfortable guiding others while obsessing over details.
+
+Company
+	
+
+Child Mind Institute
+
+Title
+	
+
+Data Analyst, Center for Developing Brain
+
+Link
+	
+
+https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b50a554-ed4a-4219-a358-aa3cbeea1e70&jobId=268183&lang=en_US&source=CC3&ccId=19000101_000001
+
+Brief Description
+	
+
+The Data Analyst will gain familiarity in running data-intensive methods for neuroimaging data, including multi-site harmonization, quality control, and preprocessing, as well as a suite of cutting edge, data-intensive multivariate and machine learning techniques for analysis of neuroimaging data. An ideal candidate will have a strong work ethic, can work well independently and as part of a team, and has the ambition to deepen an already existing set of strong technical skills.
+
+
+ON-CAMPUS PROJECTS
+Survey of Women in America - Validation
+Brief description: We want to survey roughly 1000 of the general population of women in America using Amazon mTurk and need help validating the survey, as well as analyzing the data when the survey results are in.
+Anticipated workload and duration of this project: 3-5 hours/week x 2 weeks initially, then possibly 10 hours/week x1 week for data analysis
+Desired outcome from Data Science Institute talent: Help with survey validation and data analysis
+Desired technical/nontechnical skills? Data analysis with STATA or SPSS or R
+To apply: Please contact Tiffany Sia at tys2105@cumc.columbia.edu if interested.
+Paid?  No 
+
+CardioThoracic Intensive Care Unit Study
+Brief description: The CardioThoracic Intensive Care Unit (CTICU)-Surgical Intensive Care Unit (SICU) medical director on a Quality Improvement purpose, started to audit and feedback several indicators of good practice within an ICU few years ago, in order to observe the consequences on the habits of prescription and care of the clinicians.
+We have monthly data about these indicators (numbers of transfusions, percentage of transfusions over the recommended threshold, ventilation duration for specific populations, number of Chest X-rays ordered, number of catheter related infections), for 2 to 3 years.
+We started working on these data separately. We analyzed the consequences of the feedback on the trend of these indicators.
+We now want to work on them globally, analyzing the link which could exist between all these data, within the same unit.
+We have the data for the units we are in charged of but also the data of other intensive care units , and where no feedback were performed.
+Desired outcome from Data Science Institute talent: We would like to extract a link between the trends we observe for these indicators, which are distinct but clearly represent the same habits of prescription and patient care among a team.
+Desired technical/nontechnical skills? Statistical skill, Cooperative skill
+To apply: Send your resume to ch3394@cumc.columbia.edu.
+Paid? Maybe 
+
+Data Mapping for Marine Observation - Multiple students are needed for this project
+Brief description: Data map for marine observation and data conversion of 3 paper forms to digital using tablets input device. Data map to display data location and data points for analysis. Separation of public/private data on map site. A display showing parameter warnings either as analog indicator or digital ie. red, yellow, green. Method to compile data for different types of analysis.
+Anticipated workload and duration: 5hr/week for 12 weeks or more
+Desired outcome from Data Science Institute talent: 1) 3 different paper form for 13 sites converted to a tablet input method. 2) Data visualization site. 3) Make a public/private map site showing the location of field sites and the data available at those sites. 4) Method for public and private groups to upload data to map site. 5) Fire wall protection so private sector can separate there data from public data. 6) Method for digital data to be exported to other software for analysis. 7) Alert page showing state of sampled parameters (status indicator: red, yellow, green). 8) (possibility of inputting data) scanning for 119 years of archived data.
+Desired technical/nontechnical skills? GIS people, tablet input developers, server developers, data input personal, webpage developers and software people.
+To apply:  Send resume to Richard at rs3321@columbia.edu.
+Paid? Maybe
+
+
+
+*******************************************************************************************
+
+Consider McKinsey as the next step in your journey.
+
+McKinsey brings together an outstanding group of colleagues from a wide variety of backgrounds to help leading organizations tackle their most complex challenges. We have long been a leader in strategic management and our work in data science, software engineering, machine learning, and change management is growing rapidly.
+
+ 
+
+More than 40% of our consultants have advanced degrees in fields outside of business, and as our firm continues to grow and evolve, we are looking for more people like you – experts in their fields – to join our community.   We hope you will consider starting your journey with us so you can be at your best at McKinsey. 
+
+ 
+
+Upcoming opportunities to learn more about us:
+
+    2019 Global Summer Associate Internship: Apply here by December 2
+    2019 MD Fellow Role: Apply here by December 2
+    Coming next spring and summer:  campus visits, diversity weekend program, women’s programs, technical role deep dives, and our Insight weekend program – more information to come in early 2019.
+
+We invite you to join us this November for virtual events to meet our people and to learn more about our opportunities with our offices and practices. Upcoming topics include: our diversity communities, our application & interview process, internships, and our offices and practices (Mid-Atlantic, Midwest, Southern offices and our Digital practice).  Please register here for the virtual events.
+
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu

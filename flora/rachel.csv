@@ -1,0 +1,493 @@
+Company,Day,Date,Title,Apply,Location,Industry,Type,Description
+Instacart,Friday,8/24/2018,Multiple Machine Learning & Data Scientist openings,Email,San Francisco,Ecommerce,Full Time,A passion for and track record of leveraging data to drive strategic company decisions and support key projects and initiatives
+Environmental Defense Fund,Friday,8/24/2018,VoLo Data Science Fellowship,Website,"Boston, Washington, San Francisco, New York",Environment,Full Time,"Master’s degree in a quantitative discipline such as Mathematics, Computer Science, Physics, Statistics, Engineering, Economics, Bioinformatics, Computational Biology or related fields
+3+ years of relevant work experience as a data scientist
+Proficient in a scientific programming language such as Python, R
+In-depth knowledge of the latest statistical and machine learning algorithms such as GBM, Light GBM, Random Forests, Neural Networks, Deep Learning as well as feature selection techniques
+Experience with SQL
+In depth knowledge of regression techniques: linear, ridge, logistical, etc. and able to interpret results
+Ability to work independently and proficiently; accountable for own results
+Ability to articulate technical data analytics concepts to managers and executives"
+Federal Reserve Bank of NY,Tuesday,8/28/2018,Graduate Summer Associate Program- Data & Statistics Group,Website,New York,Finance,Full Time,"The mission of the Data Capabilities Office is to improve the FRBNY’s ability to effectively use data to support the FRBNY’s mission. The DCO is engaged in a multi-year effort to design and build out the FRBNY’s data management program.  The program is supported by two broad areas of practice, Analytics and Usability.   The Graduate Intern will contribute directly to meeting the Central Bank’s objectives towards driving our strategy on data, elevating the capacity for connecting and synthesizing the increasing scale of complex informational sources, and creating insightful analysis."
+OccamzRazor,Tuesday,8/28/2018,Full Stack Engineer,Email,San Francisco,Technology,Full Time,"Strong software engineering experience in a technical domain
+Knowledge of software design best practices
+A willingness to develop a mutually shared knowledge base, and collaborate with our
+biomedical research team.
+Experience doing applied data science, or otherwise a general familiarity with the tips, tricks
+and techniques for getting the most out of `real data’.
+Experience deploying an ML based system commercially
+Interest or experience in Machine Learning or statistical Natural Language Processing (other
+relevant experience considered)."
+Columbia School of Nursing,Wednesday,8/29/2018,Student Casual – Data & Visualization,Email,New York,Health,Internship,"Data from the patient safety climate and standard precaution surveys and observations will be pooled with HCW and HAI outcomes data and used to determine whether hospital units with better patient safety climate have better standard precaution adherence and have better HCW and patient outcomes. All multivariate analyses will be conducted at the hospital unit level of analysis and preceded by standard descriptive statistics to gain familiarity with the distributions and frequencies. Bivariate analyses will also be conducted to describe relationships among the key variables and include cross-tabulations and correlations as appropriate. Multilevel models (i.e., linear mixed models) will be used to estimate the effects of patient safety climate on standard precaution adherence and on HCW and patient outcomes after controlling hospital teaching status, bed size, rural-urban status and nursing skill mix."
+Dia & Co.,Wednesday,8/29/2018,Data Team Fall Intern,Website,New York,Fashion,Internship,"We’re looking for a data team intern to improve our understanding of who our most loyal customers are and to provide insights on how to grow customer loyalty. You will collaborate with a Machine Learning Engineer to extract, transform, explore, analyze, and interpret data. As part of the project you will stitch data together from multiple sources, create hypotheses, and perform a statistically sound analysis. At the end of the roughly 8 to 12-week internship, you will summarize your analysis and findings in a report to the entire data team."
+Trinnacle Capital Advisors,Wednesday,8/29/2018,Data Science Fall Internships,Email,New York,Finance,Internship,"Advanced skills and experience in Python
+Experience in R
+Experience in supervised and unsupervised machine learning
+Experience in or willingness to learn Spark/Hadoop/Hive/SQL
+Strong statistical mindset
+Solution oriented and creative problem solver
+No previous financial knowledge required, but added bonus"
+Flatiron Health,Wednesday,8/29/2018,Data Insights Engineer,Website,New York,Health,Internship,"Data Insights is an entrepreneurial group of engineers that join Flatiron product teams to facilitate the process of market fit discovery, rapid prototyping and iteration.  We use engineering and data science tools to unlock the most value from our data. We talk with clients, work with oncology experts and code in Python, SQL, R or whatever it takes to advance our goal of dramatically accelerating cancer research and improving patient care. This mix of technical skills and client empathy allows us to accelerate our product development process and to take our products to the next level.
+"
+Flatiron Health,Wednesday,8/29/2018,Security Engineer,Website,New York,Health,Full Time,"The security team at Flatiron works every day to protect the company against threats so that our employees can focus on helping to cure cancer. We create attack driven defenses, not compliance. We are always looking for new approaches to our work and have cultivated a meritocracy where the best ideas rise to the top of the pile. We focus on results and not just debate: in fact, we are often architects, designers and engineers (not just advisors). We build credibility through action and results.
+"
+"
+Off the Hook Partners",Wednesday,8/29/2018,Fall Data Science Internship,Email,New York,Finance,Internship,"We are looking for the following:
+The ability to employ deep learning techniques and optimization protocols in order to better predict the thoroughbred wagering and auction markets. A lot of what we do is akin to derivatives and portfolio theories, arbitrage, etc. maybe even some potential for time series analysis. 
+Linear Modelling from a SQL database - We have a proprietary database that requires extracting relevant data, subsequent data wrangling, analysis, and visualization - typically done in python.
+Integrative Software Development - We are looking for developers who have the ability to integrate the predictive modelling approaches from points 1 and 2 with api access and typical web protocols. Students interested in automated trading systems would be ideal.
+"
+Startup Cartography Project,Friday,9/7/2018,Data Scientist,Email,New York,Finance,Full Time,"Experience collecting and working with qualitative and quantitative data.
+Detail-oriented and high standards for work quality.
+Enrollment in, or completion of a master’s degree program, in a related discipline.
+Strong writing skills
+Strong communication skills
+Preferred Qualifications:
+Experience with the analysis of quantitative data.
+Knowledge of academic research."
+Startup Cartography Project,Friday,9/7/2018,Data Strategist,Email,New York,Finance,Full Time,"In depth knowledge of Stata—including writing user-functions with parameters, working
+with macros, and writing user do-files—a must.
+Working knowledge of Python (in depth knowledge on Python can substitute for Stata).
+Good communicator of information and an ability to work with different stakeholders in a loose environment.
+Good communication and written skills.
+Experience working with large datasets.
+Experience working with a high-computing Linux environment.
+Some knowledge of machine learning algorithms in Python such as scikit-learn or
+statsmodels, NLTK and others.
+Understanding of administrative datasets created by the U.S. Census and the Bureau of
+Labor Statistics.
+Some understanding of web server environments and deployment."
+ADG Technology,Friday,9/7/2018,Data Scientist Fall Intern,Email,New York,Technology,Internship,We want to make decisions on the product and marketing based on hard data - and are looking for someone that will (1) help us visualize and pull insights from the data we gather and (2) work with our engineers to design the backend of our product to more easily capture valuable data. 
+Fidelity Investments,Thursday,9/13/2018,"Data Scientist - AI, Machine Learning, Big Data",Onsite,New York,Finance,Full Time,"Fidelity’s  Artificial Intelligence Center of Excellence (COE) team contributes to the vitality and growth of the organization through researching and building complex, cutting edge and scalable AI algorithms, models, platforms and technologies to significantly improve customer experience and drive business results. Our team of high caliber scientists, mathematicians and statisticians use rigorous quantitative approaches to ensure that we are efficiently building algorithms and technology relevant to the business or customer experience issue at hand.
+"
+Kemnay Advisory Services,Thursday,9/13/2018,"Data Scientist Fall Interns
+",Email,New York,Finance,Internship,"Existing knowledge of advanced statistical methods (e.g. diverse regression techniques, time series forecasting, non?
+parametric testing, machine learning methods, and Monte Carlo simulation) and strong mathematical proficiency are
+required. This knowledge should be supported by successful completion of at least one semester’s course work in
+a master’s degree program in one of the following disciplines: statistics, data science, mathematical and
+quantitative finance, operations research. Other closely related disciplines may be considered if the candidate can
+demonstrate he/she has the prerequisite knowledge.
+? Programming proficiency with Matlab or a comparable language (Python or R) is essential for the role and proficiency
+will be evaluated during the interview process.
+? Strong communication skills and high proficiency in written and spoken English is required as the research process
+is highly collaborative. Specifically, we seek candidates who can coherently communicate their thought processes as
+well as organize their work product, including code, in a logical and transparent manner that facilitates peer review
+and collaboration."
+NYSCI,Thursday,9/13/2018,Research Associate,Website,New York,Technology,Internship,"Commitment to the philosophy and mission of the New York Hall of Science.
+Up to date knowledge of the research literature on mathematics, engineering, or science learning.
+Ability to work comfortably with young people in informal learning settings.
+Experience working collaboratively with museum educators, exhibit designers, or other informal STEM education practitioners.
+Experience designing and conducting all phases of education research using a variety of qualitative and quantitative methods.
+Ability to organize, maintain and clean datasets derived from surveys or observational data.
+Ability to conceptualize and develop research designs and methodologies, and expertise in organizing the logistics of field tests.
+Experience supervising other researchers.
+Strong communications skills with the ability to express ideas clearly both in written and oral communications."
+Verisk Analytics,Tuesday,9/18/2018,Data Science Excellence Program,Email,New York,Finance,Internship,"Master’s degree in data science or data analytics
+GPA of 3.5 or higher
+Demonstrated skills in research and analysis
+Excellent written and verbal communication skills
+Professional internship experience plus a history of involvement
+in school and community activities
+Confidence, humility, and a commitment to excellence and
+professional growth"
+Palantir,Tuesday,9/18/2018,R&D Bioinformatics Fellowship,Website,Washington,Health,Full Time,"A recently completed Ph.D in a scientific field, or candidates pursuing a Ph.D in a scientific field
+Research and course work demonstrating a familiarity with and an aptitude for data and statistics
+The ability and desire to self-direct
+Experience working with large-scale biological data (e.g. RNA- seq, single cell-seq, ATAC-Seq, Screening data, etc)
+Excellent communication skills, and the ability to collaborate effectively across a team of engineers and biologists, chemists and clinical researchers
+Coding / Scripting experience. Fellows do not need to be a computer scientist, but must be able to use scripting languages to accomplish analytical goals"
+LDEO of Columbia University,Tuesday,9/18/2018,Computational Technology Internships – Fall 2018,Website,New York,Technology,Internship,"Currently enrolled as a full-time undergraduate or masters student in Computer Science, Engineering, or Data Science. Columbia University students strongly preferred.
+At least two years of coding experience (formal or informal) in one or more languages commonly used in scientific computing (e.g., Python, R, Matlab, or Fortran).
+Some experience with version control, test-driven software development, continuous integration, and other modern best practices in scientific software.
+A desire to solve real world problems!"
+City of NY – Commission on Human Rights,Friday,9/21/2018,Data Analyst,Website,New York,Government,Full Time,"Familiarity with maintaining, creating, and troubleshooting case tracking systems and
+databases in a legal context, including but not limited to e-discovery or other systems
+that contain sensitive and confidential information.
+Familiarity with managing data for legal organizations.
+Knowledge of data models, database design development, data mining and
+segmentation techniques.
+Strong knowledge of and experience with reporting tools such as Excel, SQL, Python,
+R, PowerBI.
+Strong statistical and analytical skills with the ability to collect, organize, analyze, and
+disseminate significant amounts of information with attention to detail and accuracy.
+BS in Mathematics, Computer Science, Information Management or Statistics
+preferred.
+Commitment to and experience serving the diverse communities of New York City.
+Well-organized, assertive, and able to work independently and collaboratively.
+Strong work ethic.
+Excellent attention to detail and organizational skills.
+Strong oral and written communication skills.
+Strong people skills and leadership skills.
+Fluency in a language other than English, preferably one common in New York City.
+Proven working experience as a data analyst or business data analyst."
+"NYC Department of Citywide Admin Services, Division of Energy Management",Friday,9/28/2018,Data Manager,Website,New York,Government,Full Time,"DEM seeks to hire a Manager, Load Management Analytics to work within the Load Management (“LM”) unit. This unit oversees Demand Response (“DR”), Load Management (“LM”), and Real-Time Metering (“RTM”) efforts in City buildings. The Load Management Analytics Manager will be responsible for developing and providing analytics and operational support for LM and DEM, including working closely with DEM’s O&M and M&V teams. 
+
+The Analytics Manager will report to the Director of Load Management and Utility Affairs. S/he will help use RTM data to analyze potential and actual energy savings realized through operational improvements."
+Big League Advance,Friday,9/28/2018,Data Scientist,Email,New York,Technology,Full Time,"Data scientist - predictive modeling. The role is some combination of statistician/mathematician/machine learning. We are looking for someone with significant experience in predictive analytics, proficient in R and/or Python, and with SQL experience.  Graduate degree in Statistics, Machine Learning, Mathematics, Computer Science, Econometrics or similar degree. Sports analytics experience preferred, but not required. A creative problem solver and critical thinker, attentive to detail.
+
+ 
+
+Data engineer. We are looking for someone with significant experience in building data pipelines—extraction, automated cleaning, data modeling, and storage. Candidate must be comfortable working in a modern, cloud-based ecosystem, and adept with relational databases and at least one general purpose programming language.  "
+Mercer,Friday,9/28/2018,Workforce Strategy & Analytics – Sr. Analyst,Email,New York,Technology,Full Time,"Master’s in economics, I-O or related psychology or labor relations, statistics or data science related field;
+PhDs with strong quantitative backgrounds will be also be considered for more senior roles
+Demonstrable record of conducting complex empirical analyses
+Exceptional analytical and problem-solving skills
+Exceptional statistical background, especially in multiple regression analysis and inferential statistics
+Expert in working with large data sets
+Self-direction and self-motivation (must be fully able to work without supervision)
+Solid interpersonal skills - ability to work closely with other team members and handle sensitive client
+interactions is crucial
+Supervisory or training experience is highly valued"
+Columbia Business School,Friday,9/28/2018,Staff Associate & Research Staff Associate,Email,New York,Finance,Full Time,"Columbia Business School is seeking to hire a staff officer of research. The Research Staff Associate will take an active role in on-going research projects in the Management Division. The work will include quantitative and qualitative research and analysis, collection, coordination and management of information and data, development of research materials (figures, presentations, papers, etc.), and work on special projects relating to what fields of research within the division.  This position provides an opportunity to gain experience in academic business research, with a special focus on fields such management, statistics, data science, and economics; and, would be ideal preparation for a PhD program or other graduate study."
+Modern Meadow,Friday,9/28/2018,Data Scientist,Website,New York,Health,Full Time,"5+ years experience as a multi-faceted software engineer
+Strong back-end orientation and experience architecting schemas and building databases 
+Experience with scripting languages and building and maintaining data pipelines
+Possess good organizational, communication, analytical and technical writing skills
+Experience working with scientists on R&D systems would be beneficial
+Background in machine learning / data science / statistics
+Exceptional multitasking skills, attention to detail and ability to work independently Excellent communication and presentation skills. ? Self-motivated, passionate and comfortable working in a fast-paced environment. ?"
+Purchase Order Financing Startup,Friday,9/28/2018,Co-founder and Head of Risk,Email,New York,Finance,Full Time,"Background in quantitative risk management 
+Experience in data mining or data analytics
+Experience in loss forcasting"
+S&P Global,Friday,9/28/2018,Data Scientist,Onsite,New York,Finance,Full Time,"The Data science team is a newly formed applied research team within S&P Global Ratings that will be responsible for building and executing a bold vision around using Machine Learning, Natural Language Processing, Data Science, knowledge engineering, and human computer interfaces for augmenting various business processes."
+Bloomberg,Friday,9/28/2018,Summer 2018 Internship,Website,New York,Finance,Internship,"Take ownership of projects under the guidance of your mentor
+Be a collaborative member of your team
+Have a deep understanding of data structures and algorithm
+Be an excellent problem solver
+Have programming experience in C, C++, Java or Python
+Have a minimum GPA of 3.0
+Be working toward a BA, BS, MS or PhD in Computer Science"
+Recurve Asset Management,Friday,9/28/2018,Fall Intern,Email,New York,Finance,Internship,"Pursuing a Masters or PhD in Mathematics, Financial Engineering, Computer
+Science, Data Science, Statistics (or a related subject)
+Programming skills in Python, R, MATLAB or similar programming languages.
+Strong analytical and quantitative skills
+Previous hands-on experience in quantitative research, data science and
+predictive modelling (Experience of working on real-world datasets is highly
+desirable).
+Ability to take ownership of projects, with a strong focus on quality and accuracy
+Demonstrated interest in financial markets and systematic trading
+Finance experience is not required."
+Graham Capital Management,Friday,10/5/2018,Fall Data Science Intern,Website,New York,Finance,Internship,"As a Data Scientist Intern, you will work with a trading team within a multi-billion macro hedge fund. You will conduct a specific data science project using your skills in programming, statistics and natural language processing. The project will require you to: automate data collection & cleaning process, conduct data analysis, generate meaningful outputs and standardize certain analytical processes to put into production. You will have the opportunity to apply your data science skills to solve a real-world finance problem and gain exposure to global financial market."
+IBM – Chief Analytics Office,Friday,10/5/2018,Data Science Summer Intern,Onsite,New York,Technology,Internship,"BA/BS in Data Science, Machine Learning, Statistics, or related STEM field
+Proficiency in Python, R, SQL or another programming language
+Experience or coursework in machine learning and/or natural language processing
+Statistical modeling through software (e.g. SPSS) or programming language (e.g. Python)
+Understanding of database and analytical technologies in the industry
+Demonstrated ability to think strategically about business, product and technical
+challenges in an enterprise environment
+Excellent oral and written communication skills
+Ability to collaborate in a team environment
+Live or be willing to relocate to New York"
+Johnson & Johnson,Friday,10/5/2018,Multiple Full Time Roles,Onsite,New York,Health,Full Time,"The R&D Data Science team within Janssen is looking for an outstanding senior scientist who is interested in designing, developing, and fielding impactful data science solutions. Our team supports projects from discovery through late development. The senior scientist will help identify viable data science opportunities and then conceive, develop and implement end to end data analytical solutions. There are many ways to explore and analyze data, and this drives the excitement and passion of data scientists at Janssen as many teams are eager to leverage data to drive scientific innovation. The senior scientist will be someone who stays on the cutting edge of the data science field in order to implement novel algorithms that influence decisions at various levels in the organization. The role requires both a broad knowledge of existing machine learning algorithms and creativity to invent and customize when necessary. The senior scientist will be part of a dynamic, accomplished team that supports multiple R&D therapeutic areas in the discovery and development of innovative medicines."
+PepsiCo,Friday,10/5/2018,eCommerce Spring/Summer Data Science Intern,Onsite,New York,Ecommerce,Internship,"Master’s degree completed within one (1) year of internship completion
+Minimum 1-3 years’ experience/familiarity with SQL and Python (Tensorflow experience preferred)
+Experience developing deep learning systems (software release experience preferred)
+Understanding of deep reinforcement learning systems
+Experience in market data science modeling and analysis. eCommerce / Digital space experience preferred
+Demonstrated problem solving skills
+Highly organized with careful attention to detail
+Ability to work and influence cross-functionally
+Excellent verbal and written communication skills, especially when talking about business implications of
+technical capabilities.
+Embodies entrepreneurial mindset and key values of having a bias for action, results-oriented, community-
+focused, and prioritization of people."
+Blackstone,Friday,10/5/2018,Data Scientist – Full Time,Email,New York,Finance,Full Time,"Undergraduate degree from a top-tier university required
+2-7 years of relevant experience in a data-driven professional setting
+Proficiency in multiple programming and querying languages, including Python and SQL
+Familiarity with big data analytical techniques and cloud technologies including Amazon
+Web Services (AWS)
+Foundation in statistics and mathematics
+Comfortable working with, and combining, disparate and diverse data sources
+A strong intuition for analytical methodologies and desire to solve novel technical
+challenges
+Excellence in balancing multiple projects and efficiently meet goals in a fast-paced
+environment
+Strong written and verbal communication
+Ability to work independently as well as on a team
+No previous experience in the financial services industry is required"
+SecurityScorecard,Friday,10/5/2018,"Senior Product Manager, Analytics",Website,New York,Technology,Full Time,"Customer centric and highly analytical
+Able to communicate about and make decisions related to data science concepts
+Experience or strong interest in Cyber Security"
+Foot Locker,Wednesday,10/10/2018,DATA SCIENTIST,Website,New York,Technology,Full Time,"Advanced SQL skills and is comfortable operating with relational data models and structure.
+Advanced skills with NoSQL databases and can interact with large amounts of data stored in a Hadoop environment.
+Is capable of accessing data via a variety of API/RESTful services.
+Advanced programming skills in either R, Python, or similar analytical language.
+Intermediate knowledge of Linux and Bash. Can interact with the OS at the command line and create shell scripts to automate workflows.
+Experience with state of the art techniques such as AI and Deep Learning.
+Advanced knowledge of Apache Spark.
+Intermediate knowledge of cloud environments such as AWS and Azure.
+Intermediate understanding of software development and collaboration, including experience with tools such as Git.
+Exceptional written and verbal communication skills, comfortable presenting in front of large audiences.      
+A basic understanding of Agile methodologies and continuous delivery.
+Excellent data visualization skills, is able to determine the appropriate visualization for a variety of data types and create compelling stories with data.
+An advanced understanding of supervised and unsupervised learning techniques including; variable selection, feature engineering, model generation, model diagnostics, and deployment.
+Excellent statistical skills that are grounded in a thorough understanding of testing and frequentist/Bayesian methodologies.
+A proven track record of leading successful projects and driving measurable, viable results using Data Science techniques."
+Foot Locker,Wednesday,10/10/2018,PRINCIPAL DATA SCIENTIST,Website,New York,Technology,Full Time,"Advanced SQL skills and is comfortable operating with relational data models and structure.
+Advanced/expert level skills with NoSQL databases and can interact with large amounts of data stored in a Hadoop environment.
+Advance skills with accessing data via a variety of API/RESTful services.
+Advanced/expert level programming skills in either R, Python, or similar analytical language.
+Strong knowledge of Linux and Bash. Can interact with the OS at the command line and create shell scripts to automate workflows.
+Advanced knowledge of Apache Spark.
+Strong knowledge of cloud environments such as AWS and Azure.
+Experience with popular Deep Learning frameworks such as Tensorflow, Keras, or Caffe.
+Advanced understanding of software development and collaboration, including experience with tools such as Git.
+Excellent written and verbal communication skills, comfortable presenting in front of large audiences.      
+Can effectively and succulently decompose highly complex findings to non-technical audiences.
+Excellent data visualization skills, is able to determine the appropriate visualization for a variety of data types and create compelling stories with data.
+An advanced understanding of supervised and unsupervised learning techniques including; variable selection, feature engineering, model generation, model diagnostics, and deployment.
+Excellent statistical skills that are grounded in a thorough understanding of testing and frequentist/Bayesian methodologies.
+A proven track record of leading successful projects and driving measurable, viable results using Data Science techniques."
+Wayfair,Wednesday,10/10/2018,Data Science Summer Intern,Website,Boston,Technology,Internship,"Currently enrolled in an undergraduate, Master’s, or PhD degree program at a top-tier institution with a strong academic track record.
+Currently obtaining a Degree focused within either Statistics, Economics, Mathematics, Computer Science or other major with a heavy quantitative concentration.
+An affinity for data along with experience leveraging statistics and regression analysis is a plus.
+Experience with or an interest and ability to quickly learn SQL and Hadoop.
+Experience with or interest and ability to quickly pick-up programming skills relevant to data science such as Python and R.
+Quick learner with an analytical approach to solving problems who has good communication skills.
+Must be a hard worker who enjoys solving challenging problems in a fast-paced environment."
+Wayfair,Wednesday,10/10/2018,Operations Research Associate – Full Time,Website,Boston,Technology,Full Time,"Currently enrolled in a Master’s or PhD degree program at a top-tier institution with a strong academic track record.
+Currently obtaining a degree focused within either Operations Research, Applied Mathematics, Industrial Engineering, Computer Science or a related field.
+Strong knowledge of linear programming and mixed-integer programming
+Experience implementing models with AMPL, R, Matlab, or similar tools.
+Experience using Python, C++, Java, or similar languages.
+Familiarity with data analysis."
+Argo Group,Wednesday,10/10/2018,Data Scientist,Website,New York,Finance,Full Time,"Argo Group International Holdings, Ltd. (ARGO) is an international underwriter of specialty insurance and reinsurance products in areas of the property and casualty market. Through our operating subsidiaries, Argo Group offers a comprehensive line of products and services designed to meet the unique coverage and claims-handling needs of our clients."
+Argo Group,Wednesday,10/10/2018,Data Solutions Engineer,Website,New York,Finance,Full Time,"Argo Group International Holdings, Ltd. (ARGO) is an international underwriter of specialty insurance and reinsurance products in areas of the property and casualty market. Through our operating subsidiaries, Argo Group offers a comprehensive line of products and services designed to meet the unique coverage and claims-handling needs of our clients."
+Itemize,Friday,10/12/2018,Data Operations Lead,Email,New York,Finance,Full Time,"Bachelors and/or Master’s Degree in a relevant discipline
+3-5 years’ hands-on experience in high volume data environments
+2+ years’ experience with MySQL or other types of relational database
+The ability to measure and drive to results using a proven methodology, such as Six Sigma
+The ability generate actionable business intelligence for senior management"
+Thinkful,Friday,10/12/2018,Curriculum Writer: Data Analytics & BI,Website,New York,Technology,Full Time,"Help us tell our students the story of how to tell stories with data! As a curriculum writer, you'll design the syllabus and write learning materials for our Data Analytics and Business Intelligence program. You'll teach our students how to use tools like Excel, Tableau, and Python to analyze and visualize data in order to drive business decision-making. 
+
+"
+Mercer,Friday,10/12/2018,Workforce Strategy & Analytics – Sr. Analyst,Email,New York,Finance,Full Time,"Master’s in economics, I-O or related psychology or labor relations, statistics or data science related field;
+PhDs with strong quantitative backgrounds will be also be considered for more senior roles
+Demonstrable record of conducting complex empirical analyses
+Exceptional analytical and problem-solving skills
+Exceptional statistical background, especially in multiple regression analysis and inferential statistics
+Expert in working with large data sets
+Self-direction and self-motivation (must be fully able to work without supervision)
+Solid interpersonal skills - ability to work closely with other team members and handle sensitive client
+interactions is crucial
+Supervisory or training experience is highly valued"
+SiriusXM,Friday,10/19/2018,Spring Internships,Website,New York,Technology,Internship,"Build statistical models.
+Review weekly model trend reports.
+Complete QC requirements for model use in campaigns.
+Support design of tests for marketing.
+Produce data visualization to monitor trends.
+Complete model decks and documentation.
+Communicate with the business intelligence solutions team.
+Perform other duties as assigned."
+Care/of,Friday,10/19/2018,Data Engineer,Email,New York,Health,Full Time,"Bachelor's degree, preferably in computer science
+High proficiency with Python and SQL. You have opinions about what is Pythonic
+2+ years of experience with data modeling for a data warehouse
+2+ years of experience with engineering tools: GitHub, CI/CD, Docker, ETL frameworks (Airflow)
+Familiarity with the suite of AWS data products (Redshift, S3, Kinesis, DynamoDB)
+Bonus: experience productionizing machine learning models"
+Ipsos,Friday,10/19/2018,NLP Engineer/Scientist (NY or DC),Email,New York,Finance,Full Time,"You can utilize machine learning, neural networks and statistical models to perform Natural Language Processing.
+You want to use these skills to forecast the results of the next major election, to provide sense to happening on social media or understanding of consumer trends and opinions.
+You are very experienced programming in Python, Java or R.
+familiar with tools like spaCy, scikit-learn, NLTK, Mallet, TensorFlow, PyTorch and all the
+others that didn&#39;t come up in our Google search.
+You have created systems for pattern recognition, sentiment classification, topic extraction, and
+demographics categorization and are excited to do so again.
+You have experience implementing these systems in a cloud environment, on extremely large
+datasets or in stream analytics platforms.
+You possess an advanced degree in Computer Science, Computational Linguistics, Machine Learning or related field.
+not afraid to get your hands dirty and classify some data.
+You are comfortable working with a team of non-NLP Scientists, can explain how things work and what is and is not actually possible."
+Holly Lynch for Congress 2020,Friday,10/19/2018,Data Scientist,Email,New York,Government,Full Time, passionate about social justice and governmental reform.
+Blue Cross Blue Shield,Friday,10/19/2018,Associate Data Scientist,Website,Chicago,Health,Full Time,"We’re looking for a Data Scientist in our growing Enterprise Analytics area to develop new data science products using machine learning, natural language processing, data visualization techniques, and other forms of advanced analytics.
+
+The Enterprise Analytics team is also a Center of Excellence for data science at Blue Cross and Blue Shield of Illinois, New Mexico, Montana, Oklahoma & Texas. This person will spend approximately a quarter of their time promoting best practices in data science across the enterprise and leading and organizing technical training for the broader community."
+Blue Cross Blue Shield,Friday,10/19/2018,Data Scientist,Website,Chicago,Health,Full Time,"We’re looking for a Data Scientist in our growing Enterprise Analytics area to develop new data science products using machine learning, natural language processing, data visualization techniques, and other forms of advanced analytics.
+
+The Enterprise Analytics team is also a Center of Excellence for data science at Blue Cross and Blue Shield of Illinois, New Mexico, Montana, Oklahoma & Texas. This person will spend approximately a quarter of their time promoting best practices in data science across the enterprise and leading and organizing technical training for the broader community."
+National Aeronautics and Space Administration(NASA) - Goddard Institute for Space Studies,Friday,10/26/2018,Software Engineer,Website,New York,Government,Full Time,The successful candidate will use Python and relevant data and statistical analysis libraries to update and maintain current projects while also taking on new initiatives. The individual will be responsible for material related to the NASA Goddard Institute for Space Studies (GISS) Temperature Analysis (GISTEMP) and will support local science teams at GISS as well as various educational institutions and government agencies.
+Unilever,Friday,10/26/2018,Data Scientist,Email,New York,Technology,Full Time,"Technical depth, operational breadth and demonstrated fluency in applying statistics/data
+analytics in scientific research.
+Hands-on technical expertise in data management and visualization
+Strong technical background in multivariate statistical methods e.g. PCA, PLS and machine learning methods and designing simulations (knowledge of Bayesian Methods a plus).
+Good understanding of the underlying principles/best practices to build and validate predictive
+models. Relevant experience is a plus.
+Experience working with and creating data architectures.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning,
+artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Strong expertise in Design and Analysis of Experiments (DOE)
+Hands-on experience with professional statistical software such as SAS, R and JMP.
+Familiarity with Azure Platform and computer programming skills will be considered a plus.
+Eexperience using statistical computer languages (R, Python, SLQ, etc.) to manipulate data
+and draw insights from large data sets.
+Knowledge of product development processes including packaging and manufacturing
+Strong problem-solving skills with focus on business delivery
+Strong interpersonal skills; strong oral and written communication skills.
+Ability to collaborate and consult effectively in global teams across time-zones and cultures
+A drive to learn and master new technologies and techniques
+Ability to work with uncertainty and to create and manage change"
+Swiss Re,Friday,10/26/2018,Analytics Specialist (Data Scientist),Website,New York,Finance,Full Time,"Masters Degree or PhD in Computer Science, Math, Physics, Engineering, Computational linguistics, Statistics or other technical field.
+Analytical & conceptual skills to understand key business needs and design tailored solutions to solve specific business problems.
+Proficiency in relational databases and SQL.
+Experience with a statistical package such as R, MATLAB, SPSS, SAS and Stata etc.
+Experience in at least one scripting or programming language (Python, Perl, Java etc.).
+Experience with large data sets and distributed computing (Hive/Hadoop) a plus.
+Knowledge and experience in areas such as information retrieval, natural language processing, data analytics and information visualization.
+Experience doing quantitative analysis a plus.
+Basic understanding of statistical analysis.
+2+ years of experience in relevant areas of advanced analysis.
+Good Communication Skills.
+Ability to communicate complex problems with clarity and effectiveness.
+Ability to initiate and drive projects to completion with minimal guidance.
+Team leader/player with a ""can do"" attitude.
+Ability to adapt to a flexible work environment.
+Experience working with financial service or internet companies a plus.
+Excellent verbal and written English. Multi-lingual a plus.
+Willingness to travel a plus."
+Swiss Re,Friday,10/26/2018,Interns@swissre 2019 - Data Scientist Intern ,Website,New York,Finance,Internship," Pursuing a Master's Degree in data science/analytics, computer science, computational linguistics or related field.
+Analytical & conceptual skills to understand key business needs and design tailored solutions to solve specific business problems.
+Exposure to with relational databases and SQL
+Exposure to a statistical package such as R, MATLAB, SPSS, SAS and Stata etc.
+Exposure to at least one scripting or programming language (PHP, Python, Perl, Java etc.).
+Experience with large data sets and distributed computing (Hive/Hadoop) a plus.
+Exposure to cognitive technology
+Exposure or experience in areas such as information retrieval, natural language processing, data analytics and information visualization.
+Basic understanding of statistical analysis. Ancillary Requirements
+Good Communication Skills.
+Team leader/player with a ""can do"" attitude.
+Ability to adapt to a flexible work environment.
+Exceptional academic performance (minimum 3.25 GPA)"
+HOVER,Friday,10/26/2018,Multiple Data Roles,Website,San Francisco,Technology,Full Time,"Strong expertise in Python and SQL
+Ad-tech or Marketing-tech experience
+Experience managing a data warehouse
+Experience with orchestration tools such as Airflow or Luigi and data quality frameworks such as dbt
+Pluses:
+Ruby-on-Rails knowledge to work in our backend codebase
+Experience managing pieces of our current toolset of Alooma, Segment, Snowflake and Tableau"
+BNP Paribas Group – The Innovation Lab,Tuesday,10/30/2018,Summer Internship,Email,New York,Finance,Internship,"Ability to use mathematical techniques to draw inferences and solve business issues.
+Strong technical experience and applied knowledge of traditional machine learning algorithms and deep learning frameworks
+Experience in some of the major programming languages (Python, Java…), statistical software (R, Pandas, ..) and data wrangling tools (SQL)
+Experience with source control and release management (Git)
+Positive, energetic, flexible and self-motivated team player with strong organizational skills
+Excellent verbal and written communication skills and proficiency to interact professionally
+Very strong work ethic and ability to deal with confidential information"
+Deutsche Bank,Tuesday,10/30/2018,Global Markets Graduate Program,Website,New York,Finance,Full Time,"Undergraduate and Masters’ students with less than 12 months’ work experience, graduating between December 2018 and June 2019"
+Deutsche Bank,Tuesday,10/30/2018,Global Markets QUANT Graduate Program ,Website,New York,Finance,Full Time,"Undergraduate and Masters’ students with less than 12 months’ work experience, graduating between December 2018 and June 2019"
+Deutsche Bank,Tuesday,10/30/2018,Global Markets QUANT Internship  ,Website,New York,Finance,Internship,"Undergraduate and Masters’ students with less than 12 months’ work experience, graduating between December 2018 and June 2019"
+Noble Desktop,Thursday,11/1/2018,January Bootcamp Instructor,Website,New York,Technology,Internship,The job will entail teaching a class of 10 undergraduate students Python for Data Science. The course runs from 10am – 5pm on Jan 14-18– with a one hour lunch in Midtown. The job entails teaching the students the basics of Python and moving into Pandas & Matplotlib. Most of the curriculum will be curated for you and there is no grading.
+Ianuly Talent Accelerators,Monday,11/5/2018,Data Analyst,Website,New York,Technology,Full Time,"They're a small team, and you'd be the data analyst, so you'd have to be comfortable with that kind of environment, and really comfortable with Python. They also prefer someone who's experienced with people-oriented data."
+CNA Corporation,Friday,11/9/2018,Data Scientist,Website,Washington,Technology,Full Time,"Education: Minimum Master’s degree in a relevant field or equivalent experience, PhD preferred.
+Experience: Typical minimum requirements 5+ years of experience in research and analysis.
+Skills: Skilled in programming, statistics, machine learning, machine learning, and data visualization Ability to work on progressively more difficult projects/analyses, including directing portions of large research projects or small to medium projects under general supervision; Ability to operate independently and proactively in the execution of assignments; Ability to work in a multi-disciplinary environment; Strong critical thinking skills; Knowledge of research techniques; Strong planning and organizational skills; Excellent interpersonal skills; Strong and effective oral and written communication skills; Ability to interact directly and effectively with clients and influence their decisions.
+Other: Ability to obtain and maintain an Active Secret Security Clearance."
+BARK,Friday,11/9/2018,Data Scientist,Website,New York,Technology,Full Time,"3+ years' experience writing readable code to handle varied and complex data
+Breadth of knowledge in statistical concepts and techniques, particularly inference / hypothesis testing
+Excellent proficiency in SQL and a high level open-source language such as Python, R, or Scala
+Moderate grasp of bash / Linux
+Demonstrated aptitude and appetite for picking up new technologies
+Sharp analytical mind with attention to detail and nuance
+Excellent written and verbal communication and interpersonal skills
+Passion for growing and strengthening a business using data driven approaches"
+BARK,Friday,11/9/2018,Data Engineer / Data Systems Architect,Website,New York,Technology,Full Time,"Expert in at least one programming language, comfortable with learning new ones
+Adept at picking up new technologies and evaluating them against business requirements
+Strong experience with traditional relational databases, including writing SQL, schema modeling, performance tuning, and query optimization
+Understanding of Data technologies, algorithms, and design patterns
+Experience working with Data Frames, with a passion to grow in this area
+Comfortable with data structures, distributed systems, and fault tolerant systems design
+Excellent grasp of AWS and cloud computing
+Self-starter, positive attitude with an emphasis on supporting the team and achieving long term goals"
+Urbint,Friday,11/9/2018,Senior Machine Learning Engineer,Website,New York,Technology,Full Time,"Masters in a science (e.g. Biology, Physics) or quantitative discipline (e.g. Statistics, Mathematics, etc.)
+5+ years of relevant experience and depth of knowledge via data ­intensive roles
+Experience with geospatial data
+Experience with applied and scalable ML (e.g. MapReduce, Spark Streaming, Kafka)
+You are practiced at linear algebra and mathematics programming for production use
+Familiarity with r and/or python libraries (scikit-learn, pandas, and numpy a plus. Bonus points for XGBoost, Tensorflow and/or MxNet)
+Proven experience delivering analytics (scoping, modeling, interpreting, presenting)
+Comfort with ambiguous problems and undefined solutions
+Ability to work on teams and articulate technical solutions"
+Child Mind Institute,Friday,11/9/2018,"Data Analyst, Center for Developing Brain",Website,New York,Technology,Full Time,"Bachelors or Master’s degree in computer science, neuroscience, engineering, mathematics, statistics or related areas is preferred
+Extensive programming experience in one or more open source languages (e.g., Python, R)
+Experience with neuroimaging analysis and proficiency with one or more packages (e.g. FreeSurfer, AFNI, FSL, Workbench or SPM) is a plus, but not required.
+A passion for the applying computational methods to understand clinical conditions.
+Strong interpersonal skills, as well as strong written and oral communication
+Ability to work in a fast-paced environment
+Ability to work as a member of a team as well as independently
+Passion for CMI mission"
+Amazon,Tuesday,11/13/2018,Business Intelligence Engineer,Email,Seattle,Technology,Full Time,"Bachelor’s Degree
+1+ years of experience working with large scale cross-functional teams.
+1+ years of supply chain or operations project management
+Proven proficiency in analytical problem solving (excel)
+Basic SQL understanding"
+BD,Tuesday,11/13/2018,Healthcare Analytics Consultant - Client Optimization,Email,San Francisco,Technology,Full Time,"Our team is looking for a Healthcare Analytics Consultant that can develop actionable research questions, analyze datasets, define meaningful features, and support the development of an analytics platform. The ideal candidate will be an analytically-driven team player, with excellent attention to detail who wants to explore customer experience improvement opportunities. This position will be responsible for building client-facing custom reports, dashboards, and automate the tracking of client performance during optimization efforts."
+John Jay College,Tuesday,11/13/2018,Data Manager,Email,New York,Technology,Full Time,"Applicant must have a PhD and previous experience in the management of large and complex datasets and
+with statistical analyses using R, SPSS, Excel, MPlus, SAS, and/or Stata. A person with a Master’s degree
+but with extensive experience in data management and statistics will be considered. Past interest in child
+maltreatment and/or aging research or willingness to develop this expertise will be given preference."
+John Jay College,Tuesday,11/13/2018,PostDoctoral Fellow,Email,New York,Technology,Full Time,"PhD in psychology or related discipline
+Expertise in statistical analyses and software (R, SPSS, Excel, MPlus, SAS, and/or Stata)
+Established interest in child maltreatment and/or aging
+Demonstrated capacity in scholarly research, as evidenced by publications and/or research
+experience
+Strong written and communication skills"
+Bain,Tuesday,11/13/2018,Advanced Analytics Specialist,Website,Boston,Technology,Full Time,"A Master’s Degree or Ph.D. in in a quantitative discipline such as Statistics, Mathematics, Engineering, Computer Science, Econometrics, Business Analytics, or Market Research.  0-3 years work experience, although previous experience in a related field is a plus. 
+Strong experience with R, SPSS, and/or SAS, including syntax or scripting languages.
+Experience working with SQL and relational databases such as Microsoft SQL Server, Oracle, MySQL or similar databases is a plus.
+Knowledge of a variety of statistical and data mining techniques including but not limited to: multivariate and logistic regressions, decision trees (e.g. CHAID/CART), latent class analysis and other clustering techniques, time series analysis, factor analysis, multi-dimensional scaling, and maximum difference scaling (MaxDiff).
+The ideal candidate may also have other complimentary skill sets including:
+Experience with Alteryx, Tableau, or other advanced analytical tools.
+Knowledge of programming languages (e.g., Python, JAVA).
+Experience with tools in the Big Data domain (e.g., Spark, NoSQL, Azure/AWS).
+Strong analytical, mathematical, interpersonal, and communication skills.
+Must thrive in a fast-paced environment and be able to work independently.
+Some travel required
+Fluent in English
+Start date in early or mid 2019"
+JPMC,Tuesday,11/13/2018,"Data Scientist Associate, Workforce Analytics",Website,New York,Finance,Full Time,"WFA Advanced Analytics is responsible for leveraging large quantities of people-related data to assist HR executives, business partners, and employees make data-driven decisions. This position will focus largely on machine learning and natural language processing (NLP) applied to large amounts of open-text data from a variety of JPMC-wide sources, including Exit Interview surveys, Employee Opinion surveys, Culture & Conduct surveys, and other employee pulse polls. The Data Scientist will utilize experience exploring data, applying advanced statistical techniques, and designing machine learning algorithms to create innovative products that provide value to the company and its people. S/he will collaborate with HR Technology, Workforce Analytics Data Engineering, and other subject matter experts to build robust data pipelines, and will play a key role in improving the analytics infrastructure for WFA. The Data Scientist will report to the Head of WFA Advanced Analytics and join a highly agile cross-functional team that leads some of the most critical analytics projects in HR, including reporting and analytics deliverables for the firm-wide and HR Operating Committees."
+Two Sigma,Tuesday,11/13/2018,Quantitative Researcher – Summer Internship,Website,New York,Finance,Internship,"Are pursuing a degree in a technical or quantitative disciplines, like statistics, mathematics, physics, electrical engineering, or computer science with approximately one year remaining in your programs (all levels welcome, from bachelor’s to doctorate) 
+Demonstrate intermediate skills in at least one programming language (like C, C++, Java, or Python)
+Performed an in-depth research project, examining real-world data
+Are an independent thinker who can creatively approach data analysis and  communicate complex ideas clearly"
+Mercer,Tuesday,11/13/2018,Workforce Strategy and Analytics – Senior Analyst,Email,New York,Finance,Full Time,"Master’s in economics, I-O or related psychology or labor relations, statistics or data science related field;
+PhDs with strong quantitative backgrounds will be also be considered for more senior roles
+Demonstrable record of conducting complex empirical analyses
+Exceptional analytical and problem-solving skills
+Exceptional statistical background, especially in multiple regression analysis and inferential statistics
+Expert in working with large data sets
+Self-direction and self-motivation (must be able to work without supervision)
+Solid interpersonal skills - ability to work closely with other team members and handle sensitive client
+interactions is crucial
+Supervisory or training experience is highly valued"
+Consensys,Wednesday,11/21/2018,4 Month Research Role,Email,New York,Technology,Internship,"The research role will also lean on and prioritize the properties of verifiability, soundness, unrecastability, convenience, fairness and anonymity. The hardest property to attain is usually Uncoercibility in combination with the other properties, which we may not be able to attain given the very nature of our current technical approach.
+
+ 
+
+The background of the researcher should be academic in nature and generally familiar with complex maths and computer science, with some general knowledge of game theory and cryptographic systems such as blockchains."
+Cardano,Wednesday,11/21/2018,Fellowships,Email,New York,Finance,Internship,"Throughout the residency period, the selected fellows will work with SOSV and EMURGO leadership, publish regular updates on their progress, participate in events, and receive access to development resources, mentors and program partners. We’ll work with fellows early on in the process to establish goals, and make sure they’re getting the help and support they need to be successful. In addition to the core topic that the fellowship is exploring, fellows will also be expected to explore areas of overlap and work with resident accelerator companies."
+Bell Labs,Wednesday,11/21/2018,Part-Time Coop Intern – Spring 2019,Email,New York,Technology,Internship,"We are looking for a part-time co-op intern to work on a project related to ‘Smart Data Discovery’ (SDD). The tool incorporates recent research work in the area of automated machine learning.  We are looking for somebody who is hands on, preferably have some background in statistics, to help us with improving the tool from various aspects (GUI / user interaction). The duration is 4 months from Jan 1, 2019, and 20 hours a week. Hourly pay is around 33~35$. We are located in Murray Hill, NJ. Traveling to site 2 days a week is not required, but preferred. "
+Bank of America Merrill Lynch,Wednesday,11/21/2018,Summer Associates,Website,New York,Finance,Internship,"Candidates are required to be pursuing a graduate degree (Masters or Ph.D.) from an accredited college or university with a
+graduation timeframe between December 2019 and June 2020 in a field of Quantitative Finance, Financial Engineering, or a
+related technical field that blends advanced quantitative methods with finance and economics
+Knowledge of financial derivatives including futures and options and their underlying pricing models
+Experience in managing and analyzing large data sets with advanced statistical techniques; machine learning is a plus
+Knowledge of Python or R and Excel
+Distinguished written and verbal communications skills and an ability to communicate complex ideas clearly and concisely to
+non-technical individuals
+Ability to work independently and drive toward a completed end product
+Strong attention to detail; exercise strong quality control over own work
+A passion and curiosity appropriate for research combined with an ability to rapidly drive results under uncertainty"
+ Emadri.com,Tuesday,11/27/2018,Intern,Email,New York,Ecommerce,Internship,"You have a passion for data science! We want candidates who love data science and are
+excited about what they do.
+Pursuing a MS or PhD in Statistics, Data Science, Machine Learning or a related
+quantitative discipline. Applicants must have successfully completed at least 2 semesters.
+Fluency with SQL and Python for data analysis (e.g., pandas, numpy, sklearn, ...)
+Solid understanding and experience with statistical inference and predictive analytics.
+Enthusiasm for clean code and sharing reproducible results.
+Able to work independently and share results with leadership in regular review meetings.
+Communication skills (written and oral) to work with partners on engineering, product
+and business teams.
+An eye for great data visualization (e.g., matplotlib, seaborn, plotly, ggplot, Tableau, etc.)
+For paid internships, candidates must be authorized to work in the US. For volunteering
+opportunities to gain industry experience and come up with creative, data-driven business
+insights and solutions of your own, reach out to us as well."
+Micsense,Tuesday,11/27/2018,Machine Learning & Signal Processing Expert,Email,New York,Health,Full Time,"micsense is currently looking for a machine learning and signal processing expert, with a sound understanding of audio, entrepreneurial energy and the desire to help millions of people to breath/feel better, to join this journey."
+Walmart Technology - Global Business Solutions,Thursday,11/29/2018,Data Scientist – Full Time,Email,Arkansas,Ecommerce,Full Time,"Looking for a Summer internship for 2019 where you can gain valuable real life experience, while working for the world’s largest retailer?  Walmart Corporate is seeking one intern to join the other 400+ interns this Summer.  During this 10 week period, you’ll get to work alongside industry leaders on their real-time projects, while gaining experience that will help you jumpstart your career. What’s more, it’s a paid internship, with paid relocation, and housing provided for the Summer.  And, if things go well, we’ll offer you a full time job so that you can go back to campus, finish your degree, and come to work for us full time when you finish. This position is out of our headquarters in Northwest Arkansas, and most of the full time conversion opportunities would be based there as well.  This internship specifically would be on Juan Carlos Segura’s technology team, working on driving innovation across the company by using technology.  He is looking for a Master’s student studying data science."
+Walmart Technology - Global Business Solutions,Thursday,11/29/2018,Data Science Summer Intern,Email,Arkansas,Ecommerce,Internship,"Juan Carlos Segura, a senior manager of technology, is looking for a passionate Master’s student to join his team! This student can be graduating in December 2018 or May 2019, but must be willing to relocate to Northwest Arkansas to work out of our global headquarters.  Interested in using retail data to shape business decisions across the company?  As a part of the GBS (Global Business Solutions) team, you’ll be able to use data to help influence the rest of the company and we continue to strive to help people save money, so that they can live better."

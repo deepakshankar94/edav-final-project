@@ -1,0 +1,59 @@
+Subject: 2 Career Opportunities (ADG Technology, InSITE Fellowship) + 1 On-Campus Short Project
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 9/7/2018, 1:55 PM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+Company
+	
+
+ADG Technology
+
+Title
+	
+
+Data Scientist Fall Intern
+
+Link
+	
+
+See below. To apply, send your resume to Lucy at lucy@carry1st.com.
+
+Brief Description
+	
+
+Time commitment: 10-20 hours per week
+
+ADG Technology is looking for an extraordinary university student to join our small team as we build the startup from the ground up. We're particularly interested in bringing on a sharp and hungry data scientist that will build the systems for us to collect data and draw insights about customer behavior on our platform. 
+
+Project: Our first franchise is going to be a live streamed trivia game (launching first in Nigeria and then in South Africa and Kenya). We’re really interested in understanding who our customer is and the best ways to engage with them (timing of games, how they hear about us, structure of games to maximize engagement). We want to make decisions on the product and marketing based on hard data - and are looking for someone that will (1) help us visualize and pull insights from the data we gather and (2) work with our engineers to design the backend of our product to more easily capture valuable data. 
+
+Compensation: $13/hour 
+
+
+InSITE Fellowship
+Apply to InSITE by September 19! As an InSITE Fellow, you’ll collaborate with diverse grad students to advise high-potential startups. You’ll also gain access to custom educational programming, mentorship, and a global network of alumni leaders at emerging companies and VC firms.  See attached.
+
+On-Campus Project
+Cloze Test Response Analysis
+Brief description: Analysis of different participant groups' responses to a cloze test. The project aims at presenting evidence to cross-linguistic effects of one linguistic form on another.
+Anticipated workload and duration of this project: 5hr/week for 3 weeks
+Desired outcome from Data Science Institute talent: Data analysis and display of results: need to use two way (or three way) item-based analysis of variance, taking different factors (e.g. participant group and sentence type) into account, to show differences across groups, F(?) = ? p<.?, and effects of sentence types. Also comparisons needed to show response accuracy for different groups.
+Desired technical/nontechnical skills? Familiarity with statistics and computer programs used by statisticians.
+To apply: Please email your resume and a few sentences about your fit for this project to Reem at rf2273@columbia.edu.
+Paid?  No
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu
+
+Attachments:
+InSITE - Fall 2018 Recruiting One-Pager.pdf	131 KB

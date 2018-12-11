@@ -1,0 +1,167 @@
+Subject: 5 Career Opportunities (Off the Hook Partners, Flatiron Health, Trinnacle Capital, Dia&Co, CU Nursing) + 2 On-Campus Projects
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 8/29/2018, 11:17 AM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+Company
+	
+
+Columbia School of Nursing (On-Campus)
+
+Title
+	
+
+Student Casual – Data & Visualization
+
+Link
+	
+
+See attached.
+
+Brief Description
+	
+
+Data from the patient safety climate and standard precaution surveys and observations will be pooled with HCW and HAI outcomes data and used to determine whether hospital units with better patient safety climate have better standard precaution adherence and have better HCW and patient outcomes. All multivariate analyses will be conducted at the hospital unit level of analysis and preceded by standard descriptive statistics to gain familiarity with the distributions and frequencies. Bivariate analyses will also be conducted to describe relationships among the key variables and include cross-tabulations and correlations as appropriate. Multilevel models (i.e., linear mixed models) will be used to estimate the effects of patient safety climate on standard precaution adherence and on HCW and patient outcomes after controlling hospital teaching status, bed size, rural-urban status and nursing skill mix.
+
+Company
+	
+
+Dia & Co.
+
+Title
+	
+
+Data Team Fall Intern
+
+Link
+	
+
+https://www.dia.com/careers?gh_jid=1302061  
+
+Brief Description
+	
+
+We’re looking for a data team intern to improve our understanding of who our most loyal customers are and to provide insights on how to grow customer loyalty. You will collaborate with a Machine Learning Engineer to extract, transform, explore, analyze, and interpret data. As part of the project you will stitch data together from multiple sources, create hypotheses, and perform a statistically sound analysis. At the end of the roughly 8 to 12-week internship, you will summarize your analysis and findings in a report to the entire data team.
+
+Company
+	
+
+Trinnacle Capital Advisors
+
+Title
+	
+
+Data Science Fall Internships
+
+Link
+	
+
+See attached.
+
+Brief Description
+	
+
+Trinnacle Capital Advisors is looking for two highly skilled data scientists to work on a challenging, but rewarding project. You will be working with an extremely powerful geolocation data-set to measure the performance of target companies. As we are a young, up-and-coming hedge fund you will be exposed to and see the inner workings of every aspect of a fund that you may not see at an older fund. We have worked previously with interns from the Columbia DSI program and have hired fulltime after graduation.
+
+Company
+	
+
+Flatiron Health
+
+Title
+	
+
+Data Insights Engineer (Full-Time Roles & Summer 2019 Internships)
+
+Security Engineer (Full Time Roles & Summer 2019 Internships)
+
+Link
+	
+
+https://flatiron.com/careers/open-positions/
+
+Brief Description
+	
+
+Data Insights: Data Insights is an entrepreneurial group of engineers that join Flatiron product teams to facilitate the process of market fit discovery, rapid prototyping and iteration.  We use engineering and data science tools to unlock the most value from our data. We talk with clients, work with oncology experts and code in Python, SQL, R or whatever it takes to advance our goal of dramatically accelerating cancer research and improving patient care. This mix of technical skills and client empathy allows us to accelerate our product development process and to take our products to the next level.
+
+ 
+
+Security: The security team at Flatiron works every day to protect the company against threats so that our employees can focus on helping to cure cancer. We create attack driven defenses, not compliance. We are always looking for new approaches to our work and have cultivated a meritocracy where the best ideas rise to the top of the pile. We focus on results and not just debate: in fact, we are often architects, designers and engineers (not just advisors). We build credibility through action and results.
+
+Company
+	
+
+Off the Hook Partners
+
+Title
+	
+
+Fall Data Science Internship
+
+Link
+	
+See below. To apply, send your resume to Joe at jagoods@horsehook.com.
+
+Brief Description
+	
+
+We are a horse racing investment group that is looking for students (graduate level, as well as talented undergrads) that would be interested in working on our automated wagering platform. More specifically, we maintain and analyze an extensive database of horse racing results, deploy predictive models and create various wagering protocols.
+
+We are looking for students who not only have a strong background in statistics, the ability to operate in Python and SQL, but an understanding of basic economic theory. This is a real gig, we pay for work on a project basis. You can get a little background on me and our operation here:
+
+http://www.thoroughbreddailynews.com/off-the-hooks-applebaum-wins-bcbc/
+
+https://toba.org/july-2017-member-of-the-month/
+
+We are looking for the following:
+
+1. The ability to employ deep learning techniques and optimization protocols in order to better predict the thoroughbred wagering and auction markets. A lot of what we do is akin to derivatives and portfolio theories, arbitrage, etc. maybe even some potential for time series analysis. 
+
+2. Linear Modelling from a SQL database - We have a proprietary database that requires extracting relevant data, subsequent data wrangling, analysis, and visualization - typically done in python.
+
+3. Integrative Software Development - We are looking for developers who have the ability to integrate the predictive modelling approaches from points 1 and 2 with api access and typical web protocols. Students interested in automated trading systems would be ideal.
+
+
+On-Campus Projects
+
+Mutation Carrier Analysis
+
+Brief description: We discovered a genetic mutation that greatly increases the risk of major depression disorder. This is a first for the field of depression. We now wish to determine if there is a symptomatic signature in depressed individuals with the mutation as compared to depressed individuals who do not carry the mutation. That is, is there something symptomatically unique among mutation carriers? We have scored several dozen facets of the illness for each subject in the study (a variety of symptoms, course of illness, treatment response etc). We now wish to build network graphs to assess how these variables cluster in mutation carriers vs non-carriers.
+Anticipated workload and duration of this project: 5-10 hours per week for 4-8 weeks
+Desired outcome from Data Science Institute talent: Determine if mutation carriers have a unique cluster of symptoms as compared to non-mutation carriers.
+Desired technical/nontechnical skills? Experience with using graph theory to cluster datasets.
+
+To apply: Send your resume and a paragraph about your Interest to Bradley at bradley.miller@nyspi.columbia.edu.
+Paid? No
+
+ 
+
+Microbial Metabolism Big Data Project
+
+Brief description: We are interested in understanding how microbial metabolism effects the immune system in the gastrointestinal tract. We have two avenues of big data analysis we are interested in working with Data Science Institute talent - namely analysis of 16S microbial sequencing data and RNA sequencing/transcriptomics data.
+Butyrate, a short chain fatty acid that is produced by the microbiota behaves as a HDAC inhibitor within immune cells to alter their function. In particular, butyrate promotes an anti-inflammatory phenotype within myeloid cells in the colon, which suppresses the immune response. However, it is unclear how butyrate specifically alters the entire transcriptome within myeloid cells in vivo. We have sorted three myeloid populations from the colon of mice fed control or high butyrate diet and performed RNA sequencing. From this, we hope to find key transcriptional changes and pathways caused by butyrate within specific myeloid populations.
+Further, we have performed 16S microbial sequencing on feces from animals fed nutrient sufficient and deficient diets at multiple time points. We would like to understand how the microbial communities are changing over time in response to these nutrient deficiencies. In the future, we also plan to carry or metagenomics and metatranscriptomics analysis on similar samples to understand the metabolic and functional pathways altered by this perturbation.
+Anticipated workload and duration of this project: 5hr/week for 4 weeks
+Desired outcome from Data Science Institute talent: To recover differentially expressed genes between myeloid cells sorted from mice that have been given specific diets. Analysis would include differentially expressed genes between these two groups, pathway analysis, generation of heat maps, volcano plots and other graphs to represent the data.
+-For 16S sequencing, we would like to understand how microbial communities n the intestine are longitudinally altered in response to particular nutrient deficiencies. Therefore, we'd like help carrying out differential abundance analysis and community (alpha and beta diversity) analysis and analysis that will help us understand how these communities changing altered over time in favor of particular communities over others.
+Desired technical/nontechnical skills? Bioinformatics using big datasets
+To apply: Send your resume to Nicholas & Lucille at na2697@cumc.columbia.edu; lr2868@cumc.columbia.edu.
+Paid? No
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu
+
+Attachments:
+Hessels_Student _Casual _Flyer_DSI.docx	163 KB
+Fall 2018 Data Science.pdf	67.5 KB

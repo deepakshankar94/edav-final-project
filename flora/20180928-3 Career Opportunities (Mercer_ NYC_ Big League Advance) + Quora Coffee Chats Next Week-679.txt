@@ -1,0 +1,103 @@
+Subject: 3 Career Opportunities (Mercer, NYC, Big League Advance) + Quora Coffee Chats Next Week
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 9/28/2018, 1:21 PM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+Company
+	
+
+NYC Department of Citywide Admin Services, Division of Energy Management
+
+Title
+	
+
+    FULL TIME—Manager, Load Management Analytics (New York, NY). Apply here.
+    FULL TIME—Business Systems Manager (New York, NY). Apply here.
+    FULL TIME—Data Manager (New York, NY). Apply here.
+    FULL TIME—Associate Engineer, Load Management (New York, NY). Apply here.
+
+Link
+	
+
+See links above. Since these are government roles, only US Citizens and Perm Residents can be considered.
+
+Brief Description
+	
+
+DEM seeks to hire a Manager, Load Management Analytics to work within the Load Management (“LM”) unit. This unit oversees Demand Response (“DR”), Load Management (“LM”), and Real-Time Metering (“RTM”) efforts in City buildings. The Load Management Analytics Manager will be responsible for developing and providing analytics and operational support for LM and DEM, including working closely with DEM’s O&M and M&V teams.
+
+The Analytics Manager will report to the Director of Load Management and Utility Affairs. S/he will help use RTM data to analyze potential and actual energy savings realized through operational improvements.
+
+Company
+	
+
+Big League Advance
+
+Title
+	
+
+Data Scientist
+
+Data Engineer
+
+Link
+	
+
+See below. To apply, email your resume to Jason at jrosenfeld@bigleagueadvance.com.
+
+Brief Description
+	
+
+We invest in minor league baseball players by giving them cash (not a loan) in exchange for a % of their future earnings.  Here's a recent SI article about us: https://www.si.com/mlb/2018/09/04/michael-schwimer-big-league-advance-minor-league-baseball
+
+ 
+
+Data scientist - predictive modeling. The role is some combination of statistician/mathematician/machine learning. We are looking for someone with significant experience in predictive analytics, proficient in R and/or Python, and with SQL experience.  Graduate degree in Statistics, Machine Learning, Mathematics, Computer Science, Econometrics or similar degree. Sports analytics experience preferred, but not required. A creative problem solver and critical thinker, attentive to detail.
+
+ 
+
+Data engineer. We are looking for someone with significant experience in building data pipelines—extraction, automated cleaning, data modeling, and storage. Candidate must be comfortable working in a modern, cloud-based ecosystem, and adept with relational databases and at least one general purpose programming language.   
+
+ 
+
+Company
+	
+
+Mercer
+
+Title
+	
+
+Workforce Strategy & Analytics – Sr. Analyst
+
+Link
+	
+See attached description and application instructions.
+
+Brief Description
+	
+
+About Workforce Strategy & Analytics at Mercer– we are a group that deals primarily in personnel economics: taking company specific employee level data and using econometrics to answer HR issues such as gender pay equity disparities, predicting employee turnover, produce descriptive statistics that show workforce diversity, etc. As a Senior Analyst on our team, you are expected to use SAS and/or R Studio to prep client data for analysis so experience with statistical programming software is highly desired. Analysts are also involved in the entire project life cycle and process; from initial data receipt up to client model deliverables, under the guidance of more senior Associates and Principals.
+
+
+Quora Coffee Chats - On Campus next week
+Interested in learning more about careers in Data Science? I (Eric) lead the Data Science team at Quora, and am looking to talk to students (PhD students in particular) who are interested in learning more about careers in Data Science in general and at Quora specifically. I'll be in Manhattan on Tuesday October 2nd and Wednesday October 3rd; interested students can reach me at emayefsky@quora.com and we'll try and find times that work for coffee chats, possibly in groups.
+
+Quora is a place to share knowledge and better understand the world. With more than 300 million monthly unique visitors and only 200+ employees, there's a huge opportunity for impact and growth as part of our team. Quora's data-driven product development culture leads to a large focus on experimentation and a first class Data Science team that's more than 10% of the company by headcount. You can learn more about our full time and intern opportunities at https://www.quora.com/careers/data_science.
+
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu
+
+Attachments:
+Mercer Sr Workforce Strategy Analyst Opening - NYC.pdf	205 KB

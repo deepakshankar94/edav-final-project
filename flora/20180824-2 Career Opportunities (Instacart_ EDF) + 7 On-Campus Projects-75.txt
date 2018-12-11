@@ -1,0 +1,163 @@
+Subject: 2 Career Opportunities (Instacart, EDF) + 7 On-Campus Projects
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 8/24/2018, 11:09 AM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+Company
+	
+
+Instacart
+
+Title
+	
+
+Multiple Machine Learning & Data Scientist openings
+
+Link
+	
+
+See below. To apply, send your resume to Abhay Pawar (DSI alum) at abhay.pawar@instacart.com mentioning which role you'd be interested in.
+
+Brief Description
+	
+
+About Instacart: Instacart is a San Francisco based online grocery delivery startup worth $3.4 Billion. It's the largest in US and has a reach to service 60% of households in US. Instacart is growing rapidly and is looking for Data Scientists and Machine Learning Engineers. Read about some of the cool ML/DS projects we've worked on, like this, this and this from our tech blog: https://tech.instacart.com/tagged/machine-learning
+
+ 
+
+Open Positions: 5 jobs postings for Senior Machine Learning Engineer and 5 for Senior Data Scientist. For job descriptions head to https://careers.instacart.com/openings/
+
+Feel free to send across your resume for any other positions like data engineers, software engineers, etc.
+
+ 
+
+Company
+	
+
+Environmental Defense Fund
+
+Title
+	
+
+VoLo Data Science Fellowship
+
+Link
+	
+
+https://www.edf.org/jobs/volo-data-science-fellow
+
+Brief Description
+	
+
+OCS collaborates with a wide variety of partners from researchers and academics to startups and large corporations to advance science and scale our solutions. With our air quality initiative, we have gathered high resolution spatio-temporal air pollution data and continue to do so. We have developed methodologies to analyze these data and derive meaningful insights, identifying persistent spatial air pollution trends. We are now embarking on an effort to automate and scale data analytics in the air quality domain.  The term for this position is two-years, sponsored by the VoLo Foundation.
+
+On-Campus Projects:
+
+Rwandan Genocide Analysis
+
+Brief description: Examination of the relationships of violence during the Rwandan genocide in 1994 to mental health outcomes--PTSD, Depression, Grief in the context of Rwandan culture and history; moral development  and development of empathy among survivors; role of religious belief and change in religion to each of the outcomes noted above; attitude and participation in local trials of the perpetrators of the Genocide.  The analyses will be both cross-sectional in nature --based on a 2011 (n=504)interview with a strict representative sample of Rwandan adults-- and longitudinal linking the 2011 interview with a repeat 2017 interview (86% reinterview rate).  The 2011 data have all been cleaned and have been used already as the basis for published papers.
+
+Anticipated workload and duration of this project: 5-10 hours for 10 weeks or 20 weeks or 30 weeks depending of course on scope of work the student(s)  wishes to undertake. Clearly these data are sufficient to keep 1-3 students thoroughly engaged in the project.
+
+Desired outcome: The student will be expected to produce one or more sections of a manuscript in preparation for submission to a peer review journal thereby entitling the student to authorship on the publication. The sections that I have in mind would be (a) a 1-2 page critical literature review;  (b)that part of the data analytic section providing a description of the key variables and the strategic plan for the conduct of study analyses; (c) the actual univariate and multivariate model building and testing of study hypotheses. (d)an account in the Discussion section of the Limitations and Strengths of the study.
+
+Desired technical/nontechnical skills? Intermediate and advanced familiarity, really mastery would be more correct, with one or more of the major statistical packages used for analyses of survey data, e.g., SPSS, SAS,  R, Stata, etc.
+
+Required domain knowledge, if necessary: Statistical analyses of survey data;  some knowledge of psychology, epidemiology, sociology would be helpful but not necessary. A history student with appropriate statistical skills would also be welcome.
+
+How to apply? Please send resume or CV to Richard at RN3@cumc.columbia.edu.
+
+Paid? Maybe.
+
+White Matter Degeneration in Parkinson’s Patients
+
+Brief description: This project aims to use tractographic imaging to determine the specific patterns of white matter degeneration on patients with Parkinson's disease compared to healthy controls
+
+Anticipated workload and duration of this project.: 5hrs/week for 12 weeks
+
+Desired technical/nontechnical skills? Computer programming (i.e. MatLab). No other experience required
+
+How to Apply:  Please provide CV specifying proficiency on computer programming to Nora at nv2281@cumc.columbia.edu.
+
+Paid? Maybe
+
+ 
+
+Human Right’s Institute Visualization Project
+
+Brief description: The Human Rights Institute advances international human rights through education, advocacy, fact-finding, research, scholarship, and critical reflection. It works in partnership with advocates, communities, and organizations pushing for social change to develop and strengthen the human rights legal framework and mechanisms, promote justice and accountability for human rights violations, and build and amplify collective power.
+
+We work on many projects, crossing between our four umbrella programs, different geographies, different human rights issues, different methods and strategies of work... etc. We have developed a data set (in Excel) that categorizes each project, and WOULD LOVE to translate that into visuals that make it easy for our audiences (human rights activists, students, potential donors.. etc. to search through our work, find what they're looking for, or simply, take a look and be inspired).
+
+Desired outcome: Visualizations of the Human Rights Institute's work based on thematic area, geographic scope, human rights issue, strategies used.. etc.
+
+Desired technical/nontechnical skills? Definitely people who are very strong on the design/ visual side.
+
+Required domain knowledge,: General knowledge of human rights / social justice issues is preferable.
+
+How to apply: Please send your resume and any visualization portfolio to Maya at ma3758@columbia.edu.
+
+Paid? No
+
+Bacterial Pattern Image Analysis
+
+Brief description: In our lab, we have created a 3D-printed setup which captures time lapses of bacterial pattern formation on Petri dishes (example: https://www.nature.com/articles/nrmicro2405/figures/7).  by taking images at regular intervals as bacteria grow from a small single spot to spread across the full plate. We have previously captured many timelapses and endpoint images of bacteria which form patterns naturally, such as Bacillus subtilis, Pseudomonas aeruginosa, and Proteus mirabilis. While continuing this work, we are simultaneously engineering bacteria to modify features of their pattern formation and taking timelapses of the resultant modified patterns. We are interested in exploring what can be done with these timelapses from a data science perspective. For example, can a timelapse or endpoint image of a Petri dish pattern be used to predict the species of bacterium that created it? Given an image at an early timepoint, can we predict the pattern that will be formed by a later time? Can analysis of features such as width of rings or dendrites formed, light scattering properties, speed of movement outwards, etc result in a greater understanding of the process of pattern formation, and perhaps inform future engineering? Building a program for future researchers in the lab to automate analysis of timelapses from engineered bacteria would also be helpful.
+
+Anticipated workload and duration of this project: The duration of the project should be a minimum of 5 hours a week for 10 weeks, but depending on the specific project chosen and student interest, a greater weekly workload/longer duration or ongoing collaboration may be appropriate. The student would not need to work in the lab at all, but if specific sets of timelapses/images are needed that have not already been generated in the lab, the student may want to work with current or new members of the lab who can carry out the wet lab work to generate them. Weekly or biweekly meetings with a member of the lab may be required.
+
+Desired outcome: Ultimately we would like to explore the possible ways of analyzing our images and timelapses of macroscopic bacterial pattern formation, and applications of the resulting data.
+
+Desired technical/nontechnical skills? Familiarity with analyzing images and sets of data, machine learning/deep learning experience. Basic knowledge of biology/microbiology a plus.
+
+To apply: Email  Anjali (apd2136@columbia.edu) with cover letter/resume about background, reason for interest in project, and anticipated availability weekly (eg 2 hours a week, 5 hours a week) + timeframe available to work (eg 1 semester, 1 year, longer).
+
+Paid/funded opportunity?  No
+
+
+The Sustainable Peace Project
+
+Brief description: Previous research has studied peace only in the context of conflict. The Sustainable Peace Project by the Advanced Consortium on Cooperation, Conflict, and Complexity (AC4) at The Earth Institute at Columbia University is a multi-year effort to study peace directly by determining the conditions needed to sustain peace in the world. The Initiative has already identified a set of relevant peace factors and the relationships between them. We are looking for data science collaborators to help: 1) measure the values of the peace factors from structured and unstructured data, such as intergroup activities and sentiment analysis of Twitter data, and 2) do a topic model analysis of primary anthropological sources to differentiate peaceful and non-peaceful cultures.
+
+Anticipated workload and duration of this project: 5 hrs/week for 10 weeks
+
+Desired outcome from Data Science Institute talent:
+
+1) measurement of intergroup activities such as friendships or marriages across ethnic groups, cultures, religions, 2) sentiment analysis of tweets referring to past and expected events, 3) topic model analysis to identify topics that differ in peaceful and non-peaceful cultures.
+
+Desired technical/nontechnical skills? Python or R analysis of structured and unstructured data
+
+To Apply:  Qualified candidates should submit a resume and cover letter, outlining their experience with python or R analysis of structured and unstructured data to larry.liebovitch@qc.cuny.edu and pc84@columbia.edu.
+
+Paid?  Maybe
+
+Big Data for Treating Opioid Use Disorder
+
+Brief description: Leveraging Big Data to improve the prediction, prevention and treatment of opioid use disorder
+
+Anticipated workload and duration of this project: 5-10 hours for 12-24 weeks
+
+Desired technical/nontechnical skills? Programming in R, possibly Python, statistics, machine learning
+
+To apply: Email resume/CV and any references if applicable to Sean at xsl2101@columbia.edu.
+
+Paid/funded opportunity?  Maybe
+
+
+Propensity Matching for Cardiac Procedure
+Brief description: Comparing Extracorporeal membrane oxygenation, a life saving procedure after cardiac arrest with conventional CPR using propensity matching
+Anticipated workload and duration of this project: 5 hr/week for 4 weeks
+Desired technical/nontechnical skills? STATA or SAS
+To apply: Email your resume to Sachin at sa2512@columbia.edu.
+Paid/funded opportunity? No
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu

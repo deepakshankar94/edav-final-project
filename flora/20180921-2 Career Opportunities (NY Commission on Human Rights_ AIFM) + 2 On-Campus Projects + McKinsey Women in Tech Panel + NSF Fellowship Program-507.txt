@@ -1,0 +1,123 @@
+Subject: 2 Career Opportunities (NY Commission on Human Rights, AIFM) + 2 On-Campus Projects + McKinsey Women in Tech Panel + NSF Fellowship Program
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 9/21/2018, 7:24 AM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+Company
+	
+
+City of NY – Commission on Human Rights
+
+Title
+	
+
+Data Analyst
+
+Link
+	
+
+https://www1.nyc.gov/assets/cchr/downloads/pdf/careers/Data%20Analyst.pdf
+
+Brief Description
+	
+
+The Commission’s Law Enforcement Bureau seeks a Data Analyst to spearhead a new role at the agency focusing on the development, implementation, and evaluation of data management programs and platforms, as well as overseeing data collection and promptly generating accurate internal reports to numerous business heads as needed. The Data Analyst will also advise, as needed, on data governance.
+
+ 
+
+Company
+	
+
+Quantitative Research Analyst
+
+Title
+	
+
+Boutique FCA-registered Alternative Investment Fund Manager (AIFM)
+
+Link
+	
+
+See attached.
+
+Brief Description
+	
+
+The primary responsibility of the Quantitative Research Analyst is to provide support to the portfolio manager through building and maintaining proprietary trading models, performing quantitative analysis of the global shipping market, market research and other ad hoc projects. This role is expected to work very closely with the portfolio manager in identifying projects of value through providing inputs from primarily quantitative analysis perspective.
+
+The role is expected to be self-driven and work independently as in-house expert on research and analysis.
+
+This position is based in Kingston upon Thames, England.
+
+On Campus Projects
+
+Next generation of Cloud Storage: ML for statistical data compression
+Brief description: We are seeking outstanding students to join our group for building next generation Cloud Storage systems. We have developed a novel algorithms and dynamic data structures for "global" compression of data sets (e.g., genomics, financial and weather reports). Our algorithms are based on a statistical approach to better modeling the data, combined with proprietary coding and similarity search algorithms. The project is in its early stages and it is a great time to join the journey!
+Anticipated workload and duration: Minimum of 7 hours a week
+Desired outcome from Data Science Institute talent:  Design + Implementation of proposed storage platform and compression algorithms
+Desired technical/nontechnical skills? Strong programming skills (in any language), machine learning, data structures
+To apply: Please contact Prof. Weinstein directly at omri@cs.columbia.edu.
+Paid? Maybe 
+
+Analysis of work by Murdered Mexican Journalists
+Brief description: The project consists on building an archive that contains all the works produced by journalists killed in Mexico. It will contain text, video and sound bites. Users will be able to filter its content by city, date of publication, author, and beat. This archive will be made public in a website as a searchable, open source database.
+Anticipated workload and duration:15 hr/ week for 12 weeks.
+Desired outcome from Data Science Institute talent: The DSI talent will build part of the archive by scraping the work of murdered journalists from the internet. This means scraping articles, videos, Fb posts, radio programs from diverse websites.
+Desired technical/nontechnical skills? I'm looking for someone who can scrape content from diverse websites and organize it in a database.
+This person will need to scrape from websites such as WordPress, online newspapers and magazines, and social media (Facebook, Instagram, YouTube).
+Required domain knowledge, if necessary: Spanish speaking skills.
+To apply:  Send a CV, a description of your experience with web scraping and your level of Spanish knowledge to alejandra.ibarra@columbia.edu.
+Paid? Maybe
+
+Other Opportunities
+McKinsey Women in Technology Panel
+
+We’d like to invite you to join a McKinsey Women in Technology Panel that we’ll be hosting on Monday, September 24th, 2018, from 5-6pm ET.
+
+ 
+
+Please log in at 5pm to hear a few McKinsey colleagues share a bit about their background, how they got to where they are now, their experience at McKinsey so far, and some advice they have for women in technology who are just now entering the workforce.
+
+ 
+
+Please note that we will not be sending out a calendar invite for this event, and there’s no need to RSVP.  All you have to do is set a reminder for yourself to login using the information below on the 24th.  Come prepared with any questions you might have, as we’ll save time for Q&A at the end.
+
+ 
+
+Login information for Attendees – September 24th, 5-6pm ET
+
+ 
+
+How To Join:
+
+ 
+
+    Go to:  https://mckinseyevents2.webex.com/mckinseyevents2/onstage/g.php?MTID=ed16d5d9582e5adca99b7c0410af4b6f5
+    Enter password: mckinsey
+    Enter your name (first and last) and email address
+    Click “Join Now”
+
+You will be joining the WebEx (picture and audio) via your computer, so you will not be able to speak.  If you have questions during the WebEx, please submit answers via the Q&A box on the bottom right corner of your screen.
+
+ 
+
+As a reminder, we have opportunities for Data Scientists, Data Engineers, Software Engineers, and Digital Strategy & Delivery experts.  If you are interested in pursuing one of these positions and you haven’t done so already, you will need to apply directly by October 7th, 2018 – please submit your information on our Careers page here.
+
+National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)
+
+The Graduate Research Fellowship Program (GRFP) is a National Science Foundation-wide program that provides Fellowships to individuals selected early in their graduate careers based on their demonstrated potential for significant research achievements in science, technology, engineering or mathematics (STEM) or in STEM education. Three years of support is provided by the program for graduate study that leads to a research-based master's or doctoral degree in STEM or STEM education (see Fields of Study in Appendix).
+
+The program goals are: 1) to select, recognize, and financially support, early in their careers, individuals with the demonstrated potential to be high achieving scientists and engineers, and 2) to broaden participation in science and engineering of underrepresented groups, including women, minorities, persons with disabilities, and veterans. NSF especially encourages women, members of underrepresented minority groups, persons with disabilities, veterans, and undergraduate seniors to apply. GRFP is a critical program in NSF's overall strategy to develop the globally-engaged workforce necessary to ensure the Nation's leadership in advancing science and engineering research and innovation. The ranks of NSF Fellows include numerous individuals who have made transformative breakthrough discoveries in science and engineering, become leaders in their chosen careers, and been honored as Nobel laureates.
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu

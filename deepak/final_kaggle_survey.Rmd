@@ -1,0 +1,614 @@
+---
+title: "kaggle_survey_final"
+author: "deepak"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library('tidyverse')
+library('data.table') 
+library('forcats')
+
+library('ggplot2') 
+library('corrplot')
+
+#for the maps
+library('geosphere') # geospatial locations
+library('leaflet') # maps
+library('leaflet.extras') # maps
+library('maps') # maps
+library('highcharter') # visualisation
+library('countrycode') # visualisation
+library('geofacet')
+```
+
+
+
+```{r}
+
+df_survey_mcq <-  as.tibble(fread(str_c('./data/multipleChoiceResponses.csv'),na.strings = "-1"))
+df_survey_free <- as.tibble(fread(str_c('./data/freeFormResponses.csv'),na.strings = "-1"))
+
+```
+
+
+
+#data quality 
+
+
+#visualize the na values
+```{r }
+
+
+foo <- colSums(is.na(df_survey_mcq)|df_survey_mcq == '')
+foo <- melt(foo,value.name="na_count")
+foo <- rownames_to_column(foo, "col_names")
+
+plt <-  ggplot(head(foo,30),aes(x=fct_reorder(col_names,na_count),y=na_count))+
+            geom_col()+
+            coord_flip()+
+            labs(x = "Question numbers", y = "Number of na values") +
+            ggtitle("Count of na values in MCQ survey") 
+plt
+
+```
+
+
+```{r}
+foo <- colSums(is.na(df_survey_free)|df_survey_free == '')
+foo <- melt(foo,value.name="na_count")
+foo <- rownames_to_column(foo, "col_names")
+
+plt <-  ggplot(foo,aes(x=col_names,y=na_count))+
+            geom_col()+
+            coord_flip() +
+            labs(x = "Question numbers", y = "Number of na values") +
+            ggtitle("Count of na values in Freeform survey")
+plt
+```
+
+
+
+**Insights:** Here we can see that the number of na values of the starting questions are low or zero but as they get higher the questions have very high number of na values. Which makes sense as people start leaving the parts of the form which were not required. 
+
+For the free form part of the survey we dont use the data as it is mostly empty and thus we can't draw many insightful insights from it and also that it is not very structures
+
+```{r}
+df_survey_mcq <-  as.tibble(fread(str_c('./data/multipleChoiceResponses.csv'),skip=1))
+df_survey_free <- as.tibble(fread(str_c('./data/freeFormResponses.csv'), skip = 1))
+```
+
+```{r fig.height=8}
+#clean the country variable to analyze it 
+df_survey_mcq <- df_survey_mcq %>%
+  mutate(country = `In which country do you currently reside?`)
+pop <-   df_survey_mcq %>%
+  count(country) %>%
+  filter(!(country %in% c("Other", "I do not wish to disclose my location"))) %>%
+    mutate(iso3 = countrycode(country, origin = "country.name", destination = "iso3c"))
+
+#plot the country variable
+df_survey_mcq %>%
+  group_by(country) %>%
+  count() %>%
+  ungroup() %>%
+  ggplot(aes(reorder(country, n, FUN = min), n)) +
+  geom_col() +
+  labs(x = "", y = "Number of Respondents") +
+  theme(legend.position = "none") + 
+  ggtitle("Country of Residence: US & India dominate") +
+  coord_flip()
+df_survey_mcq <- df_survey_mcq %>%
+  mutate(country = `In which country do you currently reside?`)
+pop <-   df_survey_mcq %>%
+  count(country) %>%
+  filter(!(country %in% c("Other", "I do not wish to disclose my location"))) %>%
+    mutate(iso3 = countrycode(country, origin = "country.name", destination = "iso3c"))
+```
+
+
+
+**insights from data**: Here we can see that the data is mainly from people from usa and india and also that africa as a country is very undererepresented so we migth not be able to draw a lot of conclusions for the african continent
+
+
+## Main Analysis
+
+### Analysis of the age variable
+```{r}
+
+#clean the age varaible to make is usable
+vars <- c(gender = "What is your gender? - Selected Choice",
+          gen_txt = "What is your gender? - Prefer to self-describe - Text",
+          age = "What is your age (# years)?")
+
+flvl <- c("18-21", "22-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-69","70-79","80+")
+
+df_survey_mcq <- df_survey_mcq %>%
+  rename(!!vars) %>%
+  mutate(age = fct_relevel(age, flvl))
+```
+
+
+```{r}
+
+foo <- df_survey_mcq %>%
+  group_by(gender) %>%
+  count()
+
+p1 <- foo %>%
+  mutate(percentage = str_c(as.character(round(n/sum(foo$n)*100,1)), "%")) %>%
+  ggplot(aes(gender, n)) +
+  geom_col() +
+  labs(x = "Gender", y = "Respondents") +
+  theme(legend.position = "none", axis.text.x  = element_text(angle=15, hjust=1, vjust=0.9)) +
+  ggtitle("Gender imbalance")
+p1
+
+
+
+foo <- df_survey_mcq %>%
+  group_by(age) %>%
+  count()
+
+p2 <- foo %>%
+  mutate(percentage = str_c(as.character(round(n/sum(foo$n)*100,1)), "%")) %>%
+  ggplot(aes(age, n)) +
+  geom_col() +
+  labs(x = "Age Group", y = "Respondents") +
+  theme(legend.position = "none", axis.text.x  = element_text(angle=45, hjust=1, vjust=0.9)) +
+  ggtitle("Age Groups")
+p2
+
+
+
+#plot and analyze the age and gender variable
+p3 <- df_survey_mcq %>%
+  filter(gender %in% c("Male", "Female")) %>%
+  ggplot(aes(age, fill = gender)) +
+  geom_bar(position = "fill") +
+  labs(x = "", y = "Percentage") +
+  ggtitle("Age by Gender")
+
+p3
+```
+
+
+
+**insights from the data**: We can see that there is a huge gender imbalance among the male and the female and other genders as in any STEM field. Also we know that most of the people are in the age group of 20-35 and thus showing that the field is mainly dominated by the younger generation. This makes sens as the field is relatively new and thus people just graduating would be more interested in the field
+
+Also when we compare gender and age we see that the younger generations are doing better compared to the older generations in terms of the sex ration and thus there are more women opting for data science as a career path.
+
+
+## Exploration of the country variable
+```{r }
+
+
+
+highchart() %>%
+  hc_add_series_map(worldgeojson, pop, value = 'n', joinBy = 'iso3') %>%
+  hc_title(text = 'Kaggle Survey 2018 - Global Respondents') %>%
+  hc_colorAxis(minColor = "#ffdf3f", maxColor = "#5c46ff") %>%
+  hc_tooltip(useHTML = TRUE, headerFormat = "", pointFormat = "{point.country}: {point.n} users")
+```
+
+
+**insights** As seen before from the bar chart and the map is is clear that the countries which dominate are USA,India, China, Russia, Brazil and UK. This might be due to their larger population or due to the more interest in data science from these countries
+
+
+## Exploration of the education and industry of the respondents
+
+```{r}
+
+##clean the questions which are related to the education level and degree of the respondents
+vars <- c(edu = "What is the highest level of formal education that you have attained or plan to attain within the next 2 years?",
+         major = "Which best describes your undergraduate major? - Selected Choice",
+         role = "Select the title most similar to your current role (or most recent title if retired): - Selected Choice",
+         role_txt = "Select the title most similar to your current role (or most recent title if retired): - Other - Text",
+         industry = "In what industry is your current employer/contract (or your most recent employer if retired)? - Selected Choice",
+         industry_txt = "In what industry is your current employer/contract (or your most recent employer if retired)? - Other - Text")
+
+edu_lvl <- c("Doctoral degree","Professional degree", "Master’s degree", "Bachelor’s degree",
+             "Some college/uni",
+             "High school",
+             "No answer")
+
+df_survey_mcq <- df_survey_mcq %>%
+  rename(!!vars) %>%
+  mutate(edu = if_else(edu == "Some college/university study without earning a bachelor’s degree", "Some college/uni", as.character(edu))) %>%
+  mutate(edu = if_else(edu == "No formal education past high school", "High school", edu)) %>%
+  mutate(edu = if_else(edu == "I prefer not to answer", "No answer", edu)) %>%
+  mutate(edu = na_if(edu, "")) %>%
+  mutate(edu = fct_relevel(edu, edu_lvl)) %>%
+  mutate(major = na_if(major, "")) %>%
+  mutate(role = na_if(role, "")) %>%
+  mutate(industry = na_if(industry, ""))
+```
+
+
+```{r}
+
+#visualize the country of respondents
+foo <- df_survey_mcq %>%
+  filter(!(country %in% c("Other", "I do not wish to disclose my location"))) %>%
+   mutate(country = as.character(case_when(
+    country == "United Kingdom of Great Britain and Northern Ireland" ~ "UK",
+    country == "United States of America" ~ "USA",
+    country == "Viet Nam" ~ "Vietnam",
+    TRUE ~ as.character(country)
+  ))) %>%
+  group_by(edu, country) %>%
+  filter(!is.na(major)) %>%
+  count() %>%
+  arrange(desc(n)) %>%
+  group_by(country) %>%
+  slice(c(1))
+world <- map_data("world")
+world %>%
+  filter(region != "Antarctica") %>%
+  left_join(foo, by = c("region" = "country")) %>%
+  ggplot() + 
+  geom_polygon(aes(x = long, y = lat, fill = edu, group = group), color = "white") +
+  coord_fixed(1.3) +
+  labs(fill = "") +
+  theme(legend.position = "top") +
+  theme_void() +
+  theme(legend.position = "top") +
+  ggtitle("Most common Education level")
+```
+
+
+
+**Insights from the data**: we can see that the most common level of degree required to be a data scienctist is a masters but in some countries like India ,Brazil and Australia barrier of entry is lower as more people with just a bachelors degree are joining the industry
+
+```{r}
+#visualize the undergrad major of respondents
+df_survey_mcq %>%
+  filter(!is.na(major)) %>%
+  count(major) %>%
+  ggplot(aes(reorder(major, n, FUN = min), n)) +
+  geom_col() +
+  coord_flip() +
+  theme(legend.position = "none") +
+  labs(x = "", y = "Number of Respondents") +
+  ggtitle("Undergrad Major")
+```
+
+
+**insights:** we see that as expected the most undergrad major for data science is COmputer science but we also notice that people from lot of the other majors are coming to the field as well like Mathematics, Business and physics.
+
+
+```{r}
+
+#visulaize the education level of respondents
+foo <- df_survey_mcq %>%
+  filter(!is.na(major)) %>%
+  group_by(major) %>%
+  count() %>%
+  ungroup() %>%
+  top_n(6, n)
+
+df_survey_mcq %>%
+  filter(!is.na(edu) & edu != "No answer") %>%
+  semi_join(foo, by = "major") %>%
+  count(edu, major) %>%
+  ggplot(aes(edu, n)) +
+  geom_col(fill="#79AAEF") +
+  theme(legend.position = "none",
+        axis.text.x  = element_text(angle=35, hjust=1, vjust=0.9),
+        strip.text.x = element_text(size = 7)) +
+  guides(fill = guide_legend(ncol = 2)) +
+  labs(x = "", y = "Number of Respondents") +
+  facet_wrap(~ major, ncol = 2, scales = "free_y") +
+  ggtitle("Education in top 6 fields")
+```
+
+**insights** we see that the most common degree is masters for all the undergrad majors. But a lot of the PhDs are also in this industry. Apart from we notice that the PhD are more common when joining the industry for physics major
+
+## Explorationg of data being worked on
+
+
+```{r}
+
+#clean the primary datatype columns
+vars <- c(datatype = "What is the type of data that you currently interact with most often at work or school? - Selected Choice")
+
+df_survey_mcq <- df_survey_mcq %>%
+  rename(datatype = "What is the type of data that you currently interact with most often at work or school? - Selected Choice") %>%
+  mutate(datatype = na_if(datatype, ""))
+
+
+df_country_data <- df_survey_mcq %>%
+  filter(!(country %in% c("Other", "I do not wish to disclose my location"))) %>%
+   mutate(country = as.character(case_when(
+    country == "United Kingdom of Great Britain and Northern Ireland" ~ "UK",
+    country == "United States of America" ~ "USA",
+    country == "Viet Nam" ~ "Vietnam",
+    TRUE ~ as.character(country)
+  ))) %>%
+  group_by(datatype, country) %>%
+  filter(!is.na(datatype)) %>%
+  count() %>%
+  arrange(desc(n)) %>%
+  group_by(country) %>%
+  slice(c(1))
+
+#visualize the primary datatype  attribute
+world %>%
+  filter(region != "Antarctica") %>%
+  left_join(df_country_data, by = c("region" = "country")) %>%
+  ggplot() + 
+  geom_polygon(aes(x = long, y = lat, fill = datatype, group = group), color = "white") +
+  coord_fixed(1.3) +
+  labs(fill = "") +
+  theme(legend.position = "top") +
+  theme_void() +
+  theme(legend.position = "top") +
+  ggtitle("Primary Datatype being worked with")
+```
+
+
+**insights** : looking at the data type being worked on by the people something interesting that we can notice is that China seems to be mainly working on Image data while most if the rest of the world seems to be working on numerical data. Also we see that pakistan seems to be interested in textual data more. African countries seems to be working on tabular data but these might not be representative of the complete population as the sample size is very small in african countries
+
+
+##Programming languages being used by the people
+
+
+```{r}
+
+#clean the programming language attribute
+vars <- c(lang =  "What specific programming language do you use most often? - Selected Choice",
+          first_lang = "What programming language would you recommend an aspiring data scientist to learn first? - Selected Choice",
+          lang_py = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Python",
+          lang_r = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - R",
+          lang_sql = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - SQL",
+          lang_jula = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Julia",
+          lang_bash = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Bash",
+          lang_java = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Java",
+          lang_js = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Javascript/Typescript",
+          lang_vs = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Visual Basic/VBA",
+          lang_c = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - C/C++",
+          lang_matlab = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - MATLAB",
+          lang_scala = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Scala",
+          lang_go = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Go",
+          lang_sharp = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - C#/.NET",
+          lang_php = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - PHP",
+          lang_ruby = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Ruby",
+          lang_sas = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - SAS/STATA",
+          lang_other = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Other",
+          no_lang = "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - None")
+
+df_survey_mcq <- df_survey_mcq %>%
+  rename(!!vars) %>%
+  mutate(lang = na_if(lang, ""),
+         first_lang = na_if(first_lang, ""),
+         no_lang = na_if(no_lang, "")) %>%
+  mutate_at(vars(starts_with("lang_")), as.integer) %>%
+  mutate_at(vars(starts_with("lang_")), log) %>%
+  mutate_at(vars(starts_with("lang_")), as.logical)
+
+
+lang_lvl <- df_survey_mcq %>%
+  filter(!is.na(lang)) %>%
+  mutate(lang = as.character(lang)) %>%
+  count(lang) %>%
+  arrange(desc(n)) %>%
+  .$lang
+
+first_lang_lvl <- df_survey_mcq %>%
+  filter(!is.na(first_lang)) %>%
+  mutate(first_lang = as.character(first_lang)) %>%
+  count(first_lang) %>%
+  arrange(n) %>%
+  .$first_lang
+```
+
+
+
+
+```{r}
+
+#visualize the first popular language
+foo <- df_survey_mcq %>%
+  filter(!(country %in% c("Other", "I do not wish to disclose my location"))) %>%
+   mutate(country = as.character(case_when(
+    country == "United Kingdom of Great Britain and Northern Ireland" ~ "UK",
+    country == "United States of America" ~ "USA",
+    country == "Viet Nam" ~ "Vietnam",
+    TRUE ~ as.character(country)
+  ))) %>%
+  group_by(lang, country) %>%
+  filter(!is.na(lang)) %>%
+  count() %>%
+  arrange(desc(n)) %>%
+  group_by(country) %>%
+  slice(c(1))
+
+world %>%
+  filter(region != "Antarctica") %>%
+  left_join(foo, by = c("region" = "country")) %>%
+  ggplot() + 
+  geom_polygon(aes(x = long, y = lat, fill = lang, group = group), color = "white") +
+  coord_fixed(1.3) +
+  labs(fill = "") +
+  theme(legend.position = "top") +
+  theme_void() +
+  theme(legend.position = "top") +
+  ggtitle("Primary Programming Language",
+          subtitle = "Python has conquered the world; New Zealand is the only R stronghold")
+```
+
+```{r}
+#visualize 2nd popular language
+foo <- df_survey_mcq %>%
+  filter(!(country %in% c("Other", "I do not wish to disclose my location"))) %>%
+   mutate(country = as.character(case_when(
+    country == "United Kingdom of Great Britain and Northern Ireland" ~ "UK",
+    country == "United States of America" ~ "USA",
+    country == "Viet Nam" ~ "Vietnam",
+    TRUE ~ as.character(country)
+  ))) %>%
+  group_by(lang, country) %>%
+  filter(!is.na(lang)) %>%
+  count() %>%
+  arrange(desc(n)) %>%
+  group_by(country) %>%
+  slice(c(2))
+
+world %>%
+  filter(region != "Antarctica") %>%
+  left_join(foo, by = c("region" = "country")) %>%
+  ggplot() + 
+  geom_polygon(aes(x = long, y = lat, fill = lang, group = group), color = "white") +
+  coord_fixed(1.3) +
+  labs(fill = "") +
+  theme(legend.position = "top") +
+  theme_void() +
+  theme(legend.position = "top") +
+  ggtitle("Secondary Programming Language")
+```
+
+
+**insights** : We can see that most of the world the promary language used for programming in data science is python except New Zealand. The second most popular programming language though seems to fluctuate between R which is common among most of the world. But China and Russia seems to prefer C++ as their language of choice as their secondary programming language. This might be arising from their preference to working with image data as opencv is mainly in C++.
+
+
+##Exploration of salary
+
+```{r}
+
+#visualize the education field and highest degree
+foo <- df_survey_mcq %>%
+  filter(!is.na(major)) %>%
+  group_by(major) %>%
+  count() %>%
+  ungroup() %>%
+  top_n(6, n)
+
+df_survey_mcq %>%
+  filter(!is.na(edu) & edu != "No answer") %>%
+  semi_join(foo, by = "major") %>%
+  count(edu, major) %>%
+  ggplot(aes(edu, n)) +
+  geom_col(fill="#79AAEF") +
+  theme(legend.position = "none",
+        axis.text.x  = element_text(size=13,angle=35, hjust=1, vjust=0.9),
+        strip.text.x = element_text(size = 7)) +
+  guides(fill = guide_legend(ncol = 2)) +
+  labs(x = "", y = "Number of Respondents") +
+  facet_wrap(~ major, ncol = 2, scales = "free_y") +
+  ggtitle("Education in top 6 fields")
+```
+
+```{r}
+
+#clean the variables related to salary
+sort_range <- function(df, x) {
+ x <- enquo(x)
+  df %>%
+    mutate(var = !! x) %>%
+    distinct(var) %>%
+    separate(var, into = c("foo", "bar"), remove = FALSE, fill = "right", extra = "merge") %>%
+    arrange(as.numeric(foo)) %>%
+    mutate(var = as.character(var)) %>%
+    .$var
+}
+vars <- c(exp_role = "How many years of experience do you have in your current role?",
+         salary = "What is your current yearly compensation (approximate $USD)?",
+         ml_at_work = "Does your current employer incorporate machine learning methods into their business?",
+         percent_code = "Approximately what percent of your time at work or school is spent actively coding?",
+         exp_code = "How long have you been writing code to analyze data?",
+         exp_ml = "For how many years have you used machine learning methods (at work or in school)?",
+         ds = "Do you consider yourself to be a data scientist?")
+
+
+df_survey_mcq <- df_survey_mcq %>%
+  rename(!!vars) %>%
+  mutate(salary = if_else(salary == "I do not wish to disclose my approximate yearly compensation", "Undisclosed", as.character(salary))) %>%
+  mutate(exp_code = as.factor(case_when(
+    exp_code == "I have never written code but I want to learn" ~ "0 yr; want to learn",
+    exp_code == "I have never written code and I do not want to learn" ~ "0 yr; don't want to learn",
+    TRUE ~ as.character(exp_code)
+  ))) %>%
+  mutate(exp_ml = as.factor(case_when(
+    exp_ml == "I have never studied machine learning but plan to learn in the future" ~ "0 yr; want to learn",
+    exp_ml == "I have never studied machine learning and I do not plan to" ~ "0 yr; don't want to learn",
+    TRUE ~ as.character(exp_ml)
+  )))
+
+exp_role_lvl <- sort_range(df_survey_mcq, exp_role)
+salary_lvl <- sort_range(df_survey_mcq, salary)
+percent_lvl <- sort_range(df_survey_mcq, percent_code)
+exp_code_lvl <- sort_range(df_survey_mcq, exp_code)
+exp_ml_lvl <- sort_range(df_survey_mcq, exp_ml)
+
+ds_lvl <- c("Definitely not", "Probably not", "Maybe", "Probably yes", "Definitely yes", "")
+
+df_survey_mcq <- df_survey_mcq %>%
+  mutate(exp_role = fct_relevel(exp_role, exp_role_lvl)) %>%
+  mutate(salary = fct_relevel(salary, salary_lvl)) %>%
+  mutate(percent_code = fct_relevel(percent_code, percent_lvl)) %>%
+  mutate(exp_code = fct_relevel(exp_code, exp_code_lvl)) %>%
+  mutate(exp_ml = fct_relevel(exp_ml, exp_ml_lvl)) %>%
+  mutate(ds = fct_relevel(ds, ds_lvl)) %>%
+  mutate(exp_role = na_if(exp_role, "")) %>%
+  mutate(salary = na_if(salary, "")) %>%
+  mutate(percent_code = na_if(percent_code, "")) %>%
+  mutate(exp_code = fct_relevel(exp_code, "< 1 year", after = 2)) %>%
+  mutate(exp_code = na_if(exp_code, "")) %>%
+  mutate(exp_ml = fct_relevel(exp_ml, "< 1 year", after = 2)) %>%
+  mutate(exp_ml = na_if(exp_ml, "")) %>%
+  mutate(ds = na_if(ds, ""))
+
+```
+
+
+
+```{r }
+#visualize the salary 
+df_survey_mcq %>%
+  filter(!is.na(salary) & salary != "Undisclosed") %>%
+  ggplot(aes(salary)) +
+  geom_bar() +
+  theme(legend.position = "none", axis.text.x  = element_text(angle=35, hjust=1, vjust=0.9)) +
+  labs(x = "US Dollars or Dollar Equivalents", y = "Respondents") +
+  ggtitle("Yearly salary in USD")+
+  theme_grey(16)+
+  coord_flip()
+```
+
+
+
+**insights** : We can see that the salary are maily around \$10,000  this is maily due to domination of countries like india ,china and russia as they have lower median incomes. The other bump at \$100,000 is representative of the median salary in USA as that is the other largest share of responders
+
+
+```{r}
+df_survey_mcq %>%
+  filter(!is.na(exp_code)) %>%
+  ggplot(aes(exp_code)) +
+  geom_bar() +
+  theme(legend.position = "none", axis.text.x  = element_text(angle=35, hjust=1, vjust=0.9)) +
+  labs(x = "Years of Experience", y = "Number of Recipients") +
+  ggtitle("Experience analyzing data")+
+  theme_grey(16)+
+  coord_flip()
+```
+
+
+```{r}
+df_survey_mcq %>%
+  filter(!is.na(exp_ml)) %>%
+  ggplot(aes(exp_ml)) +
+  geom_bar() +
+  theme(legend.position = "none", axis.text.x  = element_text(angle=35, hjust=1, vjust=0.9)) +
+  labs(x = "Years of experience", y = "Number of Recipients") +
+  ggtitle("Experience using machine learning")+
+  theme_grey(16)+
+  coord_flip()
+```
+
+
+**Insights**: From the data it is clear that there are more people who are new to using machine learning but most have been analyzing data for 1-2 years. 

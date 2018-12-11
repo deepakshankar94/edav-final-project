@@ -1,0 +1,93 @@
+Subject: 3 Career Opportunities (Mercer, JPMC, & Two Sigma)
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 11/13/2018, 9:07 PM
+To: DSICareers@columbia.edu
+Reply-to: rachel.cohen@columbia.edu
+
+Company
+	
+
+JPMC
+
+Title
+	
+
+Data Scientist Associate, Workforce Analytics
+
+Link
+	
+
+https://jobs.jpmorganchase.com/ShowJob/Id/152676/Data-Scientist-Associate,-Workforce-Analytics/
+
+ 
+
+This is a full time role with a January start. No visa sponsorship available for this position. Application Deadline is 11/18.
+
+Brief Description
+	
+
+WFA Advanced Analytics is responsible for leveraging large quantities of people-related data to assist HR executives, business partners, and employees make data-driven decisions. This position will focus largely on machine learning and natural language processing (NLP) applied to large amounts of open-text data from a variety of JPMC-wide sources, including Exit Interview surveys, Employee Opinion surveys, Culture & Conduct surveys, and other employee pulse polls. The Data Scientist will utilize experience exploring data, applying advanced statistical techniques, and designing machine learning algorithms to create innovative products that provide value to the company and its people. S/he will collaborate with HR Technology, Workforce Analytics Data Engineering, and other subject matter experts to build robust data pipelines, and will play a key role in improving the analytics infrastructure for WFA. The Data Scientist will report to the Head of WFA Advanced Analytics and join a highly agile cross-functional team that leads some of the most critical analytics projects in HR, including reporting and analytics deliverables for the firm-wide and HR Operating Committees.
+
+Company
+	
+
+Two Sigma
+
+Title
+	
+Quantitative Researcher – Summer Internship
+
+Link
+	
+
+https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-Bachelor-s-Master-s/4351
+
+Brief Description
+	
+
+As a quantitative research intern, you will:
+
+    Use the scientific method to develop sophisticated investment models and shape our insights into how the markets will behave
+    Apply quantitative techniques like machine learning to a vast array of datasets
+    Create and test complex investment ideas and partner with our engineers to test your theories
+
+All the while, you’ll remain engaged in the academic community. As examples, you can:
+
+    Join our reading circles to stay up to date on the latest research papers in your fields
+    Attend academic seminars to learn from thought leaders from top universities
+
+
+Company
+	
+
+Mercer
+
+Title
+	
+
+Workforce Strategy and Analytics – Senior Analyst
+
+Link
+	
+
+See attached.
+
+Brief Description
+	
+
+About Workforce Strategy & Analytics at Mercer– we are a group that deals primarily in personnel economics: taking company specific employee level data and using econometrics to answer HR issues such as gender pay equity disparities, predicting employee turnover, produce descriptive statistics that show workforce diversity, etc. As a Senior Analyst on our team, you are expected to use SAS and/or R Studio to prep client data for analysis so experience with statistical programming software is highly desired. Analysts are also involved in the entire project life cycle and process; from initial data receipt up to client model deliverables, under the guidance of more senior Associates and Principals.
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu
+
+Attachments:
+Mercer - Sr Workforce Strategy Analyst - NYC Opening-1.pdf	205 KB

@@ -1,0 +1,130 @@
+Subject: 3 Career Opportunities (Fidelity Investments, Kemnay Advisory, NYSCI) + 3 On-Campus Projects + McKinsey #HackInclusion Event
+From: Rachel Fuld Cohen <rachel.cohen@columbia.edu>
+Date: 9/13/2018, 1:37 PM
+To: Rachel Fuld Cohen <rfc2117@columbia.edu>
+Reply-to: rachel.cohen@columbia.edu
+
+
+Company
+	
+
+Fidelity Investments
+
+Title
+	
+
+Data Scientist - AI, Machine Learning, Big Data
+
+Link
+	
+
+See attached job description and application instructions. **Representatives from Fidelity will be at the DSI Career Fair on 10/10.
+
+Brief Description
+	
+
+Fidelity’s  Artificial Intelligence Center of Excellence (COE) team contributes to the vitality and growth of the organization through researching and building complex, cutting edge and scalable AI algorithms, models, platforms and technologies to significantly improve customer experience and drive business results. Our team of high caliber scientists, mathematicians and statisticians use rigorous quantitative approaches to ensure that we are efficiently building algorithms and technology relevant to the business or customer experience issue at hand.
+
+
+Company
+	
+
+Kemnay Advisory Services
+
+Title
+	
+
+Data Scientist Fall Interns
+
+Link
+	
+
+See attached.
+
+Brief Description
+	
+
+We are looking for master’s level students that have completed at least one semester of coursework to work part time when school is in session to support long/short and long only equity investment strategies. Interns will be considered for post‐graduation full time employment upon completion of an initial evaluation period. In conducting research project work, interns will have regular interaction with the portfolio manager and members of the research team who will provide guidance and feedback. Interns will also be encouraged to provide their input into formulation of next steps for projects as initial results are evaluated and areas for further inquiry are identified.
+
+ 
+
+Company
+	
+
+NYSCI
+
+Title
+	
+
+Research Associate
+
+Link
+	
+
+https://nysci.org/nysci_job/research-associate/
+
+Brief Description
+	
+
+The Research, Exhibits and Programs (REP) department includes almost 50 researchers, informal STEM educators, exhibit designers, and program and curriculum developers. We embrace and benefit from the professional and personal diversity of our team’s expertise, perspectives, and experiences. The group works in a variety of configurations to develop and implement creative, participatory learning experiences that awaken the curiosity of children, families, and teachers. The REP department team aspires to be a learning community, and to contribute to NYSCI as a learning community, through openness, curiosity, and an entrepreneurial spirit. We strive to create an informed environment through internal communications and participation in external networks of partners and collaborators.
+
+On-Campus Projects
+
+Spatial Data from Nervous System Tissue
+Brief description: How do neurons physically interact to form synaptic connections? The research project would entail extracting spatial data from a reconstructed volume of nervous system tissue. From these data, subsequent analyses and data visualization would be performed.
+Anticipated workload and duration: 5-10 hours per week.
+Desired outcome: Improve upon or devise a novel method to extract physical interactions from reconstructed image data. Develop a modular system to visualize reconstructed neurons from electron micrographs. Develop computational comparisons of neuronal contacts across different datasets.
+Desired technical/nontechnical skills? Python, Java is a plus.
+To apply: Contact Steven Cook with your resume - sjc2153@columbia.edu.
+Paid? No
+
+Pipeline Development for Optical Signals
+Brief description: The candidate's job will be setting up a pipeline for analyzing optical signals obtained form large population of neurons, then to explore possible correlation between the neuronal signal and behavior.
+Anticipated workload and duration of this project: 5-8 hours, open ended
+Desired outcome from Data Science Institute talent: Setting up, maintaining and potentially developing an analysis pipeline
+Desired technical/nontechnical skills? Programming - The candidate should be efficient with python.
+To apply: Please email your CV/Resume to gt2253@cumc.columbia.edu.
+Paid/? Maybe
+
+Stat Analysis for Survey Data - Department of otolaryngology
+Description: We are providing patients with several different surveys to fill out in the outpatient setting. There is a survey for general quality of life, a survey about their sinuses, and a survey about their sense of smell. Each survey is scored with a numerical value. Now, our goal is to compare patients who are sick to those who are feeling at their baseline and see if there is a statistical difference between the two groups in terms of the scores on their surveys.
+Timeline: This is a shorter project to support research in the department of otolaryngology.
+How to apply: If you would like to work on this, please email Chetan Safi at cys9028@nyp.org.
+Paid? No.
+
+ 
+
+Hello! We hope this email finds you well. We are helping to organize #HackInclusion, which is a global idea challenge that will be launched in 4 cities: Toronto, New York, London and Paris on Saturday, September 15. Diversio (a Canadian company) will be partnering with McKinsey and Coinbase to gather the best ideas on how to shatter glass ceiling, increase women’s inclusion in the workplace, and encourage more women’s initiatives. The best ideas will be awarded monetary prizes.
+
+ 
+
+We are looking for 15-20 bright young people to contribute their ideas. It is a great opportunity to brainstorm solutions to some of our biggest workplace challenges and share experiences. One of the highlights of the day will be a post-event McKinsey sponsored lunch where participants will be able to network with peers and consultants.
+
+ 
+
+Event details:
+
+Location: Coinbase – address will be emailed to you upon confirmation
+
+Date: 9/15 Time: 8:45am -2pm ET
+
+Registration first come first serve:  Please respond by Friday, September 14 at 12p ET.  
+
+https://www.eventbrite.ca/e/hackinclusion-challenge-nyc-tickets-49444774652
+
+
+-- 
+Rachel Fuld Cohen
+
+Assistant Director of Student Services & Career Development
+Data Science Institute
+Columbia University
+500 West 120th Street
+Room 432 (Mudd)
+New York, NY 10027
+(212)854-9325
+rachel.cohen@columbia.edu
+
+Attachments:
+MSC Intern Role 20180907-Final.pdf	91.9 KB
+Fidelity Investments - Data Scientist - Columbia University.docx	25.6 KB
